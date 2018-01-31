@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Porter, Annie
 - [ ] Rodriguez Gonzalez Guerra, Leon
 - [ ] Romaneski, Dan
-- [ ] Ruffier D'Epenoux, Edouard
+- [X] Ruffier D'Epenoux, Edouard
 - [ ] Schoenack, Ludwig
 - [ ] Sembayev, Azat
 - [ ] Seo, Johna
