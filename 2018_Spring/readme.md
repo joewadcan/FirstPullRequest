@@ -61,7 +61,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Romaneski, Dan
 - [X] Ruffier D'Epenoux, Edouard
 - [ ] Schoenack, Ludwig
-- [ ] Sembayev, Azat
+- [X] Sembayev, Azat :rocket:
 - [ ] Seo, Johna
 - [ ] Stoner, Nick
 - [ ] Swain, Tyler
