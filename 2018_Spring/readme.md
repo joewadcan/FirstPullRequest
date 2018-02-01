@@ -22,7 +22,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Cademartori, Helen
 - [ ] De Arbelaiz, Belu
 - [X] Dobrinov, Sergey
-- [ ] Efstathiou, Andrew
+- [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
 - [ ] Eidelman, Tal
 - [ ] Errazuriz, Ignacio
 - [ ] Firestone, Nick
