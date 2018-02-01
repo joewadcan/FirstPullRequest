@@ -46,7 +46,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Leung, Connie
 - [ ] Li, Bo
 - [ ] Locatelli, Federico
-- [ ] Luck, Claudia
+- [X] Luck, Claudia :sparkles:
 - [ ] Macuco, Greg
 - [ ] Mao, Biyu
 - [ ] Mitteldorf, Alex
