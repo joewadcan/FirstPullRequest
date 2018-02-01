@@ -21,7 +21,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Butrich, Diego
 - [ ] Cademartori, Helen
 - [ ] De Arbelaiz, Belu
-- [ ] Dobrinov, Sergey
+- [X] Dobrinov, Sergey
 - [ ] Efstathiou, Andrew
 - [ ] Eidelman, Tal
 - [ ] Errazuriz, Ignacio
