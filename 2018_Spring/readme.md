@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Illes, Cameron
 - [ ] Kahiri, Ben
 - [ ] Karaci, Begum
-- [ ] Khurana, Manav
+- [x] Khurana, Manav
 - [ ] King, Ryan
 - [ ] Lannquist, Ashley
 - [ ] Lee, Gene
