@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] King, Ryan
 - [ ] Lannquist, Ashley
 - [ ] Lee, Gene
-- [ ] Leung, Connie
+- [X] Leung, Connie
 - [ ] Li, Bo
 - [ ] Locatelli, Federico
 - [X] Luck, Claudia :sparkles:
