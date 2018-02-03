@@ -28,7 +28,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Firestone, Nick
 - [ ] Friedman, Ilya
 - [ ] Garrett, Zach
-- [ ] Gerngross, Gloria
+- [X] Gerngross, Gloria
 - [ ] Gonzalez-Garilleti, Chema
 - [ ] Goodacre, Monal
 - [ ] Gums, Erin
