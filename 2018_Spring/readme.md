@@ -42,7 +42,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Khurana, Manav
 - [ ] King, Ryan
 - [ ] Lannquist, Ashley
-- [ ] Lee, Gene
+- [X] Lee, Gene
 - [X] Leung, Connie
 - [ ] Li, Bo
 - [ ] Locatelli, Federico
