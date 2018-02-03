@@ -33,7 +33,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Goodacre, Monal
 - [ ] Gums, Erin
 - [ ] Gutierrez, Johnny
-- [ ] Hines, Matt
+- [X] Hines, Matt
 - [ ] Hornbeck, Chris
 - [ ] Ibarra Lopez, Rodrigo
 - [ ] Illes, Cameron
