@@ -15,7 +15,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 # Spring 2018
 
 - [X] Wadcan, Joe :rocket::rocket::rocket: 
-- [ ] Bernad, Gonzalo
+- [X] Bernad, Gonzalo :rocket:
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
 - [ ] Braszkiewicz, Anna
 - [ ] Butrich, Diego
