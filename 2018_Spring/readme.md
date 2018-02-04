@@ -32,7 +32,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Gonzalez-Garilleti, Chema
 - [ ] Goodacre, Monal
 - [ ] Gums, Erin
-- [ ] Gutierrez, Johnny
+- [X] Gutierrez, Johnny :boom::boom::boom:
 - [X] Hines, Matt
 - [ ] Hornbeck, Chris
 - [X] Ibarra Lopez, Rodrigo ;) :rocket:
