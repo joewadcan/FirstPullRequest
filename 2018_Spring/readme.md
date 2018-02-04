@@ -16,7 +16,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe :rocket::rocket::rocket: 
 - [ ] Bernad, Gonzalo
-- [ ] Blair, Nicholas
+- [X] Blair, Nicholas :rocket::sunglasses::rocket:
 - [ ] Braszkiewicz, Anna
 - [ ] Butrich, Diego
 - [ ] Cademartori, Helen
