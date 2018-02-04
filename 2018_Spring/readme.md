@@ -57,7 +57,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Petit, Yvener
 - [ ] Polsky, Noah
 - [ ] Porter, Annie
-- [ ] Rodriguez Gonzalez Guerra, Leon
+- [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
 - [ ] Romaneski, Dan
 - [X] Ruffier D'Epenoux, Edouard
 - [ ] Schoenack, Ludwig
