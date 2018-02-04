@@ -35,7 +35,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Gutierrez, Johnny
 - [X] Hines, Matt
 - [ ] Hornbeck, Chris
-- [ ] Ibarra Lopez, Rodrigo
+- [X] Ibarra Lopez, Rodrigo ;) :rocket:
 - [ ] Illes, Cameron
 - [ ] Kahiri, Ben
 - [ ] Karaci, Begum
