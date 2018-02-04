@@ -50,7 +50,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Macuco, Greg
 - [ ] Mao, Biyu
 - [ ] Mitteldorf, Alex
-- [ ] Murphy, Kelly
+- [X] Murphy, Kelly :rocket::champagne::rocket:
 - [ ] Okorn, Atim
 - [ ] Orard, Antoine
 - [ ] Ortegon Baqueiro, Roberto
