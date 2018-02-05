@@ -40,7 +40,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Kahiri, Ben
 - [X] Karaci, Begum :boom::rocket::sparkles: 
 - [x] Khurana, Manav
-- [ ] King, Ryan
+- [X] King, Ryan :rocket::rocket::rocket:
 - [ ] Lannquist, Ashley
 - [X] Lee, Gene
 - [X] Leung, Connie
@@ -70,5 +70,5 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Tully, John
 - [ ] Turbanov, Alexander
 - [ ] Vessa, James
-- [X] Warren, Alyssa :rocket:
+- [ ] Warren, Alyssa
 - [ ] Webb, Jeffrey
