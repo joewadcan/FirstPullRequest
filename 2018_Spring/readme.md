@@ -23,7 +23,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] De Arbelaiz, Belu:rocket::rocket::pizza
 - [X] Dobrinov, Sergey
 - [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
-- [ ] Eidelman, Tal
+- [X] Eidelman, Tal :pineapple:
 - [X] Errazuriz, Ignacio
 - [ ] Firestone, Nick
 - [ ] Friedman, Ilya
