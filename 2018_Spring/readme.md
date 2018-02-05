@@ -38,7 +38,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Ibarra Lopez, Rodrigo ;) :rocket:
 - [ ] Illes, Cameron
 - [ ] Kahiri, Ben
-- [ ] Karaci, Begum
+- [X] Karaci, Begum :boom::rocket::sparkles: 
 - [x] Khurana, Manav
 - [ ] King, Ryan
 - [ ] Lannquist, Ashley
