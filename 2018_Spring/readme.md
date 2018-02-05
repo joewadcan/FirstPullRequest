@@ -18,7 +18,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Bernad, Gonzalo :rocket:
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
 - [ ] Braszkiewicz, Anna
-- [ ] Butrich, Diego
+- [X] Butrich, Diego :sunglasses:
 - [ ] Cademartori, Helen
 - [X] De Arbelaiz, Belu:rocket::rocket::pizza
 - [X] Dobrinov, Sergey
