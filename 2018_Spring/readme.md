@@ -65,7 +65,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Seo, Johna
 - [ ] Stoner, Nick
 - [ ] Swain, Tyler
-- [ ] Swanson, Catherine
+- [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
 - [ ] Tully, John
 - [ ] Turbanov, Alexander
