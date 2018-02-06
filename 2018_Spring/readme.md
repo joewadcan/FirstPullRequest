@@ -47,7 +47,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Li, Bo
 - [X] Locatelli, Federico :sunglasses::sunglasses:
 - [X] Luck, Claudia :sparkles:
-- [ ] Macuco, Greg
+- [X] Macuco, Greg
 - [X] Mao, Biyu
 - [X] Mitteldorf, Alex :sunrise_over_mountains:
 - [X] Murphy, Kelly :rocket::champagne::rocket:
