@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
 - [ ] Braszkiewicz, Anna
 - [X] Butrich, Diego :sunglasses:
-- [ ] Cademartori, Helen
+- [X] Cademartori, Helen
 - [X] De Arbelaiz, Belu:rocket::rocket::pizza
 - [X] Dobrinov, Sergey
 - [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
@@ -40,7 +40,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Kahiri, Ben
 - [X] Karaci, Begum :boom::rocket::sparkles: 
 - [x] Khurana, Manav
-- [ ] King, Ryan
+- [X] King, Ryan :rocket:
 - [ ] Lannquist, Ashley
 - [X] Lee, Gene
 - [X] Leung, Connie
@@ -51,8 +51,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Mao, Biyu
 - [ ] Mitteldorf, Alex
 - [X] Murphy, Kelly :rocket::champagne::rocket:
-- [ ] Okorn, Atim
-- [X] Orard, Antoine :rocket::rocket:
+- [X] Okorn, Atim :rocket:
+- [X] Orard, Antoine
 - [ ] Ortegon Baqueiro, Roberto
 - [ ] Petit, Yvener
 - [ ] Polsky, Noah
@@ -62,10 +62,10 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Ruffier D'Epenoux, Edouard
 - [ ] Schoenack, Ludwig
 - [X] Sembayev, Azat :rocket:
-- [ ] Seo, Johna
+- [X] Seo, Johna
 - [ ] Stoner, Nick
 - [ ] Swain, Tyler
-- [ ] Swanson, Catherine
+- [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
 - [ ] Tully, John
 - [ ] Turbanov, Alexander
