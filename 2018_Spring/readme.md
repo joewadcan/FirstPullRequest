@@ -49,7 +49,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Luck, Claudia :sparkles:
 - [ ] Macuco, Greg
 - [X] Mao, Biyu
-- [ ] Mitteldorf, Alex
+- [X] Mitteldorf, Alex :sunrise_over_mountains:
 - [X] Murphy, Kelly :rocket::champagne::rocket:
 - [X] Okorn, Atim :rocket:
 - [X] Orard, Antoine
