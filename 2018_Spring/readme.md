@@ -62,7 +62,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Ruffier D'Epenoux, Edouard
 - [ ] Schoenack, Ludwig
 - [X] Sembayev, Azat :rocket:
-- [ ] Seo, Johna
+- [X] Seo, Johna
 - [ ] Stoner, Nick
 - [ ] Swain, Tyler
 - [ ] Swanson, Catherine
