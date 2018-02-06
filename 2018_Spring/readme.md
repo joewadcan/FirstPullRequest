@@ -64,7 +64,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Sembayev, Azat :rocket:
 - [X] Seo, Johna
 - [X] Stoner, Nick :sparkler::bomb:
-- [ ] Swain, Tyler
+- [X] Swain, Tyler :rocket:
 - [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
 - [X] Tully, John :rocket::rocket:
