@@ -71,4 +71,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Turbanov, Alexander
 - [ ] Vessa, James
 - [X] Warren, Alyssa :rocket:
-- [ ] Webb, Jeffrey
+- [X] Webb, Jeffrey :scream: :scream: :scream:
