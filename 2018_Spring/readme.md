@@ -17,7 +17,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Wadcan, Joe :rocket::rocket::rocket: 
 - [X] Bernad, Gonzalo :rocket:
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
-- [ ] Braszkiewicz, Anna
+- [X] Braszkiewicz, Anna :pizza:
 - [X] Butrich, Diego :sunglasses:
 - [X] Cademartori, Helen
 - [X] De Arbelaiz, Belu:rocket::rocket::pizza
@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Errazuriz, Ignacio
 - [ ] Firestone, Nick
 - [ ] Friedman, Ilya
-- [ ] Garrett, Zach
+- [X] Garrett, Zach :hankey:
 - [X] Gerngross, Gloria
 - [ ] Gonzalez-Garilleti, Chema
 - [X] Goodacre, Monal :poop: :collision: :boom: :sparkles: :trollface:
@@ -54,16 +54,16 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Okorn, Atim :rocket:
 - [X] Orard, Antoine
 - [X] Ortegon Baqueiro, Roberto :rocket:
-- [ ] Petit, Yvener
+- [X] Petit, Yvener
 - [ ] Polsky, Noah
 - [ ] Porter, Annie
 - [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
 - [ ] Romaneski, Dan
 - [X] Ruffier D'Epenoux, Edouard
-- [ ] Schoenack, Ludwig
+- [X] Schoenack, Ludwig :rocket:
 - [X] Sembayev, Azat :rocket:
 - [X] Seo, Johna
-- [ ] Stoner, Nick
+- [X] Stoner, Nick :sparkler::bomb:
 - [ ] Swain, Tyler
 - [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
