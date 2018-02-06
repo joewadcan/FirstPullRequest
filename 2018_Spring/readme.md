@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Murphy, Kelly :rocket::champagne::rocket:
 - [X] Okorn, Atim :rocket:
 - [X] Orard, Antoine
-- [ ] Ortegon Baqueiro, Roberto
+- [X] Ortegon Baqueiro, Roberto :rocket:
 - [X] Petit, Yvener
 - [ ] Polsky, Noah
 - [ ] Porter, Annie
