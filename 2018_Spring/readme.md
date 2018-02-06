@@ -37,7 +37,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Hornbeck, Chris
 - [X] Ibarra Lopez, Rodrigo ;) :rocket:
 - [ ] Illes, Cameron
-- [ ] Kahiri, Ben
+- [X] Kahiri, Ben :sun: :palm: :sun: :palm:
 - [X] Karaci, Begum :boom::rocket::sparkles: 
 - [x] Khurana, Manav
 - [X] King, Ryan :rocket:
