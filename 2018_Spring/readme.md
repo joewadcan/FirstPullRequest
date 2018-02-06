@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Errazuriz, Ignacio
 - [ ] Firestone, Nick
 - [ ] Friedman, Ilya
-- [ ] Garrett, Zach
+- [X] Garrett, Zach :hankey:
 - [X] Gerngross, Gloria
 - [ ] Gonzalez-Garilleti, Chema
 - [X] Goodacre, Monal :poop: :collision: :boom: :sparkles: :trollface:
