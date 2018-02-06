@@ -63,7 +63,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Schoenack, Ludwig
 - [X] Sembayev, Azat :rocket:
 - [X] Seo, Johna
-- [ ] Stoner, Nick
+- [X] Stoner, Nick :sparkler::bomb:
 - [ ] Swain, Tyler
 - [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
