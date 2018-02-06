@@ -31,7 +31,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Gerngross, Gloria
 - [X] Gonzalez-Garilleti, Chema :hand:
 - [X] Goodacre, Monal :poop: :collision: :boom: :sparkles: :trollface:
-- [ ] Gums, Erin
+- [X] Gums, Erin :palm::palm::palm:
 - [X] Gutierrez, Johnny :boom::boom::boom:
 - [X] Hines, Matt
 - [ ] Hornbeck, Chris
