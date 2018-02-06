@@ -55,7 +55,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Orard, Antoine
 - [X] Ortegon Baqueiro, Roberto :rocket:
 - [X] Petit, Yvener
-- [ ] Polsky, Noah
+- [X] Polsky, Noah :rocket:
 - [X] Porter, Annie :smiley:
 - [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
 - [X] Romaneski, Dan :shipit::thought_balloon::moneybag:
