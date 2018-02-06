@@ -25,7 +25,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
 - [X] Eidelman, Tal :pineapple:
 - [X] Errazuriz, Ignacio
-- [ ] Firestone, Nick
+- [X] Firestone, Nick :rocket::rocket::rocket:
 - [ ] Friedman, Ilya
 - [X] Garrett, Zach :hankey:
 - [X] Gerngross, Gloria
