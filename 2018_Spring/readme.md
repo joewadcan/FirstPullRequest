@@ -48,7 +48,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Locatelli, Federico
 - [X] Luck, Claudia :sparkles:
 - [ ] Macuco, Greg
-- [ ] Mao, Biyu
+- [X] Mao, Biyu
 - [ ] Mitteldorf, Alex
 - [X] Murphy, Kelly :rocket::champagne::rocket:
 - [X] Okorn, Atim :rocket:
