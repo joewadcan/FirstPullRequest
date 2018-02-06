@@ -69,6 +69,6 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
 - [X] Tully, John :rocket::rocket:
 - [ ] Turbanov, Alexander
-- [ ] Vessa, James
+- [X] Vessa, James
 - [X] Warren, Alyssa :rocket:
 - [X] Webb, Jeffrey :scream: :scream: :scream:
