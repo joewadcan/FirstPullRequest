@@ -45,7 +45,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Lee, Gene
 - [X] Leung, Connie
 - [ ] Li, Bo
-- [ ] Locatelli, Federico
+- [X] Locatelli, Federico :sunglasses::sunglasses:
 - [X] Luck, Claudia :sparkles:
 - [ ] Macuco, Greg
 - [X] Mao, Biyu
