@@ -60,7 +60,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
 - [ ] Romaneski, Dan
 - [X] Ruffier D'Epenoux, Edouard
-- [ ] Schoenack, Ludwig
+- [X] Schoenack, Ludwig :rocket:
 - [X] Sembayev, Azat :rocket:
 - [X] Seo, Johna
 - [ ] Stoner, Nick
