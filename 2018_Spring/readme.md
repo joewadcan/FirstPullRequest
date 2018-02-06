@@ -29,7 +29,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Friedman, Ilya
 - [X] Garrett, Zach :hankey:
 - [X] Gerngross, Gloria
-- [ ] Gonzalez-Garilleti, Chema
+- [X] Gonzalez-Garilleti, Chema :hand:
 - [X] Goodacre, Monal :poop: :collision: :boom: :sparkles: :trollface:
 - [ ] Gums, Erin
 - [X] Gutierrez, Johnny :boom::boom::boom:
