@@ -52,7 +52,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Mitteldorf, Alex
 - [X] Murphy, Kelly :rocket::champagne::rocket:
 - [X] Okorn, Atim :rocket:
-- [ ] Orard, Antoine
+- [X] Orard, Antoine
 - [ ] Ortegon Baqueiro, Roberto
 - [ ] Petit, Yvener
 - [ ] Polsky, Noah
