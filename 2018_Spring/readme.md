@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
 - [ ] Braszkiewicz, Anna
 - [X] Butrich, Diego :sunglasses:
-- [ ] Cademartori, Helen
+- [X] Cademartori, Helen
 - [X] De Arbelaiz, Belu:rocket::rocket::pizza
 - [X] Dobrinov, Sergey
 - [X] Efstathiou, Andrew :sunglasses::hankey::pizza:
