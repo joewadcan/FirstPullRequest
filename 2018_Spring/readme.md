@@ -41,7 +41,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Karaci, Begum :boom::rocket::sparkles: 
 - [x] Khurana, Manav
 - [X] King, Ryan :rocket:
-- [ ] Lannquist, Ashley
+- [X] Lannquist, Ashley :pinneaple::boom:
 - [X] Lee, Gene
 - [X] Leung, Connie
 - [X] Li, Bo
