@@ -73,3 +73,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Vessa, James
 - [X] Warren, Alyssa :rocket:
 - [X] Webb, Jeffrey :scream: :scream: :scream:
+- [X] Singh, Prabhu Sharan :rocket:
