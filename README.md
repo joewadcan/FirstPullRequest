@@ -1,7 +1,8 @@
 **This repo is for students to test out their first pull request**
 
 Students - click below to see the file you'll need to edit:
-- [Spring 2018](https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Spring)
+- [Fall 2018](https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Fall)
+
 
 **Helpful resources**
 
@@ -14,3 +15,6 @@ These videos were included on bCourses, and may be helpful for a refresher on ho
 3. GitHub for Poets - Forks & Pull Requests (13m video): https://www.youtube.com/watch?v=_NrSWLQsDL4
 
  
+<details><summary>Previous semesters</summary>
+ - Spring 2018: https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Spring
+</details>
