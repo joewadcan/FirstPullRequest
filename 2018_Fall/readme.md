@@ -16,3 +16,60 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wadcan, Joe
 
+- [ ] Amado, Rafael
+- [ ] Asadorian, Nanor
+- [ ] Bajaj, Rahul
+- [ ] Baxter, Jordan
+- [ ] Besio, Matteo
+- [ ] Bui, Robert
+- [ ] Casale, Erin
+- [ ] Chavez, Christina
+- [ ] Chi, Vicky
+- [ ] Chong, Tim
+- [ ] Clayton, Daniel
+- [ ] Cooper, Brett
+- [ ] Cornejo, Ricky
+- [ ] Crestani, Ryan
+- [ ] Czymoch, Maximilian
+- [ ] D'Agostino, Alex
+- [ ] De Los Santos, Felipe
+- [ ] Divack, Matthew
+- [ ] Eisenman, David
+- [ ] Farese, Conor
+- [ ] Fried, Maggie
+- [ ] Gonzalez, America
+- [ ] Huh, David
+- [ ] Interlandi, Joe
+- [ ] Koch, Alex
+- [ ] Kubicki, Max
+- [ ] Kuriakose, Elizabeth
+- [ ] Lanzas Goded, Mariana
+- [ ] Linares, Florencia
+- [ ] Lorenz, Steele
+- [ ] Lui, Jessica
+- [ ] McKee, Sarah
+- [ ] Mittal, Trisha
+- [ ] Nakada, Makoto
+- [ ] Nince, Eduardo
+- [ ] Nordvik, Aaron
+- [ ] Pace-Emerson, Tam
+- [ ] Peacock, Scott
+- [ ] Pflucker, Cristina
+- [ ] Pires, Mila
+- [ ] Roth, Sam
+- [ ] Rowe, Rebecca
+- [ ] Sanchez, Carlos
+- [ ] Schraer, Caroline
+- [ ] Schwarz, Ted
+- [ ] Sheffield, John
+- [ ] Siegel, Naomi
+- [ ] Stanton, Alex
+- [ ] Sucupira, Luis Felipe
+- [ ] Swartley, Joe
+- [ ] Szymczak, Wojciech
+- [ ] Taniguchi, Daichi
+- [ ] Tye, Elan
+- [ ] Watanabe, Ken
+- [ ] Watanabe, Ryokichi
+- [ ] Williams-Ononye, Victoria
+- [ ] Yoshimura, Yu
