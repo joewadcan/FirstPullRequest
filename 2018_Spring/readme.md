@@ -68,7 +68,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Swain, Tyler :rocket:
 - [X] Swanson, Catherine
 - [X] Tamer, Sandra :raising_hand::heavy_check_mark:
-- [X] Tully, John :rocket::rocket:
+- [X] Tully, John :rocket::rocket::rocket:
 - [X] Turbanov, Alexander
 - [X] Vessa, James
 - [X] Warren, Alyssa :rocket:
