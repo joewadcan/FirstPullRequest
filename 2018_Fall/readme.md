@@ -14,7 +14,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Fall 2018
 
-- [ ] Wadcan, Joe
+- [x] Wadcan, Joe
 
 - [ ] Amado, Rafael
 - [ ] Asadorian, Nanor
