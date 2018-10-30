@@ -58,7 +58,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Pires, Mila
 - [ ] Roth, Sam
 - [ ] Rowe, Rebecca
-- [X] Sanchez, Carlos
+- [X] Sanchez, Carlos :computer: :fire:
 - [ ] Schraer, Caroline
 - [ ] Schwarz, Ted
 - [ ] Sheffield, John
