@@ -69,7 +69,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Szymczak, Wojciech
 - [ ] Taniguchi, Daichi
 - [ ] Tye, Elan
-- [X] Watanabe, Ken
+- [X] Watanabe, Ken  :jack_o_lantern:
 - [ ] Watanabe, Ryokichi
 - [ ] Williams-Ononye, Victoria
 - [ ] Yoshimura, Yu
