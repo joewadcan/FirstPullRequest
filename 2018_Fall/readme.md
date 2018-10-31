@@ -35,7 +35,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] De Los Santos, Felipe
 - [ ] Divack, Matthew
 - [ ] Eisenman, David
-- [ ] Farese, Conor
+- [X] Farese, Conor :shipit:
 - [ ] Fried, Maggie
 - [ ] Gonzalez, America
 - [ ] Huh, David
