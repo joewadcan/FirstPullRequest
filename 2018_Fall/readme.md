@@ -67,7 +67,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Sucupira, Luis Felipe
 - [ ] Swartley, Joe
 - [ ] Szymczak, Wojciech
-- [ ] Taniguchi, Daichi
+- [X] Taniguchi, Daichi
 - [ ] Tye, Elan
 - [ ] Watanabe, Ken
 - [ ] Watanabe, Ryokichi
