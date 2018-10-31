@@ -25,7 +25,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Casale, Erin
 - [ ] Chavez, Christina
 - [ ] Chi, Vicky
-- [ ] Chong, Tim
+- [x] Chong, Tim
 - [ ] Clayton, Daniel
 - [ ] Cooper, Brett
 - [ ] Cornejo, Ricky
