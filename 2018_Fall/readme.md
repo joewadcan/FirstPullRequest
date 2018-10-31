@@ -72,4 +72,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Watanabe, Ken  :jack_o_lantern:
 - [ ] Watanabe, Ryokichi
 - [ ] Williams-Ononye, Victoria
-- [ ] Yoshimura, Yu
+- [X] Yoshimura, Yu :rocket: :rocket: :rocket:
