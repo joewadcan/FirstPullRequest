@@ -38,7 +38,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Farese, Conor :shipit:
 - [ ] Fried, Maggie
 - [ ] Gonzalez, America
-- [ ] Huh, David
+- [X] Huh, David
 - [ ] Interlandi, Joe
 - [ ] Koch, Alex
 - [ ] Kubicki, Max
