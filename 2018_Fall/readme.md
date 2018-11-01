@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Koch, Alex
 - [ ] Kubicki, Max
 - [ ] Kuriakose, Elizabeth
-- [ ] Lanzas Goded, Mariana
+- [X] Lanzas Goded, Mariana
 - [ ] Linares, Florencia
 - [ ] Lorenz, Steele
 - [ ] Lui, Jessica
