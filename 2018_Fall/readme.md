@@ -45,7 +45,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Kuriakose, Elizabeth
 - [ ] Lanzas Goded, Mariana
 - [ ] Linares, Florencia
-- [ ] Lorenz, Steele
+- [X] Lorenz, Steele :frog:
 - [ ] Lui, Jessica
 - [ ] McKee, Sarah
 - [ ] Mittal, Trisha
