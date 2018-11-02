@@ -32,7 +32,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Crestani, Ryan
 - [ ] Czymoch, Maximilian
 - [ ] D'Agostino, Alex
-- [ ] De Los Santos, Felipe
+- [X] De Los Santos, Felipe
 - [ ] Divack, Matthew
 - [ ] Eisenman, David
 - [X] Farese, Conor :shipit:
