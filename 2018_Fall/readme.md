@@ -33,7 +33,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Czymoch, Maximilian
 - [ ] D'Agostino, Alex
 - [ ] De Los Santos, Felipe
-- [ ] Divack, Matthew
+- [X] Divack, Matthew :fire:
 - [ ] Eisenman, David
 - [X] Farese, Conor :shipit:
 - [ ] Fried, Maggie
