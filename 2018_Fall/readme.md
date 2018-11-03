@@ -60,7 +60,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Rowe, Rebecca
 - [X] Sanchez, Carlos :computer: :fire:
 - [ ] Schraer, Caroline
-- [ ] Schwarz, Ted
+- [X] Schwarz, Ted :fire:
 - [ ] Sheffield, John
 - [ ] Siegel, Naomi
 - [ ] Stanton, Alex
