@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Nince, Eduardo
 - [ ] Nordvik, Aaron
 - [ ] Pace-Emerson, Tam
-- [ ] Peacock, Scott
+- [X] Peacock, Scott
 - [ ] Pflucker, Cristina
 - [ ] Pires, Mila
 - [ ] Roth, Sam
