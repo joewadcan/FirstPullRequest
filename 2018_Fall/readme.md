@@ -70,6 +70,6 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Taniguchi, Daichi
 - [ ] Tye, Elan
 - [X] Watanabe, Ken  :jack_o_lantern:
-- [ ] Watanabe, Ryokichi
+- [X] Watanabe, Ryokichi :sunny:
 - [ ] Williams-Ononye, Victoria
 - [X] Yoshimura, Yu :rocket: :rocket: :rocket:
