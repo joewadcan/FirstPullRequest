@@ -20,7 +20,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Asadorian, Nanor
 - [ ] Bajaj, Rahul
 - [ ] Baxter, Jordan
-- [ ] Besio, Matteo
+- [x] Besio, Matteo :see_no_evil:
 - [ ] Bui, Robert
 - [ ] Casale, Erin
 - [ ] Chavez, Christina
