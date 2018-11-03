@@ -48,7 +48,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Lorenz, Steele :frog:
 - [ ] Lui, Jessica
 - [ ] McKee, Sarah
-- [ ] Mittal, Trisha
+- [X] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [ ] Nince, Eduardo
 - [ ] Nordvik, Aaron
