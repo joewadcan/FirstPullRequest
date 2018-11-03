@@ -31,7 +31,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
 - [ ] Czymoch, Maximilian
-- [X] D'Agostino, Alex:pinneaple:
+- [X] D'Agostino, Alex :pineapple:
 - [ ] De Los Santos, Felipe
 - [ ] Divack, Matthew
 - [ ] Eisenman, David
