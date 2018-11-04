@@ -30,7 +30,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Cooper, Brett
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
-- [ ] Czymoch, Maximilian
+- [X] Czymoch, Maximilian
 - [X] D'Agostino, Alex :pineapple:
 - [X] De Los Santos, Felipe
 - [X] Divack, Matthew :fire:
