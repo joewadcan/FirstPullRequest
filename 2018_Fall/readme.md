@@ -73,3 +73,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Watanabe, Ryokichi :sunny:
 - [X] Williams-Ononye, Victoria
 - [X] Yoshimura, Yu :rocket: :rocket: :rocket:
+- [X] Adebaki, Bosun :see_no_evil: :squirrel:
