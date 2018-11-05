@@ -55,7 +55,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Pace-Emerson, Tam
 - [X] Peacock, Scott
 - [ ] Pflucker, Cristina
-- [ ] Pires, Mila
+- [x] Pires, Mila ::white_check_mark:
 - [X] Roth, Sam :earth_africa:
 - [ ] Rowe, Rebecca
 - [X] Sanchez, Carlos :computer: :fire:
