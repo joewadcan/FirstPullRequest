@@ -16,39 +16,39 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Wadcan, Joe
 
-- [ ] Amado, Rafael
+- [x] Amado, Rafael :white_check_mark:
 - [ ] Asadorian, Nanor
-- [ ] Bajaj, Rahul
-- [ ] Baxter, Jordan
+- [x] Bajaj, Rahul :fire:
+- [x] Baxter, Jordan :dog: :dog:
 - [x] Besio, Matteo :see_no_evil:
 - [ ] Bui, Robert
 - [ ] Casale, Erin
 - [X] Chavez, Christina :sparkler:
-- [ ] Chi, Vicky
+- [x] Chi, Vicky :octocat:
 - [x] Chong, Tim
-- [ ] Clayton, Daniel
-- [ ] Cooper, Brett
+- [X] Clayton, Daniel
+- [x] Cooper, Brett :octocat:
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
-- [ ] Czymoch, Maximilian
+- [X] Czymoch, Maximilian
 - [X] D'Agostino, Alex :pineapple:
 - [X] De Los Santos, Felipe
 - [X] Divack, Matthew :fire:
-- [ ] Eisenman, David
+- [X] Eisenman, David :100:
 - [X] Farese, Conor :shipit:
-- [ ] Fried, Maggie
+- [X] Fried, Maggie :v:
 - [ ] Gonzalez, America
 - [X] Huh, David
-- [ ] Interlandi, Joe
+- [X] Interlandi, Joe
 - [ ] Koch, Alex
-- [ ] Kubicki, Max
+- [X] Kubicki, Max :suspect:
 - [ ] Kuriakose, Elizabeth
 - [X] Lanzas Goded, Mariana
-- [ ] Linares, Florencia
+- [x] Linares, Florencia :squirrel:
 - [X] Lorenz, Steele :frog:
-- [ ] Lui, Jessica
+- [X] Lui, Jessica
 - [ ] McKee, Sarah
-- [ ] Mittal, Trisha
+- [X] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [ ] Nince, Eduardo
 - [ ] Nordvik, Aaron
@@ -56,10 +56,10 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Peacock, Scott
 - [ ] Pflucker, Cristina
 - [ ] Pires, Mila
-- [ ] Roth, Sam
+- [X] Roth, Sam :earth_africa:
 - [ ] Rowe, Rebecca
 - [X] Sanchez, Carlos :computer: :fire:
-- [ ] Schraer, Caroline
+- [X] Schraer, Caroline :rocket: :fire:
 - [X] Schwarz, Ted :fire:
 - [ ] Sheffield, John
 - [ ] Siegel, Naomi
@@ -68,8 +68,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Swartley, Joe
 - [ ] Szymczak, Wojciech
 - [X] Taniguchi, Daichi
-- [ ] Tye, Elan
+- [X] Tye, Elan :rocket:
 - [X] Watanabe, Ken  :jack_o_lantern:
 - [X] Watanabe, Ryokichi :sunny:
-- [ ] Williams-Ononye, Victoria
+- [X] Williams-Ononye, Victoria
 - [X] Yoshimura, Yu :rocket: :rocket: :rocket:
