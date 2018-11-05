@@ -42,7 +42,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Interlandi, Joe
 - [ ] Koch, Alex
 - [ ] Kubicki, Max
-- [X] Kuriakose, Elizabeth :sunny:
+- [X] Kuriakose, Elizabeth :sunny::sunny::sunny:
 - [X] Lanzas Goded, Mariana
 - [x] Linares, Florencia :squirrel:
 - [X] Lorenz, Steele :frog:
