@@ -56,7 +56,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Peacock, Scott
 - [ ] Pflucker, Cristina
 - [ ] Pires, Mila
-- [ ] Roth, Sam
+- [X] Roth, Sam :earth_africa:
 - [ ] Rowe, Rebecca
 - [X] Sanchez, Carlos :computer: :fire:
 - [X] Schraer, Caroline :rocket: :fire:
