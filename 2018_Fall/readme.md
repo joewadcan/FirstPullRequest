@@ -50,7 +50,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] McKee, Sarah
 - [X] Mittal, Trisha
 - [ ] Nakada, Makoto
-- [ ] Nince, Eduardo
+- [X] Nince, Eduardo :fire:
 - [ ] Nordvik, Aaron
 - [ ] Pace-Emerson, Tam
 - [X] Peacock, Scott
