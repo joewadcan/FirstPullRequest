@@ -51,7 +51,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [ ] Nince, Eduardo
-- [ ] Nordvik, Aaron
+- [X] Nordvik, Aaron :fire:
 - [ ] Pace-Emerson, Tam
 - [X] Peacock, Scott
 - [ ] Pflucker, Cristina
