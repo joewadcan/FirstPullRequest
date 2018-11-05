@@ -24,7 +24,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Bui, Robert
 - [ ] Casale, Erin
 - [ ] Chavez, Christina
-- [ ] Chi, Vicky
+- [x] Chi, Vicky :octocat:
 - [x] Chong, Tim
 - [ ] Clayton, Daniel
 - [x] Cooper, Brett :octocat:
