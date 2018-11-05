@@ -22,7 +22,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Baxter, Jordan :dog: :dog:
 - [x] Besio, Matteo :see_no_evil:
 - [ ] Bui, Robert
-- [ ] Casale, Erin
+- [x] Casale, Erin :clap:
 - [ ] Chavez, Christina
 - [x] Chi, Vicky :octocat:
 - [x] Chong, Tim
