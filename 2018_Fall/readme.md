@@ -21,7 +21,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Bajaj, Rahul :fire:
 - [x] Baxter, Jordan :dog: :dog:
 - [x] Besio, Matteo :see_no_evil:
-- [ ] Bui, Robert
+- [x] Bui, Robert :fire:
 - [ ] Casale, Erin
 - [ ] Chavez, Christina
 - [x] Chi, Vicky :octocat:
