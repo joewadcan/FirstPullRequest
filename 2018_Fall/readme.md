@@ -36,7 +36,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Divack, Matthew :fire:
 - [X] Eisenman, David :100:
 - [X] Farese, Conor :shipit:
-- [ ] Fried, Maggie
+- [X] Fried, Maggie :v:
 - [ ] Gonzalez, America
 - [X] Huh, David
 - [X] Interlandi, Joe
