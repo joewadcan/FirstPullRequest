@@ -46,7 +46,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Lanzas Goded, Mariana
 - [ ] Linares, Florencia
 - [X] Lorenz, Steele :frog:
-- [ ] Lui, Jessica
+- [X] Lui, Jessica
 - [ ] McKee, Sarah
 - [X] Mittal, Trisha
 - [ ] Nakada, Makoto
