@@ -29,7 +29,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Clayton, Daniel
 - [x] Cooper, Brett :octocat:
 - [ ] Cornejo, Ricky
-- [ ] Crestani, Ryan
+- [X] Crestani, Ryan:fire:
 - [X] Czymoch, Maximilian
 - [X] D'Agostino, Alex :pineapple:
 - [X] De Los Santos, Felipe
