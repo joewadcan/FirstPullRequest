@@ -23,7 +23,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Besio, Matteo :see_no_evil:
 - [ ] Bui, Robert
 - [ ] Casale, Erin
-- [ ] Chavez, Christina
+- [X] Chavez, Christina :sparkler:
 - [ ] Chi, Vicky
 - [x] Chong, Tim
 - [ ] Clayton, Daniel
