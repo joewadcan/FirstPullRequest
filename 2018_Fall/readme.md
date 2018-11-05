@@ -34,7 +34,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] D'Agostino, Alex :pineapple:
 - [X] De Los Santos, Felipe
 - [X] Divack, Matthew :fire:
-- [X] Eisenman, David :party-parrot:
+- [X] Eisenman, David :100:
 - [X] Farese, Conor :shipit:
 - [ ] Fried, Maggie
 - [ ] Gonzalez, America
