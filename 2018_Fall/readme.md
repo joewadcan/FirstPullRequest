@@ -44,7 +44,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Kubicki, Max
 - [ ] Kuriakose, Elizabeth
 - [X] Lanzas Goded, Mariana
-- [ ] Linares, Florencia
+- [x] Linares, Florencia :squirrel:
 - [X] Lorenz, Steele :frog:
 - [X] Lui, Jessica
 - [ ] McKee, Sarah
