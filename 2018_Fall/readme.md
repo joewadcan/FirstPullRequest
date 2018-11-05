@@ -40,7 +40,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Gonzalez, America
 - [X] Huh, David
 - [X] Interlandi, Joe
-- [ ] Koch, Alex
+- [X] Koch, Alex :fire:
 - [X] Kubicki, Max :suspect:
 - [ ] Kuriakose, Elizabeth
 - [X] Lanzas Goded, Mariana
