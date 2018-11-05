@@ -26,7 +26,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Chavez, Christina
 - [x] Chi, Vicky :octocat:
 - [x] Chong, Tim
-- [ ] Clayton, Daniel
+- [X] Clayton, Daniel
 - [x] Cooper, Brett :octocat:
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
