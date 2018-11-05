@@ -17,7 +17,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Wadcan, Joe
 
 - [x] Amado, Rafael :white_check_mark:
-- [ ] Asadorian, Nanor
+- [X] Asadorian, Nanor
 - [x] Bajaj, Rahul :fire:
 - [x] Baxter, Jordan :dog: :dog:
 - [x] Besio, Matteo :see_no_evil:
