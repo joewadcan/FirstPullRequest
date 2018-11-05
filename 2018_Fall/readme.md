@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Chi, Vicky
 - [x] Chong, Tim
 - [ ] Clayton, Daniel
-- [ ] Cooper, Brett
+- [x] Cooper, Brett :octocat:
 - [ ] Cornejo, Ricky
 - [ ] Crestani, Ryan
 - [ ] Czymoch, Maximilian
