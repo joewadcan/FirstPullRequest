@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Fried, Maggie
 - [ ] Gonzalez, America
 - [X] Huh, David
-- [ ] Interlandi, Joe
+- [X] Interlandi, Joe
 - [ ] Koch, Alex
 - [ ] Kubicki, Max
 - [ ] Kuriakose, Elizabeth
