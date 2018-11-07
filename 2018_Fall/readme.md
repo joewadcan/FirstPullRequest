@@ -61,7 +61,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Sanchez, Carlos :computer: :fire:
 - [X] Schraer, Caroline :rocket: :fire:
 - [X] Schwarz, Ted :fire:
-- [ ] Sheffield, John
+- [X] Sheffield, John :rocket: :fire: :fire: :fire:
 - [ ] Siegel, Naomi
 - [ ] Stanton, Alex
 - [X] Sucupira, Luis Felipe
