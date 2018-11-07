@@ -28,7 +28,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Chong, Tim
 - [X] Clayton, Daniel
 - [x] Cooper, Brett :octocat:
-- [ ] Cornejo, Ricky
+- [X] Cornejo, Ricky :muscle:
 - [ ] Crestani, Ryan
 - [X] Czymoch, Maximilian
 - [X] D'Agostino, Alex :pineapple:
