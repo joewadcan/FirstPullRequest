@@ -37,7 +37,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Eisenman, David :100:
 - [X] Farese, Conor :shipit:
 - [X] Fried, Maggie :v:
-- [ ] Gonzalez, America
+- [X] Gonzalez, America :dancer: :dancer: :dancer:
 - [X] Huh, David
 - [X] Interlandi, Joe
 - [ ] Koch, Alex
