@@ -66,7 +66,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Stanton, Alex
 - [ ] Sucupira, Luis Felipe
 - [ ] Swartley, Joe
-- [ ] Szymczak, Wojciech
+- [X] Szymczak, Wojciech
 - [X] Taniguchi, Daichi
 - [X] Tye, Elan :rocket:
 - [X] Watanabe, Ken  :jack_o_lantern:
