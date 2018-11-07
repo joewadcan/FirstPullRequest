@@ -64,7 +64,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Sheffield, John
 - [ ] Siegel, Naomi
 - [ ] Stanton, Alex
-- [ ] Sucupira, Luis Felipe
+- [X] Sucupira, Luis Felipe
 - [ ] Swartley, Joe
 - [ ] Szymczak, Wojciech
 - [X] Taniguchi, Daichi
