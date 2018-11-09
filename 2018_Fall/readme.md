@@ -21,15 +21,15 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Bajaj, Rahul :fire:
 - [x] Baxter, Jordan :dog: :dog:
 - [x] Besio, Matteo :see_no_evil:
-- [ ] Bui, Robert
+- [x] Bui, Robert
 - [x] Casale, Erin :clap:
-- [ ] Chavez, Christina
+- [x] Chavez, Christina
 - [x] Chi, Vicky :octocat:
 - [x] Chong, Tim
 - [X] Clayton, Daniel
 - [x] Cooper, Brett :octocat:
 - [X] Cornejo, Ricky :muscle:
-- [ ] Crestani, Ryan
+- [x] Crestani, Ryan
 - [X] Czymoch, Maximilian
 - [X] D'Agostino, Alex :pineapple:
 - [X] De Los Santos, Felipe
@@ -42,7 +42,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Interlandi, Joe
 - [X] Koch, Alex :fire: :fire:
 - [X] Kubicki, Max :suspect:
-- [ ] Kuriakose, Elizabeth
+- [x] Kuriakose, Elizabeth
 - [X] Lanzas Goded, Mariana
 - [x] Linares, Florencia :squirrel:
 - [X] Lorenz, Steele :frog:
@@ -51,22 +51,22 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Mittal, Trisha
 - [ ] Nakada, Makoto
 - [X] Nince, Eduardo :fire:
-- [ ] Nordvik, Aaron
+- [x] Nordvik, Aaron
 - [X] Pace-Emerson, Tam :cat:
 - [X] Peacock, Scott
 - [ ] Pflucker, Cristina
 - [x] Pires, Mila :white_check_mark:
 - [X] Roth, Sam :earth_africa:
-- [ ] Rowe, Rebecca
+- [x] Rowe, Rebecca
 - [X] Sanchez, Carlos :computer: :fire:
 - [X] Schraer, Caroline :rocket: :fire:
 - [X] Schwarz, Ted :fire:
 - [X] Sheffield, John :rocket: :fire: :fire: :fire:
 - [ ] Siegel, Naomi
-- [ ] Stanton, Alex
+- [x] Stanton, Alex
 - [X] Sucupira, Luis Felipe
-- [ ] Swartley, Joe
-- [ ] Szymczak, Wojciech
+- [x] Swartley, Joe :clock1:
+- [x] Szymczak, Wojciech :clock2:
 - [X] Taniguchi, Daichi
 - [X] Tye, Elan :rocket:
 - [X] Watanabe, Ken  :jack_o_lantern:
