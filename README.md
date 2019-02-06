@@ -1,12 +1,11 @@
 **This repo is for students to test out their first pull request**
 
 Students - click below to see the file you'll need to edit:
-- [Fall 2018](https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Fall)
-
+- [Spring 2019](https://github.com/joewadcan/FirstPullRequest/tree/master/2019_Spring)
 
 **Helpful resources**
 
-These videos were included on bCourses, and may be helpful for a refresher on how GitHub works:
+These videos were included on bCourses, and are a very helpful demo on how GitHub works:
 
 1. GitHub for Poets - Intro (13m video): https://www.youtube.com/watch?v=BCQHnlnPusY 
 
@@ -16,5 +15,9 @@ These videos were included on bCourses, and may be helpful for a refresher on ho
 
  
 <details><summary>Previous semesters</summary>
+ 
+ ### 2018
  - Spring 2018: https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Spring
+ - Fall 2018:(https://github.com/joewadcan/FirstPullRequest/tree/master/2018_Fall)
+
 </details>
