@@ -114,7 +114,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Start, Catherine
 
-- [ ] Summer, Josh
+- [X] Summer, Josh :helicopter:
 
 - [ ] Tan, Toby
 
