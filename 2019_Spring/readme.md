@@ -132,6 +132,6 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Zhao, Yang
 
-- [ ] Zhu, April
+- [x] Zhu, April :dancer:
 
 - [ ] Zhu, Julia
