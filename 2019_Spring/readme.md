@@ -66,7 +66,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Harrison, Dominique
 
-- [ ] Hyde, Pat
+- [X] Hyde, Pat :beer:
 
 - [ ] Jain, Trishla
 
