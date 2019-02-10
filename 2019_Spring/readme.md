@@ -106,7 +106,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Seib, Joe
 
-- [ ] Shain, Brian
+- [x] Shain, Brian :helicopter: 
 
 - [ ] Sheft, Carole
 
