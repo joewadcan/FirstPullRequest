@@ -34,7 +34,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Bickett, Dawn
 
-- [ ] Blanco Rodriguez, Paola
+- [X] Blanco Rodriguez, Paola :bear:
 
 - [ ] Blas, Arion
 
