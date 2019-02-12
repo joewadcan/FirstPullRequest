@@ -104,7 +104,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Rosenbluth, Sofi
 
-- [ ] Seib, Joe
+- [X] Seib, Joe :basketball:
 
 - [x] Shain, Brian :helicopter: 
 
