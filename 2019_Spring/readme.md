@@ -110,7 +110,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Sheft, Carole
 
-- [ ] Shen, Hao
+- [X] Shen, Hao :dancer:
 
 - [ ] Start, Catherine
 
