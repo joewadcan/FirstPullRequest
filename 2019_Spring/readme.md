@@ -122,7 +122,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Trigo Beyer, Daniela
 
-- [ ] Tu, Jiada
+- [x] Tu, Jiada
 
 - [ ] Walker, Michael
 
