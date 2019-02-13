@@ -94,7 +94,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Moreno Rodriguez, Miguel
 
-- [ ] O'Reilly, Alex
+- [X] O'Reilly, Alex
 
 - [ ] Ouyang, Shan
 
