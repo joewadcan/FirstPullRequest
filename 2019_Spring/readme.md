@@ -78,7 +78,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] King, Stacey
 
-- [ ] LaRosa, Anis
+- [X] LaRosa, Anis 🚅 
 
 - [ ] Lau-Kee, Kelly
 
