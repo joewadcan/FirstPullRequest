@@ -124,7 +124,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Tu, Jiada
 
-- [ ] Walker, Michael
+- [X] Walker, Michael :rocket:
 
 - [ ] Werkmeister, Jennifer
 
