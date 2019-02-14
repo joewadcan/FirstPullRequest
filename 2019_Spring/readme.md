@@ -52,7 +52,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Dagley, William
 
-- [ ] Devlin, Mike
+- [x] Devlin, Mike
 
 - [ ] Dhakal, Susid
 
