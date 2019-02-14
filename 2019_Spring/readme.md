@@ -102,7 +102,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Persons, Benton
 
-- [ ] Rosenbluth, Sofi
+- [X] Rosenbluth, Sofi :ok_woman:
 
 - [X] Seib, Joe :basketball:
 
