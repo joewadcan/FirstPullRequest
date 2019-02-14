@@ -36,7 +36,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Blanco Rodriguez, Paola :bear:
 
-- [ ] Blas, Arion
+- [X] Blas, Arion :rocket:
 
 - [ ] Briggs, Andrew
 
