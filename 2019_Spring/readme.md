@@ -82,7 +82,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Lau-Kee, Kelly
 
-- [ ] Lee, Joanne
+- [X] Lee, Joanne
 
 - [ ] Liu, Sandy
 
