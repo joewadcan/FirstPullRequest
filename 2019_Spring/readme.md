@@ -84,7 +84,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Lee, Joanne
 
-- [x] Liu, Sandy :)
+- [x] Liu, Sandy  :rocket: 
 
 - [ ] Mao, Shihui
 
