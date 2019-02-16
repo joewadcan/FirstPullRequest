@@ -98,7 +98,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Ouyang, Shan
 
-- [ ] Park, Joo Hee
+- [X] Park, Joo Hee :+1:
 
 - [ ] Persons, Benton
 
