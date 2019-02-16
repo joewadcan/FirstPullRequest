@@ -20,7 +20,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Akwule, Melanie
 
-- [ ] Aouraou, Badr
+- [x] Aouraou, Badr ⚽
 
 - [ ] Arnaboldi Campos, Luis
 
