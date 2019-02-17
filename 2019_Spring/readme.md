@@ -44,7 +44,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Counceller, Trevor
 
-- [ ] Crist, Brad
+- [X] Crist, Brad :sunglasses:
 
 - [ ] Cubeta, Charlie
 
