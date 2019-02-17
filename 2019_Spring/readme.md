@@ -134,4 +134,4 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Zhu, April :dancer:
 
-- [ ] Zhu, Julia
+- [x] Zhu, Julia :dog:
