@@ -96,7 +96,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] O'Reilly, Alex :smile:
 
-- [ ] Ouyang, Shan
+- [X] Ouyang, Shan :yum:
 
 - [X] Park, Joo Hee :+1:
 
