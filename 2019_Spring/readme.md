@@ -28,7 +28,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Bailey, Jennifer
 
-- [ ] Bauman, Natalie
+- [X] Bauman, Natalie
 
 - [ ] Benintendi, Lori
 
