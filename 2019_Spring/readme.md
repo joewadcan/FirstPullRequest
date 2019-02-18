@@ -40,7 +40,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Briggs, Andrew
 
-- [ ] Cheng, Maryli
+- [x] Cheng, Maryli :penguin:
 
 - [X] Counceller, Trevor :broken_heart: (Happy Valentine's day!)
 
