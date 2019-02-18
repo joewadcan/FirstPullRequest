@@ -74,7 +74,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Kamien, Joanna
 
-- [ ] Kim, Jin
+- [X] Kim, Jin 🐻
 
 - [ ] King, Stacey
 
