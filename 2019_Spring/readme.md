@@ -54,7 +54,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Devlin, Mike
 
-- [ ] Dhakal, Susid
+- [x] Dhakal, Susid :smiley:
 
 - [ ] Epps, Alex
 
