@@ -22,7 +22,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Aouraou, Badr ⚽
 
-- [ ] Arnaboldi Campos, Luis
+- [x] Arnaboldi Campos, Luis :surfer:
 
 - [ ] Atkins, Melea
 
