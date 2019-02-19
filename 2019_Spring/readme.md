@@ -18,7 +18,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Wadcan, Joe 🚀
 
-- [ ] Akwule, Melanie
+- [x] Akwule, Melanie :muscle:
 
 - [x] Aouraou, Badr ⚽
 
