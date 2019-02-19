@@ -58,7 +58,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Epps, Alex
 
-- [ ] Ferrari, Marcos
+- [X] Ferrari, Marcos :boom:
 
 - [ ] Guastamachio, Sheila
 
