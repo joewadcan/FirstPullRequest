@@ -88,7 +88,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Mao, Shihui :golf:
 
-- [ ] McGee, Matt
+- [X] McGee, Matt :bear:
 
 - [ ] Mehta, Swamit
 
