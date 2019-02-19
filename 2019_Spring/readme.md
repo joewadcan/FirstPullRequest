@@ -80,7 +80,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] LaRosa, Anis 🚅 
 
-- [ ] Lau-Kee, Kelly
+- [X] Lau-Kee, Kelly 
 
 - [X] Lee, Joanne
 
