@@ -70,7 +70,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Jain, Trishla :airplane:
 
-- [ ] Johnson, Tyson
+- [X] Johnson, Tyson 💾 
 
 - [X] Kamien, Joanna :frog:
 
