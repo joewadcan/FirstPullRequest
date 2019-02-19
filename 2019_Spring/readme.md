@@ -112,7 +112,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Shen, Hao :dancer:
 
-- [ ] Start, Catherine
+- [X] Start, Catherine :pushpin: 
 
 - [X] Summer, Josh :helicopter:
 
