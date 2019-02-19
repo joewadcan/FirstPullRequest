@@ -68,7 +68,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Hyde, Pat :ocean:
 
-- [ ] Jain, Trishla
+- [X] Jain, Trishla :airplane:
 
 - [ ] Johnson, Tyson
 
