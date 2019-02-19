@@ -100,7 +100,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Park, Joo Hee :+1:
 
-- [X] Persons, Benton :bear 
+- [X] Persons, Benton :bear: 
 
 - [X] Rosenbluth, Sofi :ok_woman:
 
