@@ -48,7 +48,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Cubeta, Charlie
 
-- [ ] Cui, Fiona
+- [X] Cui, Fiona :dog:
 
 - [ ] Dagley, William
 
