@@ -72,7 +72,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Johnson, Tyson
 
-- [ ] Kamien, Joanna
+- [X] Kamien, Joanna :frog:
 
 - [ ] Kim, Jin
 
