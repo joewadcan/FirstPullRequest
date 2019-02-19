@@ -116,7 +116,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Summer, Josh :helicopter:
 
-- [ ] Tan, Toby
+- [X] Tan, Toby :basketball:
 
 - [ ] Tekisalp, Lale
 
