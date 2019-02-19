@@ -130,7 +130,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Zadorin, Valentine  :wink:
 
-- [ ] Zhao, Yang
+- [X] Zhao, Yang :sheep:
 
 - [x] Zhu, April :dancer:
 
