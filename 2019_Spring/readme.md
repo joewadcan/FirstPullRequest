@@ -86,7 +86,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Liu, Sandy  :rocket: 
 
-- [ ] Mao, Shihui
+- [X] Mao, Shihui :golf:
 
 - [ ] McGee, Matt
 
