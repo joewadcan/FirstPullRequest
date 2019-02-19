@@ -24,7 +24,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Arnaboldi Campos, Luis :surfer:
 
-- [ ] Atkins, Melea
+- [X] Atkins, Melea :star2:
 
 - [ ] Bailey, Jennifer
 
