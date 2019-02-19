@@ -64,7 +64,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Gupta, Shom :football:
 
-- [ ] Harrison, Dominique
+- [X] Harrison, Dominique
 
 - [X] Hyde, Pat :ocean:
 
