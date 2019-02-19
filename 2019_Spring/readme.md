@@ -92,7 +92,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Mehta, Swamit
 
-- [ ] Moreno Rodriguez, Miguel
+- [X] Moreno Rodriguez, Miguel
 
 - [X] O'Reilly, Alex :smile:
 
