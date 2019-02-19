@@ -76,7 +76,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Kim, Jin
 
-- [ ] King, Stacey
+- [X] King, Stacey😇
 
 - [X] LaRosa, Anis 🚅 
 
