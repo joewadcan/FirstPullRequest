@@ -56,7 +56,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [x] Dhakal, Susid :smiley:
 
-- [ ] Epps, Alex
+- [x] Epps, Alex :dragon:
 
 - [X] Ferrari, Marcos :boom:
 
