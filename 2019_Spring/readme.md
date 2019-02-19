@@ -120,7 +120,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Tekisalp, Lale
 
-- [ ] Trigo Beyer, Daniela
+- [X] Trigo Beyer, Daniela ⚡️
 
 - [x] Tu, Jiada
 
