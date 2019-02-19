@@ -128,7 +128,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Werkmeister, Jennifer
 
-- [ ] Zadorin, Valentine
+- [x] Zadorin, Valentine  :wink:
 
 - [ ] Zhao, Yang
 
