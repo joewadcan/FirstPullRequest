@@ -32,7 +32,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [ ] Benintendi, Lori
 
-- [ ] Bickett, Dawn
+- [X] Bickett, Dawn :avocado:
 
 - [X] Blanco Rodriguez, Paola :bear:
 
