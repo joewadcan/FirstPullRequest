@@ -90,7 +90,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] McGee, Matt :bear:
 
-- [ ] Mehta, Swamit
+- [X] Mehta, Swamit 🚅
 
 - [X] Moreno Rodriguez, Miguel
 
