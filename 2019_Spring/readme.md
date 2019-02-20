@@ -126,7 +126,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Walker, Michael :rocket:
 
-- [ ] Werkmeister, Jennifer
+- [x] Werkmeister, Jennifer :cat:
 
 - [x] Zadorin, Valentine  :wink:
 
