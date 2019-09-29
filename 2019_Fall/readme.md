@@ -14,4 +14,116 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Fall 2019
 
-- [ ] Wadcan, Joe
+- [X] Wadcan, Joe
+
+- [ ] Anusionwu, Ije
+
+- [ ] Berren, Becca
+
+- [ ] Bertels, John
+
+- [ ] Bonifaz, Adriana
+
+- [ ] Bricker, Will
+
+- [ ] Chen, Victoria
+
+- [ ] Diaz, Raul
+
+- [ ] Doherty, Mike
+
+- [ ] Ekop, Roland
+
+- [ ] Erlangga Aekukula Renggana, Erlangga
+
+- [ ] Farsio, Sara
+
+- [ ] Filatov, Anton
+
+- [ ] Florez, Julian
+
+- [ ] Froehlich, Matthias
+
+- [ ] Fujitani, Naohiro
+
+- [ ] Garcia Amor, Illan
+
+- [ ] Garcia, Celso
+
+- [ ] Garg, Nisha
+
+- [ ] Greff, James
+
+- [ ] Heumann, Andrew
+
+- [ ] Huang, Xiaoxiao
+
+- [ ] Ishii, Yuri
+
+- [ ] Johnson, Benny
+
+- [ ] Kawatra, Aanchal
+
+- [ ] Kim, Maxwell
+
+- [ ] Kochevar, Michael
+
+- [ ] Kodira, Chengappa
+
+- [ ] Lampka, Silke
+
+- [ ] Larson, Thomas
+
+- [ ] Lau, Sharon
+
+- [ ] Leonard, Oscar
+
+- [ ] Louth, Brittany
+
+- [ ] Lynn, Cindy
+
+- [ ] McGrath, Allyse
+
+- [ ] Nusinow, Matthew
+
+- [ ] OReilly, Samuel
+
+- [ ] Platt, Noah
+
+- [ ] Rana, Rohit
+
+- [ ] Rank, Stephanie
+
+- [ ] Renson, Erika
+
+- [ ] Rentz, Katie
+
+- [ ] Rubio, Nicolas
+
+- [ ] Salazar Romero, Belen
+
+- [ ] Seitibraimov, Amet
+
+- [ ] Seo, Joon
+
+- [ ] Severin, Alex
+
+- [ ] Simnick, Jeff
+
+- [ ] Soares, Bree
+
+- [ ] Sublett, Andrew
+
+- [ ] Tan, Deborah
+
+- [ ] Tomlinson, Kate
+
+- [ ] Tortorello, Matt
+
+- [ ] Wang, Jie
+
+- [ ] Warner, Kyle
+
+- [ ] Yuan, Xin
+
+- [ ] Zhang, Chi
