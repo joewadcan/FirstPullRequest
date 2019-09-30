@@ -1,5 +1,5 @@
 # Task
-Submit a Pull Request to this file, checking off your name. Feel free to add some :rocket: emoji after your name as well :smiley: ! 
+Submit a Pull Request to this file, checking off your name, and adding your GitHub username. Feel free to add some :rocket: emoji as well :smiley: ! 
 
 ## Formatting
 This is a Markdown document (note the .md file name), so you'll need to use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists). 
