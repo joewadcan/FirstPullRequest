@@ -14,7 +14,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Fall 2019
 
-- [X] Wadcan, Joe
+- [X] Wadcan, Joe (@joewadcan)
 
 - [ ] Anusionwu, Ije
 
