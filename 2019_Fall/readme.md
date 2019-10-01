@@ -127,3 +127,5 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [ ] Yuan, Xin
 
 - [ ] Zhang, Chi
+
+- [x] Arthur, Cavalcante
