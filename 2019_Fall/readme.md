@@ -80,7 +80,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Louth, Brittany
 
-- [ ] Lynn, Cindy
+- [X] Lynn, Cindy (clynn00)
 
 - [ ] McGrath, Allyse
 
