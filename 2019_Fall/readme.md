@@ -78,7 +78,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Leonard, Oscar
 
-- [ ] Louth, Brittany
+- [X] Louth, Brittany (@blouth620)
 
 - [ ] Lynn, Cindy
 
