@@ -114,7 +114,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sublett, Andrew
 
-- [ ] Tan, Deborah
+- [X] Tan, Deborah (@deborahtanpc)
 
 - [ ] Tomlinson, Kate
 
