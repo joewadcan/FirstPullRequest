@@ -28,7 +28,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chen, Victoria
 
-- [X] Dantas, Henrique
+- [X] Dantas, Henrique (@henriquedc1)
 
 - [ ] Diaz, Raul
 
