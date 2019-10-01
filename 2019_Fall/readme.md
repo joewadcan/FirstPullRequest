@@ -54,7 +54,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Greff, James
 
-- [ ] Heumann, Andrew
+- [X] aheumann89
 
 - [ ] Huang, Xiaoxiao
 
