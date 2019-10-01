@@ -116,7 +116,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Tan, Deborah
 
-- [ ] Tomlinson, Kate
+- [X] Tomlinson, Kate (@KateTomlinson121)
 
 - [ ] Tortorello, Matt
 
