@@ -112,7 +112,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Soares, Bree
 
-- [ ] Sublett, Andrew
+- [X] Sublett, Andrew (@asublett)
 
 - [ ] Tan, Deborah
 
