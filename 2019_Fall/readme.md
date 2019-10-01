@@ -70,7 +70,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kodira, Chengappa
 
-- [ ] Lampka, Silke
+- [X] Lampka, Silke (@slampka :) )
 
 - [ ] Larson, Thomas
 
