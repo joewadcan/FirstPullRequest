@@ -108,7 +108,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Severin, Alex
 
-- [ ] Simnick, Jeff
+- [X] Simnick, Jeff (@jeffsimnick)
 
 - [ ] Soares, Bree
 
