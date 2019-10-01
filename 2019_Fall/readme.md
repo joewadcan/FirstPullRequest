@@ -32,7 +32,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Doherty, Mike
 
-- [X] Ekop, Roland
+- [X] Ekop, Roland (@RolHub)
 
 - [ ] Erlangga Aekukula Renggana, Erlangga
 
