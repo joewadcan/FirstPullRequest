@@ -42,7 +42,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Florez, Julian
 
-- [ ] Froehlich, Matthias
+- [x] Froehlich, Matthias (@Frolex)
 
 - [ ] Fujitani, Naohiro
 
