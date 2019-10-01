@@ -1,20 +1,20 @@
 # Task
-Submit a Pull Request to this file, checking off your name :white_check_mark:. Feel free to add some :rocket: emoji after your name as well :smiley: ! 
+Submit a Pull Request to this file, checking off your name :white_check_mark:. Feel free to add some :rocket: emoji after your name as well :smiley: !
 
 ## Formatting
-This is a Markdown document (note the .md file name), so you'll need to use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists). 
+This is a Markdown document (note the .md file name), so you'll need to use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists).
 
 In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check off your name.
 
 ## Pull Request etiquette
-Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and fix any issues that come up. 
+Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and fix any issues that come up.
 
 
 ------------
 
 # Spring 2018
 
-- [X] Wadcan, Joe :rocket::rocket::rocket: 
+- [X] Wadcan, Joe :rocket::rocket::rocket:
 - [X] King :crown:, Anthony :rocket:, your friendly neighborhood GSI :wave:
 - [X] Bernad, Gonzalo :rocket:
 - [X] Blair, Nicholas :rocket::sunglasses::rocket:
@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Ibarra Lopez, Rodrigo ;) :rocket:
 - [X] Illes, Cameron :smiley:
 - [X] Kahiri, Ben :sun: :palm: :sun: :palm:
-- [X] Karaci, Begum :boom::rocket::sparkles: 
+- [X] Karaci, Begum :boom::rocket::sparkles:
 - [x] Khurana, Manav
 - [X] King, Ryan :rocket:
 - [X] Lannquist, Ashley :pinneaple::boom:
@@ -58,7 +58,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Petit, Yvener
 - [X] Polsky, Noah :rocket:
 - [X] Porter, Annie :smiley:
-- [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket: 
+- [X] Rodriguez Gonzalez Guerra, Leon :sunglasses::hankey::pizza::rocket::rocket:
 - [X] Romaneski, Dan :shipit::thought_balloon::moneybag:
 - [X] Ruffier D'Epenoux, Edouard
 - [X] Schoenack, Ludwig :rocket:
@@ -73,3 +73,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [X] Vessa, James
 - [X] Warren, Alyssa :rocket:
 - [X] Webb, Jeffrey :scream: :scream: :scream:
+- [X] Vasconcelos, Ana :scream: :scream: :smiley:

@@ -1,15 +1,15 @@
 # Task
-Submit a Pull Request to this file, checking off your name :white_check_mark:. 
+Submit a Pull Request to this file, checking off your name :white_check_mark:.
 
 ## Formatting
-This is a Markdown document (note the .md file name), so we'll use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists). 
+This is a Markdown document (note the .md file name), so we'll use [proper Markdown formatting](https://help.github.com/articles/basic-writing-and-formatting-syntax/#task-lists).
 
 In the code, you'll see `- [ ]` you'll need to add an X inside the brackets like this `- [X]` to check off your name. Feel free to add some :rocket: emoji after your name as well :smiley: ! 
 
 ## Pull Request etiquette
-Make the Pull Request from your own GitHub account. 
-Make sure you're submitting the Pull Request to MY file in _MY repo_ (not your fork). 
-I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and fix any issues that come up. 
+Make the Pull Request from your own GitHub account.
+Make sure you're submitting the Pull Request to MY file in _MY repo_ (not your fork).
+I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and fix any issues that come up.
 
 
 ------------
@@ -70,7 +70,7 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Jain, Trishla :airplane:
 
-- [X] Johnson, Tyson 💾 
+- [X] Johnson, Tyson 💾
 
 - [X] Kamien, Joanna :frog:
 
@@ -78,13 +78,13 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] King, Stacey😇
 
-- [X] LaRosa, Anis 🚅 
+- [X] LaRosa, Anis 🚅
 
-- [X] Lau-Kee, Kelly 
+- [X] Lau-Kee, Kelly
 
 - [X] Lee, Joanne
 
-- [x] Liu, Sandy  :rocket: 
+- [x] Liu, Sandy  :rocket:
 
 - [X] Mao, Shihui :golf:
 
@@ -100,19 +100,19 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 
 - [X] Park, Joo Hee :+1:
 
-- [X] Persons, Benton :bear: 
+- [X] Persons, Benton :bear:
 
 - [X] Rosenbluth, Sofi :ok_woman:
 
 - [X] Seib, Joe :basketball:
 
-- [x] Shain, Brian :helicopter: 
+- [x] Shain, Brian :helicopter:
 
 - [ ] Sheft, Carole
 
 - [X] Shen, Hao :dancer:
 
-- [X] Start, Catherine :pushpin: 
+- [X] Start, Catherine :pushpin:
 
 - [X] Summer, Josh :helicopter:
 
@@ -135,3 +135,5 @@ I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and f
 - [x] Zhu, April :dancer:
 
 - [x] Zhu, Julia :dog:
+
+- [x] Vasconcelos, Ana :dog:
