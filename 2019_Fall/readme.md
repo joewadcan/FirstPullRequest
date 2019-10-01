@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] McGrath, Allyse
 
-- [ ] Nusinow, Matthew
+- [X] Nusinow, Matthew (@mnusinow)
 
 - [ ] OReilly, Samuel
 
