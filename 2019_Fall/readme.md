@@ -98,7 +98,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Rentz, Katie
 
-- [ ] Rubio, Nicolas
+- [X] Rubio, Nicolas (@nicorubio)
 
 - [ ] Salazar Romero, Belen
 
