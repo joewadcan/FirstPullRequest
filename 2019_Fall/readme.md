@@ -86,7 +86,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Nusinow, Matthew (@mnusinow)
 
-- [ ] OReilly, Samuel
+- [x] OReilly, Samuel (@soreilly292)
 
 - [ ] Platt, Noah
 
