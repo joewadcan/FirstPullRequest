@@ -22,7 +22,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bertels, John (@jbertels14)
 
-- [ ] Bonifaz, Adriana
+- [x] Bonifaz, Adriana (@adri-bonifaz)
 
 - [X] Bricker, Will (@wbricker29)
 
