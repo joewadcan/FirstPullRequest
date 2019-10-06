@@ -108,7 +108,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Seo, Joon (@Joon-seo)
 
-- [ ] Severin, Alex
+- [X] Severin, Alex (@seveale09)
 
 - [X] Simnick, Jeff (@jeffsimnick)
 
