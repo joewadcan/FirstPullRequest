@@ -40,7 +40,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Filatov, Anton
 
-- [ ] Florez, Julian
+- [X] Florez, Julian (@julianflorezg)
 
 - [x] Froehlich, Matthias (@Frolex)
 
