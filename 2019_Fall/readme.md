@@ -34,7 +34,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ekop, Roland
 
-- [X] Erlangga Aekukula Renggana, Erlangga @erlanggarenggana
+- [ ] Erlangga Aekukula Renggana
 
 - [ ] Farsio, Sara
 
