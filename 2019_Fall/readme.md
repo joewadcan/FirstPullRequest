@@ -90,7 +90,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Platt, Noah
 
-- [X] Rana, Rohit
+- [X] Rana, Rohit (@rrohit4)
 
 - [ ] Rank, Stephanie
 
