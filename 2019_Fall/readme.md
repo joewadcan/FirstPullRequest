@@ -24,7 +24,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Bonifaz, Adriana
 
-- [ ] Bricker, Will
+- [X] Bricker, Will (@wbricker29)
 
 - [ ] Chen, Victoria
 
