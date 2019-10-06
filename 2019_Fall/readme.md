@@ -26,7 +26,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bricker, Will (@wbricker29)
 
-- [ ] Chen, Victoria
+- [X] Chen, Victoria (@vicchenx)
 
 - [ ] Diaz, Raul
 
