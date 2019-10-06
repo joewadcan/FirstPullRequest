@@ -124,6 +124,6 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Warner, Kyle
 
-- [X] Yuan, Xin (xinyuanfall2019)
+- [X] Yuan, Xin (@xinyuanfall2019)
 
 - [ ] Zhang, Chi
