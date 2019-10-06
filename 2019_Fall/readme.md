@@ -118,7 +118,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Tomlinson, Kate (@KateTomlinson121)
 
-- [ ] Tortorello, Matt
+- [X] Tortorello, Matt (@mltortorello)
 
 - [X] Wang, Jie (@wonjann)
 
