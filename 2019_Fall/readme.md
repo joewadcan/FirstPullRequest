@@ -20,7 +20,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Berren, Becca
 
-- [ ] Bertels, John
+- [X] Bertels, John (@jbertels14)
 
 - [ ] Bonifaz, Adriana
 
