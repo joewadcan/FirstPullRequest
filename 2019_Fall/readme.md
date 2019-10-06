@@ -120,7 +120,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Tortorello, Matt
 
-- [ ] Wang, Jie
+- [X] Wang, Jie (@wonjann)
 
 - [ ] Warner, Kyle
 
