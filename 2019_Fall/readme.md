@@ -38,7 +38,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Farsio, Sara
 
-- [X] Filatov, Anton
+- [X] Filatov, Anton (@feelko)
 
 - [ ] Florez, Julian
 
