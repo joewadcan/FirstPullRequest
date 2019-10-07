@@ -34,7 +34,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Doherty, Mike
 
-- [X] Ekop, Roland (@Rol-E) :rocket:
+- [X] Ekop, Roland (@Rol-E)
 
 - [X] Renggana, Erlangga (@erlanggarenggana)
 
@@ -66,13 +66,13 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kawatra, Aanchal
 
-- [X] Kim, Maxwell (@mkim20) :shipit:
+- [X] Kim, Maxwell (@mkim20)
 
 - [ ] Kochevar, Michael
 
 - [X] Kodira, Chengappa (@cukodira)
 
-- [X] Lampka, Silke (@slampka :) )
+- [X] Lampka, Silke (@slampka)
 
 - [X] Larson, Thomas (@thomaslarson7)
 
