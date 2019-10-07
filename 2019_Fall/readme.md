@@ -98,7 +98,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Renson, Erika (@erikarenson)
 
-- [ ] Rentz, Katie
+- [X] Rentz, Katie (@katierentz)
 
 - [X] Rubio, Nicolas (@nicorubio)
 
