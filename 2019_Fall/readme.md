@@ -50,7 +50,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Garcia, Celso
 
-- [X] Garg, Nisha
+- [X] Garg, Nisha (@ng2217)
 
 - [ ] Greff, James
 
