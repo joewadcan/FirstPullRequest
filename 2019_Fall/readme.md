@@ -16,7 +16,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [ ] Anusionwu, Ije
+- [X] Anusionwu, Ije (@IAmIje)
 
 - [ ] Berren, Becca
 
