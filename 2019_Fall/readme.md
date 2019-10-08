@@ -32,6 +32,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Diaz, Raul
 
+- [X] Chaitanya Arora (@arorachaitanya)
+
 - [ ] Doherty, Mike
 
 - [X] Ekop, Roland (@Rol-E)
