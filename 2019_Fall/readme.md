@@ -46,7 +46,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Froehlich, Matthias (@Frolex)
 
-- [ ] Fujitani, Naohiro
+- [x] Fujitani, Naohiro ID:NaoFujitani
 
 - [X] Garcia Amor, Illan (@illanxr)
 
