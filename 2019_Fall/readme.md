@@ -44,7 +44,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Froehlich, Matthias
 
-- [x] Fujitani, Naohiro
+- [x] Fujitani, Naohiro ID:NaoFujitani
 
 - [ ] Garcia Amor, Illan
 
