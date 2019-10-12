@@ -90,7 +90,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] OReilly, Samuel (@soreilly292)
 
-- [X ] Platt, Noah Noah-Platt
+- [X] Platt, Noah (@Noah-Platt)
 
 - [X] Rana, Rohit (@rrohit4)
 
