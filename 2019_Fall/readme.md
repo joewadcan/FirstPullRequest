@@ -1,5 +1,4 @@
 # Task
-Welcome to my fork aspiring coders!
 
 Submit a Pull Request to this file, checking off your name, and adding your GitHub username. Feel free to add some :rocket: emoji as well :smiley: ! 
 
