@@ -50,7 +50,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Garcia Amor, Illan (@illanxr)
 
-- [ ] Garcia, Celso
+- [X] Garcia, Celso (@CelsoGGB)
 
 - [X] Garg, Nisha (@ng2217)
 
@@ -102,7 +102,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Rubio, Nicolas (@nicorubio) :rocket
 
-- [X] Salazar Romero, Belen (@belen-salazar)
+- [X] Salazar Romero, Belen (@belen-salazar) :rocket
 
 - [ ] Seitibraimov, Amet
 
