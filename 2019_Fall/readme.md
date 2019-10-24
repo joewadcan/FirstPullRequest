@@ -48,7 +48,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Fujitani, Naohiro (@NaoFujitani)
 
-- [X] Garcia Amor, Illan (@illanxr)
+- [X] Garcia Amor, Illan (@illanxr) :pizza:
 
 - [X] Garcia, Celso (@CelsoGGB)
 
