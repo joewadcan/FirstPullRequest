@@ -104,7 +104,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Salazar Romero, Belen (@belen-salazar) :rocket
 
-- [ ] Seitibraimov, Amet
+- [X] Seitibraimov, Amet (@Amet-Seit) :rocket
 
 - [X] Seo, Joon (@Joon-seo)
 
