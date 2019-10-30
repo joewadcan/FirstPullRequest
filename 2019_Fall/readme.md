@@ -126,6 +126,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Warner, Kyle (@Kwarner77)
 
+- [X] Whysogreen (@whysogreen)
+
 - [X] Yuan, Xin (@xinyuanfall2019)
 
 - [x] Zhang, Chi (@zhangchi67)
