@@ -66,7 +66,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kim, Maxwell
 
-- [X] Kochevar, Michael
+- [X] Kochevar, Michael (@mkhaas6)
 
 - [ ] Kodira, Chengappa
 
