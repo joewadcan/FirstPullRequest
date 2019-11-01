@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Lynn, Cindy (@clynn00)
 
-- [ ] McGrath, Allyse
+- [X] McGrath, Allyse (@amograth)
 
 - [X] Nusinow, Matthew (@mnusinow)
 
