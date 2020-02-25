@@ -7,7 +7,7 @@ This is a Markdown document (note the .md file name), so you'll need to use [pro
 In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check off your name.
 
 ## Pull Request etiquette
-Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention me (@joewadcan) in the Pull Request, so we can chat and fix any issues that come up. 
+Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention Henrique by typing @henriquedc1 in a comment within your Pull Request - so he can help troubleshoot any issues.  
 
 
 ------------
