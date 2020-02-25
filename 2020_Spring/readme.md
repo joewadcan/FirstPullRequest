@@ -14,5 +14,96 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Spring 2020
 
-- [ ] Wadcan, Joe (@joewadcan)
+- [X] Wadcan, Joe (@joewadcan)
 
+- [ ] Akleh, Amir
+
+- [ ] Atwood, Samuel
+
+- [ ] Bai, Yan
+
+- [ ] Basu, Debroop
+
+- [ ] Borelli, Marisa
+
+- [ ] Cabudoy, Jason
+
+- [ ] Castillo Mego, Fernando
+
+- [ ] Chae, Jeong Hoon
+
+- [ ] Chawla, Mallika
+
+- [ ] Choque, Gonzalo
+
+- [ ] Du, Ha
+
+- [ ] Flaming, Jake
+
+- [ ] Gonzalez, Christian
+
+- [ ] Huang, Ding
+
+- [ ] Humenansky, Justine
+
+- [ ] Jackson, Joshua
+
+- [ ] Krantz, Amanda
+
+- [ ] Kroeger, Kevin
+
+- [ ] Kryukov, Mikhail
+
+- [ ] Lam, Brian
+
+- [ ] LaReau, Seth
+
+- [ ] Lee, Jay
+
+- [ ] Li, Joey
+
+- [ ] Li, Wei
+
+- [ ] Lutz, Esme
+
+- [ ] Magnani, Bernardo
+
+- [ ] Matcheck, Nick
+
+- [ ] Mori, Fabio
+
+- [ ] Overcash, Ryan
+
+- [ ] Price, Andrew
+
+- [ ] Purak, Amina
+
+- [ ] Pushkin, Daniil
+
+- [ ] Ray, Saurav
+
+- [ ] Ryu, Sam
+
+- [ ] Sepielli, Joshua
+
+- [ ] Sherpa, Nima
+
+- [ ] Shintre, Amit
+
+- [ ] Smith, Sam
+
+- [ ] Sobral, Cynthia
+
+- [ ] Sorensen, Eric
+
+- [ ] Tran, William
+
+- [ ] Twedell, M. Ryan
+
+- [ ] Walker, Michael
+
+- [ ] White, Teddy
+
+- [ ] Zanina, Evgeniia
+
+- [ ] Zhalel, Maksat
