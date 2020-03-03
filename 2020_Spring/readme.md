@@ -46,7 +46,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Humenansky, Justine
 
-- [ ] Jackson, Joshua
+- [X] Jackson, Joshua (@SophicDrift)
 
 - [ ] Krantz, Amanda
 
