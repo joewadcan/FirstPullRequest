@@ -86,7 +86,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sepielli, Joshua
 
-- [x] Sherpa, Nima
+- [x] Sherpa, Nima (@Sherpa2020)
 
 - [ ] Shintre, Amit
 
