@@ -88,7 +88,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sherpa, Nima
 
-- [x] Shintre, Amit
+- [x] Shintre, Amit (@giantasparagus)
 
 - [ ] Smith, Sam
 
