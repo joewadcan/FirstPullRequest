@@ -20,7 +20,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Atwood, Samuel
 
-- [x] Bai, Yan
+- [x] Bai, Yan - Yo slim shady
 
 - [ ] Basu, Debroop
 
