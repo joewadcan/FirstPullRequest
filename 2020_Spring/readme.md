@@ -42,7 +42,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Gonzalez, Christian
 
-- [ ] Huang, Ding
+- [x] Huang, Ding (@kaviding)
 
 - [ ] Humenansky, Justine
 
