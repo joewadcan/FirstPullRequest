@@ -16,7 +16,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [ ] Akleh, Amir
+- [X] Akleh, Amir
 
 - [ ] Atwood, Samuel
 
