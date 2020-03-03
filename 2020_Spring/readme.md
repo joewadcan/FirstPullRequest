@@ -36,7 +36,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Choque, Gonzalo
 
-- [ ] Du, Ha
+- [X] Du, Ha (@duhaiha)
 
 - [ ] Flaming, Jake
 
