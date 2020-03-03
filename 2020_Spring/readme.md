@@ -80,7 +80,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Pushkin, Daniil
 
-- [X] Ray, Saurav
+- [X] Ray, Saurav :sunglasses:
 
 - [ ] Ryu, Sam
 
