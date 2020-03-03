@@ -102,7 +102,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Walker, Michael
 
-- [ ] White, Teddy
+- [X] White, Teddy (@teddywhitest)
 
 - [X] Zanina, Evgeniia (@ezanina) :hello:
 
