@@ -90,7 +90,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Shintre, Amit
 
-- [x] Smith, Sam
+- [x] Smith, Sam (@smudger89)  
 
 - [x] Sobral, Cynthia
 
