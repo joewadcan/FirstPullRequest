@@ -96,7 +96,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Sorensen, Eric (@eric-sorensen)
 
-- [ ] Tran, William
+- [X] Tran, William (@williamtranHaas) :smiley:
 
 - [ ] Twedell, M. Ryan
 
