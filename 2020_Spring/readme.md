@@ -26,7 +26,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Borelli, Marisa
 
-- [ ] Cabudoy, Jason
+- [x] Cabudoy, Jason (@cabudoy)
 
 - [ ] Castillo Mego, Fernando
 
@@ -84,7 +84,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ryu, Sam
 
-- [X] Sepielli, Joshua (@joshuasepielli) :dog2:
+- [ ] Sepielli, Joshua
 
 - [ ] Sherpa, Nima
 
@@ -92,7 +92,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Smith, Sam
 
-- [x] Sobral, Cynthia
+- [ ] Sobral, Cynthia
 
 - [ ] Sorensen, Eric
 
