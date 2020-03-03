@@ -26,7 +26,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Borelli, Marisa
 
-- [ ] Cabudoy, Jason
+- [x] Cabudoy, Jason (@cabudoy)
 
 - [ ] Castillo Mego, Fernando
 
