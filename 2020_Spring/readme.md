@@ -82,7 +82,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ray, Saurav
 
-- [ ] Ryu, Sam
+- [X] Ryu, Sam
 
 - [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
