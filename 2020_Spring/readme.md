@@ -48,7 +48,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Jackson, Joshua
 
-- [ ] Krantz, Amanda
+- [X] Krantz, Amanda
 
 - [ ] Kroeger, Kevin
 
