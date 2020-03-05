@@ -9,6 +9,12 @@ In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check
 ## Pull Request etiquette
 Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention Henrique by typing @henriquedc1 in a comment within your Pull Request - so he can help troubleshoot any issues.  
 
+## Homework Part 2
+For the second part of the homework, submit a pull request to your partner's fork of "FirstPullRequest". You can change anything you'd like, just remember to commit your changes to a branch, use good PR etiquette, and make the change to their Fork.  
+
+If there are disagreements about your proposed changes, discuss them in the Pull Requests and make additional commits as needed. 
+
+Once your Pull Request has been merged, submit the URL for your merged Pull Request in bCourses for credit. 
 
 ------------
 
