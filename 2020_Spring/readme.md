@@ -86,7 +86,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
-- [x] Sherpa, Nima (@Sherpa2020)
+- [x] Sherpa, Nima (@Sherpa2020) :dog::angry:
 
 - [x] Shintre, Amit (@giantasparagus)
 
