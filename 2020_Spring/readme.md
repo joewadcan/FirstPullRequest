@@ -24,7 +24,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Basu, Debroop (@debasu)
 
-- [ ] Borelli, Marisa - she's so great! 
+- [ ] Borelli, Marisa
 
 - [x] Cabudoy, Jason (@cabudoy)
 
