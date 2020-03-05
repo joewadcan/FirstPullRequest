@@ -58,7 +58,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] LaReau, Seth
 
-- [ ] Lee, Jay
+- [X] Lee, Jay (@miyeumgong) :)
 
 - [X] Li, Joey (@isojoey)
 
