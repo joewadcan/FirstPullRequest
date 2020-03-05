@@ -64,7 +64,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Li, Wei
 
-- [X] Lutz, Esme
+- [X] Lutz, Esme (@elutz-125)
 
 - [ ] Magnani, Bernardo
 
