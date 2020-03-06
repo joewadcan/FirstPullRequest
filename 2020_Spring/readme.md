@@ -44,7 +44,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Huang, Ding (@kaviding)
 
-- [ ] Humenansky, Justine
+- [X] Humenansky, Justine (@jhumo) 
 
 - [X] Jackson, Joshua (@SophicDrift)
 
