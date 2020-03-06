@@ -10,7 +10,7 @@ In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check
 Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention Henrique by typing @henriquedc1 in a comment within your Pull Request - so he can help troubleshoot any issues.  
 
 ## Homework Part 2
-You must submit a Pull Request to your partner's Fork of the "FirstPullRequest". You can change anything you'd like, just remember to commit your changes to a branch, use good PR etiquette, and make the change to their Fork.  
+You must submit a Pull Request to your partner's Fork of the "FirstPullRequest". You can change anything you'd like, just remember to commit your changes to a branch, use good PR etiquette, and make the change to their Fork.  This must be completed by 6pm on March 9th, 2020.
 
 ------------
 
