@@ -100,7 +100,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Twedell, M. Ryan
 
-- [X] Walker, Michael
+- [X] Walker, Michael (@MWalkerBerk)
 
 - [ ] White, Teddy
 
