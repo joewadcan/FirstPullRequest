@@ -9,7 +9,6 @@ In the code, you'll see `- [ ]` you'll need to add an X like so `- [X]` to check
 ## Pull Request etiquette
 Make the Pull Request from your own GitHub account. Make sure you're changing the file in _my repo_ (not your fork). I suggest you @mention Henrique by typing @henriquedc1 in a comment within your Pull Request - so he can help troubleshoot any issues.  
 
-
 ------------
 
 # Spring 2020
@@ -82,7 +81,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Ray, Saurav (@sauravrayberkeley) :sunglasses:
 
-- [ ] Ryu, Sam
+- [X] Ryu, Sam (@samryu777)
 
 - [X] Sepielli, Joshua (@joshuasepielli) :dog2:
 
