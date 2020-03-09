@@ -73,7 +73,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Overcash, Ryan (@ryovercash) :boom:
 
-- [ ] Price, Andrew
+- [x] Price, Andrew (@aprice22) 
 
 - [ ] Purak, Amina
 
