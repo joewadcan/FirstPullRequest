@@ -75,7 +75,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Price, Andrew (@aprice22) 
 
-- [ ] Purak, Amina
+- [X] Purak, Amina (@aminapurak)
 
 - [X] Pushkin, Daniil (@stalerat) 🐈
 
