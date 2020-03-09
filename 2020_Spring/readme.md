@@ -38,7 +38,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Du, Ha
 
-- [X] Flaming, Jake
+- [X] Flaming, Jake (@jflaming1)
 
 - [ ] Gonzalez, Christian
 
