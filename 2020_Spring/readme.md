@@ -29,7 +29,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Castillo Mego, Fernando (@fcmego) 
 
-- [ ] Chae, Jeong Hoon
+- [X] Chae, Jeong Hoon
 
 - [ ] Chawla, Mallika
 
