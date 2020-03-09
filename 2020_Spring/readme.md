@@ -51,7 +51,7 @@ you must submit a Pull Request to your partner's Fork of the "FirstPullRequest".
 
 - [ ] Jackson, Joshua
 
-- [X] Krantz, Amanda
+- [X] Krantz, Amanda (@amandabkrantz)
 
 - [ ] Kroeger, Kevin
 
