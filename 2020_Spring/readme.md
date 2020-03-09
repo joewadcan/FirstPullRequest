@@ -91,7 +91,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Smith, Sam (@smudger89)  
 
-- [x] Sobral, Cynthia
+- [x] Sobral, Cynthia (@cynthialaet)
 
 - [x] Sorensen, Eric (@eric-sorensen)
 
