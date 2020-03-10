@@ -63,7 +63,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Lutz, Esme (@elutz-125)
 
-- [ ] Magnani, Bernardo
+- [X] Magnani, Bernardo (@bernardo1508)
 
 - [ ] Matcheck, Nick
 
