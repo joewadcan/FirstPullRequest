@@ -17,7 +17,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Akleh, Amir (@amirakleh)
 
-- [ ] Atwood, Samuel
+- [X] Atwood, Samuel (@SamuelAtwood)
 
 - [X] Bai, Yan (@ybreezy)
 
