@@ -15,110 +15,110 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan)
 
-- [X] Abe, Temma
+- [ ] Abe, Temma
 
-- [X] Akpati, Chukwunalu
+- [ ] Akpati, Chukwunalu
 
-- [X] Avalos, Jose
+- [ ] Avalos, Jose
 
-- [X] Avellana, Jose Ramon
+- [ ] Avellana, Jose Ramon
 
-- [X] Cerda, Daniel
+- [ ] Cerda, Daniel
 
-- [X] Chandrasekhar, Dhruva
+- [ ] Chandrasekhar, Dhruva
 
-- [X] Chiu, Oriana
+- [ ] Chiu, Oriana
 
-- [X] Choi, Joe
+- [ ] Choi, Joe
 
-- [X] Chung, Chris
+- [ ] Chung, Chris
 
-- [X] Davidmann, Charlie
+- [ ] Davidmann, Charlie
 
-- [X] Davis, Wyatt
+- [ ] Davis, Wyatt
 
-- [X] Dempsey, Gregory
+- [ ] Dempsey, Gregory
 
-- [X] Escobar, Cristobal
+- [ ] Escobar, Cristobal
 
-- [X] Esteves, Thais
+- [ ] Esteves, Thais
 
-- [X] Gontijo Bisinoto, Luisa
+- [ ] Gontijo Bisinoto, Luisa
 
-- [X] Guillen, Geo
+- [ ] Guillen, Geo
 
-- [X] Guraieb, Eduardo
+- [ ] Guraieb, Eduardo
 
-- [X] Hall, Caitrin
+- [ ] Hall, Caitrin
 
-- [X] Hedlund, Luke
+- [ ] Hedlund, Luke
 
-- [X] Helms, Colton
+- [ ] Helms, Colton
 
-- [X] Hirata, Erika
+- [ ] Hirata, Erika
 
-- [X] Huang, Valerie
+- [ ] Huang, Valerie
 
-- [X] Jenkins, Michael
+- [ ] Jenkins, Michael
 
-- [X] Kato, Ryosuke
+- [ ] Kato, Ryosuke
 
-- [X] Kellogg, Will
+- [ ] Kellogg, Will
 
-- [X] Kim, Nami
+- [ ] Kim, Nami
 
-- [X] Kim, Una
+- [ ] Kim, Una
 
-- [X] Kimball, Ellen
+- [ ] Kimball, Ellen
 
-- [X] Liew, Jeffrey
+- [ ] Liew, Jeffrey
 
-- [X] Maguire, Angus
+- [ ] Maguire, Angus
 
-- [X] Mamer, Marina
+- [ ] Mamer, Marina
 
-- [X] Masuda, Dominic
+- [ ] Masuda, Dominic
 
-- [X] Mubagwa, Akonkwa
+- [ ] Mubagwa, Akonkwa
 
-- [X] Mullin, Terence
+- [ ] Mullin, Terence
 
-- [X] Noweir, Noha
+- [ ] Noweir, Noha
 
-- [X] Ochoteco, Sebastian
+- [ ] Ochoteco, Sebastian
 
-- [X] Pacheco Valverde, Fede
+- [ ] Pacheco Valverde, Fede
 
-- [X] Park, Jinhyung
+- [ ] Park, Jinhyung
 
-- [X] Parmar, Soniya
+- [ ] Parmar, Soniya
 
-- [X] Pezzoni, Santiago
+- [ ] Pezzoni, Santiago
 
-- [X] Pomerantz, Win
+- [ ] Pomerantz, Win
 
-- [X] Reynolds, Kathryn
+- [ ] Reynolds, Kathryn
 
-- [X] Shu, Chyi-Shin
+- [ ] Shu, Chyi-Shin
 
-- [X] Smith, Manuel
+- [ ] Smith, Manuel
 
-- [X] Sugimoto, Hiroki
+- [ ] Sugimoto, Hiroki
 
-- [X] Valencia, Adelaida
+- [ ] Valencia, Adelaida
 
-- [X] Vedula, Anjani
+- [ ] Vedula, Anjani
 
-- [X] Venegas, Cecilia (Cecy)
+- [ ] Venegas, Cecilia (Cecy)
 
-- [X] Venkateshwara, Rahul
+- [ ] Venkateshwara, Rahul
 
-- [X] Wong, Diana
+- [ ] Wong, Diana
 
-- [X] Yamamoto, Hiroki
+- [ ] Yamamoto, Hiroki
 
-- [X] Yao, Mary
+- [ ] Yao, Mary
 
-- [X] Yin Kim Sea, Lucas Kabs
+- [ ] Yin Kim Sea, Lucas Kabs
 
-- [X] Zhang, Joseph
+- [ ] Zhang, Joseph
