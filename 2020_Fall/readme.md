@@ -13,7 +13,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Fall 2020
 
-- [X] Wadcan, Joe (@joewadcan)
+- [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
 - [ ] Abe, Temma
 
