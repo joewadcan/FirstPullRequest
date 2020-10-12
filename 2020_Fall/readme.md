@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Esteves, Thais
 
-- [X] Gontijo Bisinoto, Luisa
+- [X] Gontijo Bisinoto, Luisa 	💥 lbisinoto
 
 - [ ] Guillen, Geo
 
