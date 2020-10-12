@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Valerie
 
-- [x ] Jenkins, Michael 🇬🇧
+- [ ] Jenkins, Michael
 
 - [ ] Kato, Ryosuke
 
@@ -101,7 +101,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Shu, Chyi-Shin
 
-- [ ] Smith, Manuel
+- [X] Smith, Manuel
 
 - [ ] Sugimoto, Hiroki
 
