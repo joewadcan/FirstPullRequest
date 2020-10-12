@@ -71,7 +71,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kimball, Ellen
 
-- [ ] Liew, Jeffrey
+- [x] Liew, Jeffrey
 
 - [ ] Maguire, Angus
 
