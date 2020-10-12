@@ -111,7 +111,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Venegas, Cecilia (Cecy)
 
-- [ ] Venkateshwara, Rahul
+- [x] Venkateshwara, Rahul
 
 - [ ] Wong, Diana
 
