@@ -37,7 +37,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Davis, Wyatt
 
-- [ ] Dempsey, Gregory
+- [X] Dempsey, Gregory GH Username: gdempse
 
 - [ ] Escobar, Cristobal
 
