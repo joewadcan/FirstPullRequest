@@ -21,7 +21,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Avalos, Jose
 
-- [ ] Avellana, Jose Ramon
+- [x] Avellana, Jose Ramon (@jravellana) 🤷🏻‍♂️🤗🙅🏻‍♂️
 
 - [ ] Cerda, Daniel
 
