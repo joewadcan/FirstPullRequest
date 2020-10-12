@@ -73,7 +73,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Liew, Jeffrey
 
-- [ ] Maguire, Angus
+- [X] Maguire, Angus (@AngusMaguir3) 🐣 🎺
 
 - [ ] Mamer, Marina
 
