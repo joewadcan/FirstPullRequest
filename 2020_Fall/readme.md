@@ -17,7 +17,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Abe, Temma
 
-- [ ] Akpati, Chukwunalu
+- [X] Akpati, Chukwunalu 😊🥺😉😍😘😚😜😂😝😳😁😣😢
 
 - [ ] Avalos, Jose
 
