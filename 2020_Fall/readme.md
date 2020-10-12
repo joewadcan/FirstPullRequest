@@ -117,7 +117,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Yamamoto, Hiroki
 
-- [ ] Yao, Mary
+- [X] Yao, Mary (@maryyyao 🔥)
 
 - [ ] Yin Kim Sea, Lucas Kabs
 
