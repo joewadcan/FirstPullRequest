@@ -67,7 +67,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kim, Nami
 
-- [ ] Kim, Una
+- [X] Kim, Una (@unakim) 🚀 🌔
 
 - [ ] Kimball, Ellen
 
