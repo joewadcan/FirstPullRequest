@@ -41,7 +41,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Escobar, Cristobal
 
-- [ ] Esteves, Thais
+- [x] Esteves, Thais (@thaisesteves :P )
 
 - [ ] Gontijo Bisinoto, Luisa
 
