@@ -75,7 +75,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Maguire, Angus
 
-- [ ] Mamer, Marina
+- [X] Mamer, Marina (@m-mamer) 🚀 🌔
 
 - [ ] Masuda, Dominic
 
