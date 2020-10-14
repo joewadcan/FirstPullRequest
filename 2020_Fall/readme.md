@@ -19,9 +19,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Akpati, Chukwunalu
 
-- [ ] Avalos, Jose
+- [X] Avalos, Jose (@josexluis) 🚀 🌔
 
-- [ ] Avellana, Jose Ramon
+- [x] Avellana, Jose Ramon (@jravellana) 🤷🏻‍♂️🤗🙅🏻‍♂️
 
 - [ ] Cerda, Daniel
 
@@ -29,9 +29,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chiu, Oriana
 
-- [ ] Choi, Joe
+- [X] Choi, Joe (@boncobee) 🔥⚡
 
-- [ ] Chung, Chris
+- [x] Chung, Chris (@ojinchunk)  🥇🚀 🌔
 
 - [ ] Davidmann, Charlie
 
@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Esteves, Thais
 
-- [ ] Gontijo Bisinoto, Luisa
+- [X] Gontijo Bisinoto, Luisa 	💥 lbisinoto
 
 - [ ] Guillen, Geo
 
@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Valerie
 
-- [x ] Jenkins, Michael 🇬🇧
+- [x] Jenkins, Michael 🇬🇧 (michaeljenkins88)
 
 - [ ] Kato, Ryosuke
 
@@ -67,15 +67,15 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kim, Nami
 
-- [ ] Kim, Una
+- [X] Kim, Una (@unakim) 🚀 🌔
 
 - [ ] Kimball, Ellen
 
-- [ ] Liew, Jeffrey
+- [x] Liew, Jeffrey (@baldjeff) 🚀 🌔
 
 - [ ] Maguire, Angus
 
-- [ ] Mamer, Marina
+- [X] Mamer, Marina (@m-mamer) 🚀 🌔
 
 - [ ] Masuda, Dominic
 
@@ -95,7 +95,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Pezzoni, Santiago
 
-- [ ] Pomerantz, Win
+- [X] Pomerantz, Win (@winpom) 🙃
 
 - [ ] Reynolds, Kathryn
 
@@ -111,9 +111,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Venegas, Cecilia (Cecy)
 
-- [ ] Venkateshwara, Rahul
+- [x] Venkateshwara, Rahul (@rahulvenk) 🌔
 
-- [ ] Wong, Diana
+- [X] Wong, Diana (@d27-c) 👾👋
 
 - [ ] Yamamoto, Hiroki
 
