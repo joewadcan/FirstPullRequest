@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Akpati, Chukwunalu
 
-- [ ] Avalos, Jose
+- [X] Avalos, Jose (@josexluis) 🚀 🌔
 
 - [x] Avellana, Jose Ramon (@jravellana) 🤷🏻‍♂️🤗🙅🏻‍♂️
 
