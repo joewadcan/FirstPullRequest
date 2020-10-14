@@ -96,7 +96,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Pezzoni, Santiago
 
-- [ ] Pomerantz, Win
+- [X] Pomerantz, Win (@winpom) 🙃
 
 - [ ] Reynolds, Kathryn
 
