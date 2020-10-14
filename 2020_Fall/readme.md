@@ -89,7 +89,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Pacheco Valverde, Fede
 
-- [ ] Park, Jinhyung
+- [X] Park, Jinhyung (@jhpark89) 👍
 
 - [x] Parmar, Soniya soniyaparmar08 🚀 🌔 
 
