@@ -33,7 +33,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Chung, Chris (@ojinchunk)  🥇🚀 🌔
 
-- [ ] Davidmann, Charlie
+- [X] Davidmann, Charlie 💻👨  OxfordOutlander
 
 - [ ] Davis, Wyatt
 
