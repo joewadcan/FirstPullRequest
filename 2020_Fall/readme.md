@@ -115,7 +115,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wong, Diana (@d27-c) 👾👋
 
-- [ ] Yamamoto, Hiroki
+- [ ] Yamamoto, Hiroki (@cake0521)
 
 - [X] Yao, Mary (@maryyyao 🔥)
 
