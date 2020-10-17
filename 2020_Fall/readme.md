@@ -25,7 +25,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Cerda, Daniel
 
-- [ ] Chandrasekhar, Dhruva
+- [X] Chandrasekhar, Dhruva (@dhruvkc) 🎠🎮🎃
 
 - [X] Chiu, Oriana - FlyingOreo 🚀 
 
