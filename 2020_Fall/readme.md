@@ -61,7 +61,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Jenkins, Michael 🇬🇧 (michaeljenkins88)
 
-- [ ] Kato, Ryosuke
+- [x] Kato, Ryosuke🚀 🌔
 
 - [ ] Kellogg, Will
 
