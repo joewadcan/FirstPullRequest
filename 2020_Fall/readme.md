@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chandrasekhar, Dhruva
 
-- [ ] Chiu, Oriana
+- [X] Chiu, Oriana - FlyingOreo 🚀 
 
 - [X] Choi, Joe (@boncobee) 🔥⚡
 
