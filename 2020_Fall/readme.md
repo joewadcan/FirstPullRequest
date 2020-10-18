@@ -51,7 +51,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hall, Caitrin
 
-- [x] Hedlund, Luke (@luke-hedlund)
+- [x] Hedlund, Luke (@luke-hedlund) :high_brightness:
 
 - [ ] Helms, Colton
 
