@@ -45,7 +45,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Gontijo Bisinoto, Luisa 	💥 lbisinoto
 
-- [ ] Guillen, Geo
+- [X] Guillen, Geo (@geo8892)🔥🎧🎤
 
 - [X] Guraieb, Eduardo 🚀 🌔
 
