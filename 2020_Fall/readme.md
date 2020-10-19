@@ -55,7 +55,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Helms, Colton
 
-- [X] Hirata, Erika      kahirata ✨
+- [X] Hirata, Erika      (@erikahirata) ✨
 
 - [ ] Huang, Valerie
 
