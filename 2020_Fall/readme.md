@@ -119,6 +119,6 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Yao, Mary (@maryyyao 🔥)
 
-- [x] Yin Kim Sea, Lucas Kabs 🚀 🌔
+- [x] Yin Kim Sea, Lucas Kabs  (@lucassea) 👾👋
 
 - [x] Zhang, Joseph (@jzofficial66) 🚀 🌔
