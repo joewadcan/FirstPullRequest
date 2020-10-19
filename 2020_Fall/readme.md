@@ -25,9 +25,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Cerda, Daniel
 
-- [ ] Chandrasekhar, Dhruva
+- [X] Chandrasekhar, Dhruva (@dhruvkc) 🎠🎮🎃
 
-- [ ] Chiu, Oriana
+- [X] Chiu, Oriana - FlyingOreo 🚀 
 
 - [X] Choi, Joe (@boncobee) 🔥⚡
 
@@ -47,7 +47,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Guillen, Geo
 
-- [ ] Guraieb, Eduardo
+- [X] Guraieb, Eduardo 🚀 🌔
 
 - [ ] Hall, Caitrin
 
@@ -105,7 +105,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Sugimoto, Hiroki (@hiro-in-berkeley)🚀
 
-- [ ] Valencia, Adelaida
+- [x] Valencia, Adelaida (@valenciamontoya) :alien:
 
 - [ ] Vedula, Anjani
 
