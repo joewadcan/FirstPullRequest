@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hedlund, Luke
 
-- [ ] Helms, Colton
+- [X] Helms, Colton @colton1493 :bowtie: :construction_worker:
 
 - [ ] Hirata, Erika
 
