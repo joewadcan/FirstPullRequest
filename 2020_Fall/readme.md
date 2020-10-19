@@ -61,7 +61,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Jenkins, Michael 🇬🇧 (michaeljenkins88)
 
-- [x] Kato, Ryosuke🚀 🌔 (@ryosuke1224-haas)
+- [ ] Kato, Ryosuke
 
 - [ ] Kellogg, Will
 
@@ -87,7 +87,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ochoteco, Sebastian
 
-- [ ] Pacheco Valverde, Fede
+- [X] Pacheco Valverde, Fede (@fedepacheco) 👋😊
 
 - [X] Park, Jinhyung (@jhpark89) 👍
 
