@@ -15,7 +15,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Abe, Temma
+- [X] Abe, Temma (@T-A-UC-B-H)　:fire::green_heart:
 
 - [X] Akpati, Chukwunalu (@cakpati) 😊🥺😉😍😘😚😜😂😝😳😁😣😢
 
