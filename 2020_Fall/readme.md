@@ -69,7 +69,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Kim, Una (@unakim) 🚀 🌔
 
-- [ ] Kimball, Ellen
+- [X] Kimball, Ellen (@ecskimball) 🚀 🌔
 
 - [x] Liew, Jeffrey (@baldjeff) 🚀 🌔
 
