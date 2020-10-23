@@ -77,7 +77,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Mamer, Marina (@m-mamer) 🚀 🌔
 
-- [X] Masuda, Dominic (@dmasuda) 🚀 🌔
+- [X] Masuda, Dominic (@blackhawk118) 🚀 🌔
 
 - [ ] Mubagwa, Akonkwa
 
