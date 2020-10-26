@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Hedlund, Luke (@luke-hedlund) :high_brightness:
 
-- [ ] Helms, Colton
+- [X] Helms, Colton @colton1493 :bowtie: :construction_worker:
 
 - [X] Hirata, Erika      (@erikahirata) ✨
 
