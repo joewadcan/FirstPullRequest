@@ -49,7 +49,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Guraieb, Eduardo 🚀 🌔
 
-- [ ] Hall, Caitrin
+- [X] Hall, Caitrin (@caitrin-hall) :rocket:
 
 - [x] Hedlund, Luke (@luke-hedlund) :high_brightness:
 
