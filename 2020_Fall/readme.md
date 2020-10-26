@@ -23,7 +23,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Avellana, Jose Ramon (@jravellana) 🤷🏻‍♂️🤗🙅🏻‍♂️
 
-- [ ] Cerda, Daniel
+- [X] Cerda, Daniel (@dcerda9) 👍😳😁
 
 - [X] Chandrasekhar, Dhruva (@dhruvkc) 🎠🎮🎃
 
