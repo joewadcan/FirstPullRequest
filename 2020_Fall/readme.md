@@ -107,7 +107,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Valencia, Adelaida (@valenciamontoya) :alien:
 
-- [ ] Vedula, Anjani
+- [X] Vedula, Anjani - @anjuved :rocket:
 
 - [ ] Venegas, Cecilia (Cecy)
 
