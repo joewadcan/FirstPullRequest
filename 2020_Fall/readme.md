@@ -15,87 +15,87 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Abe, Temma
+- [X] Abe, Temma (@T-A-UC-B-H)　:fire::green_heart:
 
-- [ ] Akpati, Chukwunalu
+- [X] Akpati, Chukwunalu (@cakpati) 😊🥺😉😍😘😚😜😂😝😳😁😣😢
 
-- [ ] Avalos, Jose
+- [X] Avalos, Jose (@josexluis) 🚀 🌔
 
-- [ ] Avellana, Jose Ramon
+- [x] Avellana, Jose Ramon (@jravellana) 🤷🏻‍♂️🤗🙅🏻‍♂️
 
 - [ ] Cerda, Daniel
 
-- [ ] Chandrasekhar, Dhruva
+- [X] Chandrasekhar, Dhruva (@dhruvkc) 🎠🎮🎃
 
-- [ ] Chiu, Oriana
+- [X] Chiu, Oriana - FlyingOreo 🚀 
 
-- [ ] Choi, Joe
+- [X] Choi, Joe (@boncobee) 🔥⚡
 
-- [ ] Chung, Chris
+- [x] Chung, Chris (@ojinchunk)  🥇🚀 🌔
 
-- [ ] Davidmann, Charlie
+- [X] Davidmann, Charlie 💻👨  OxfordOutlander
 
 - [ ] Davis, Wyatt
 
-- [ ] Dempsey, Gregory
+- [X] Dempsey, Gregory GH Username: gdempse 🚀🛰🪐
 
 - [ ] Escobar, Cristobal
 
-- [ ] Esteves, Thais
+- [x] Esteves, Thais (@thaisesteves :P )
 
-- [ ] Gontijo Bisinoto, Luisa
+- [X] Gontijo Bisinoto, Luisa 	💥 lbisinoto
 
-- [ ] Guillen, Geo
+- [X] Guillen, Geo (@geo8892)🔥🎧🎤
 
-- [ ] Guraieb, Eduardo
+- [X] Guraieb, Eduardo 🚀 🌔
 
 - [ ] Hall, Caitrin
 
-- [ ] Hedlund, Luke
+- [x] Hedlund, Luke (@luke-hedlund) :high_brightness:
 
 - [ ] Helms, Colton
 
-- [ ] Hirata, Erika
+- [X] Hirata, Erika      (@erikahirata) ✨
 
-- [ ] Huang, Valerie
+- [x] Huang, Valerie (@vhuang13) 🚀 🌔
 
-- [ ] Jenkins, Michael
+- [x] Jenkins, Michael 🇬🇧 (michaeljenkins88)
 
-- [ ] Kato, Ryosuke
+- [x] Kato, Ryosuke🚀 🌔 (@ryosuke1224-haas)
 
-- [X] Kellogg, Will (@wkellogg)
+- [x] Kellogg, Will (@wkellogg)🚀 🌔
 
 - [ ] Kim, Nami
 
-- [ ] Kim, Una
+- [X] Kim, Una (@unakim) 🚀 🌔
 
-- [ ] Kimball, Ellen
+- [X] Kimball, Ellen (@ecskimball) 🚀 🌔
 
-- [ ] Liew, Jeffrey
+- [x] Liew, Jeffrey (@baldjeff) 🚀 🌔
 
-- [ ] Maguire, Angus
+- [X] Maguire, Angus (@AngusMaguir3) 🐣 🎺
 
-- [ ] Mamer, Marina
+- [X] Mamer, Marina (@m-mamer) 🚀 🌔
 
-- [ ] Masuda, Dominic
+- [X] Masuda, Dominic (@blackhawk118) 🚀 🌔
 
 - [ ] Mubagwa, Akonkwa
 
 - [ ] Mullin, Terence
 
-- [ ] Noweir, Noha
+- [X] Noweir, Noha (@nohanoweir)  🐳☔
 
 - [ ] Ochoteco, Sebastian
 
 - [ ] Pacheco Valverde, Fede
 
-- [ ] Park, Jinhyung
+- [X] Park, Jinhyung (@jhpark89) 👍
 
-- [ ] Parmar, Soniya
+- [x] Parmar, Soniya soniyaparmar08 🚀 🌔 
 
 - [ ] Pezzoni, Santiago
 
-- [ ] Pomerantz, Win
+- [X] Pomerantz, Win (@winpom) 🙃
 
 - [ ] Reynolds, Kathryn
 
@@ -103,22 +103,22 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Smith, Manuel
 
-- [ ] Sugimoto, Hiroki
+- [x] Sugimoto, Hiroki (@hiro-in-berkeley)🚀
 
-- [ ] Valencia, Adelaida
+- [x] Valencia, Adelaida (@valenciamontoya) :alien:
 
 - [ ] Vedula, Anjani
 
 - [ ] Venegas, Cecilia (Cecy)
 
-- [ ] Venkateshwara, Rahul
+- [x] Venkateshwara, Rahul (@rahulvenk) 🌔
 
-- [ ] Wong, Diana
+- [X] Wong, Diana (@d27-c) 👾👋
 
-- [ ] Yamamoto, Hiroki
+- [X] Yamamoto, Hiroki (@cake0521) 🚀 🌔
 
-- [ ] Yao, Mary
+- [X] Yao, Mary (@maryyyao 🔥)
 
-- [ ] Yin Kim Sea, Lucas Kabs
+- [x] Yin Kim Sea, Lucas Kabs  (@lucassea) 👾👋
 
-- [ ] Zhang, Joseph
+- [x] Zhang, Joseph (@jzofficial66) 🚀 🌔
