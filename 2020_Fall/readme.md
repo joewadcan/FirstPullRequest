@@ -99,7 +99,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Reynolds, Kathryn (@kreynoldsmba)🚀
 
-- [ ] Shu, Chyi-Shin
+- [X] Shu, Chyi-Shin (@chyi-shin) 🚀 🌔
 
 - [ ] Smith, Manuel
 
