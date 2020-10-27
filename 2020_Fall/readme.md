@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Dempsey, Gregory GH Username: gdempse 🚀🛰🪐
 
-- [ ] Escobar, Cristobal
+- [X] Escobar, Cristobal  🥇🚀 🔥 (@cristobalescobar)
 
 - [x] Esteves, Thais (@thaisesteves :P )
 
