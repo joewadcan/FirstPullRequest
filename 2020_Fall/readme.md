@@ -65,7 +65,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Kellogg, Will (@wkellogg)🚀 🌔
 
-- [ ] Kim, Nami
+- [X] Kim, Nami (@nm10777) 🚀
 
 - [X] Kim, Una (@unakim) 🚀 🌔
 
