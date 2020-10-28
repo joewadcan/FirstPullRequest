@@ -122,3 +122,5 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 - [x] Yin Kim Sea, Lucas Kabs  (@lucassea) 👾👋
 
 - [x] Zhang, Joseph (@jzofficial66) 🚀 🌔
+
+- [x] Martinez, Juan Emilio (@Juane99)
