@@ -79,7 +79,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Masuda, Dominic (@blackhawk118) 🚀 🌔
 
-- [ ] Mubagwa, Akonkwa
+- [X] Mubagwa, Akonkwa (@akonkwa) 😎🎶
 
 - [ ] Mullin, Terence
 
