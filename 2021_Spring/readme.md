@@ -14,3 +14,145 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 # Spring 2021
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
+
+- [ ] Barnard, Lance
+
+- [ ] Bills, Zachary
+
+- [ ] Bolivar, David
+
+- [ ] Bretschneider, Niklas
+
+- [ ] Carley, Alexandra
+
+- [ ] Castilloux, Caelan
+
+- [ ] Chen, Jamie
+
+- [ ] Chen, Leslie
+
+- [ ] Cheng, Yuhsin
+
+- [ ] Churchill, Allen
+
+- [ ] Covarrubias, Felipe
+
+- [ ] Czapary, Yousef
+
+- [ ] Dai, Anna
+
+- [ ] Djannesari, Dominic
+
+- [ ] Duisenov, Kair
+
+- [ ] Eastman, John
+
+- [ ] Eronini, Patrick
+
+- [ ] Evans, M. Blair
+
+- [ ] Fantis, Thomas
+
+- [ ] Hayashi, Kristen
+
+- [ ] Huang, Donald
+
+- [ ] Hwong, Charles
+
+- [ ] Ishizuka, Shotaro
+
+- [ ] Jimenez, Tomas
+
+- [ ] Ke, Candice
+
+- [ ] Kim, Yeongmin
+
+- [ ] Kossar, Peter
+
+- [ ] Ku, Min
+
+- [ ] Lavian, Ofek
+
+- [ ] Lee, Linda
+
+- [ ] Lewis, Gabriel
+
+- [ ] Li, Justin
+
+- [ ] Linde, Jonas
+
+- [ ] Machlup, Daniel
+
+- [ ] Manda, Sagar
+
+- [ ] Marquardt, Corrine
+
+- [ ] Mayes, Torrey
+
+- [ ] McCoy, Sean
+
+- [ ] Moreno, Fernando
+
+- [ ] Mubagwa, Akonkwa
+
+- [ ] Odell, Stephen
+
+- [ ] Panic, Dunja
+
+- [ ] Patrizio, Cristina
+
+- [ ] Rao, Sevith
+
+- [ ] Rivera, Juliana
+
+- [ ] Roller, Maria
+
+- [ ] Rowe, Justin
+
+- [ ] Sahn, Lillian
+
+- [ ] Sallerson, Louis
+
+- [ ] Sassano, Eric
+
+- [ ] Sastry, Mukundha
+
+- [ ] Sharp, Jeffrey
+
+- [ ] Shu, Xiaoling
+
+- [ ] Smith, Casey
+
+- [ ] Soler Carreras, Aleix
+
+- [ ] Theising, Aron
+
+- [ ] Thompson, Chase
+
+- [ ] Todd, Cailin
+
+- [ ] Tsoi, Caroline
+
+- [ ] Turner, Bradley
+
+- [ ] Vergara, Maria
+
+- [ ] Vo, Clara
+
+- [ ] Wang, Angela
+
+- [ ] Willcox, Katherine
+
+- [ ] Woodall, Jordan
+
+- [ ] Wright-Simmons, Georgia
+
+- [ ] Wu, Tai
+
+- [ ] Xu, Ray
+
+- [ ] Yared, Dina
+
+- [ ] Zhang, Marshall
+
+- [ ] Zhu, Alyssa
