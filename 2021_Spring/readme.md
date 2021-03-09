@@ -117,7 +117,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sastry, Mukundha
 
-- [ ] Sharp, Jeffrey
+- [X] Sharp, Jeffrey 🚀
 
 - [ ] Shu, Xiaoling
 
