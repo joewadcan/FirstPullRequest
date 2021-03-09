@@ -89,7 +89,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mayes, Torrey
 
-- [ ] McCoy, Sean
+- [X] McCoy, Sean (@sean-mccoy-haas) :smiley:
 
 - [ ] Moreno, Fernando
 
