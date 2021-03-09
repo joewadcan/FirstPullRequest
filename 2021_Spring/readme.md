@@ -109,7 +109,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Rowe, Justin
 
-- [ ] Sahn, Lillian
+- [x] Sahn, Lillian
 
 - [ ] Sallerson, Louis
 
