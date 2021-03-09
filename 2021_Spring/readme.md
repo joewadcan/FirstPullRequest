@@ -141,7 +141,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wang, Angela
 
-- [X] Willcox, Katherine
+- [X] Willcox, Katherine @kathwillcox 😁
 
 - [ ] Woodall, Jordan
 
