@@ -131,7 +131,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Todd, Cailin
 
-- [ ] Tsoi, Caroline
+- [X] Tsoi, Caroline (@caroline-tsoi) :boom:
 
 - [ ] Turner, Bradley
 
