@@ -57,7 +57,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huang, Donald
 
-- [ ] Hwong, Charles
+- [x] Hwong, Charles
 
 - [ ] Ishizuka, Shotaro
 
