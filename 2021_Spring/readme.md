@@ -133,7 +133,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Tsoi, Caroline
 
-- [ ] Turner, Bradley
+- [X] Turner, Bradley (@bradturner9) 🚀 ☘️
 
 - [ ] Vergara, Maria
 
