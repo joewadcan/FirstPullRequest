@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Fantis, Thomas
 
-- [ ] Hayashi, Kristen
+- [X] Hayashi, Kristen
 
 - [ ] Huang, Donald
 
