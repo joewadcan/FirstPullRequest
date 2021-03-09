@@ -127,7 +127,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Theising, Aron
 
-- [x] Thompson, Chase
+- [x] Thompson, Chase (@ChaseThompson1992) 🌔
 
 - [ ] Todd, Cailin
 
