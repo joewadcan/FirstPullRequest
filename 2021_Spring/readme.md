@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hwong, Charles
 
-- [ ] Ishizuka, Shotaro
+- [x] Ishizuka, Shotaro (@ShotaroIshizuka)🚀
 
 - [ ] Jimenez, Tomas
 
