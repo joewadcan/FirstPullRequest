@@ -99,7 +99,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Panic, Dunja
 
-- [ ] Patrizio, Cristina
+- [x] Patrizio, Cristina cristinap37🚀
 
 - [ ] Rao, Sevith
 
