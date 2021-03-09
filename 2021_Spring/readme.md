@@ -147,7 +147,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wright-Simmons, Georgia
 
-- [ ] Wu, Tai
+- [X] Wu, Tai (@tai-wu) 🙏
 
 - [ ] Xu, Ray
 
