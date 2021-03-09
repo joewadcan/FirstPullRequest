@@ -91,7 +91,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] McCoy, Sean
 
-- [ ] Moreno, Fernando
+- [X] Moreno, Fernando @fernandomorenopayro 💪🏻
 
 - [ ] Mubagwa, Akonkwa
 
