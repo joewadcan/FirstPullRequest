@@ -35,7 +35,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Churchill, Allen
 
-- [ ] Covarrubias, Felipe
+- [X] Covarrubias, Felipe 🚀🚀🚀🚀🚀
 
 - [ ] Czapary, Yousef
 
