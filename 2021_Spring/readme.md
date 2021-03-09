@@ -129,7 +129,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Thompson, Chase
 
-- [ ] Todd, Cailin
+- [X] Todd, Cailin
 
 - [ ] Tsoi, Caroline
 
