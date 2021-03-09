@@ -87,7 +87,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Marquardt, Corrine
 
-- [ ] Mayes, Torrey
+- [X] Mayes, Torrey 🏀 📸
 
 - [ ] McCoy, Sean
 
