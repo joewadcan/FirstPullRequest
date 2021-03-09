@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Bills, Zachary
 
-- [ ] Bolivar, David
+- [X] Bolivar, David (@Davidbolivarz) :sunglasses:
 
 - [ ] Bretschneider, Niklas
 
