@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Czapary, Yousef
 
-- [X] Dai, Anna
+- [X] Dai, Anna (@anna586) :fox_face:
 
 - [ ] Djannesari, Dominic
 
