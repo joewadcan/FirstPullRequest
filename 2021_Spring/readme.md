@@ -83,7 +83,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Machlup, Daniel
 
-- [ ] Manda, Sagar
+- [X] Manda, Sagar
 
 - [ ] Marquardt, Corrine
 
