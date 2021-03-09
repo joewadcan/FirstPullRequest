@@ -105,7 +105,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Rivera, Juliana
 
-- [ ] Roller, Maria
+- [X] Roller, Maria
 
 - [ ] Rowe, Justin
 
