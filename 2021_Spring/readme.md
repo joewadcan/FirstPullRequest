@@ -125,7 +125,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Soler Carreras, Aleix
 
-- [ ] Theising, Aron
+- [X] Theising, Aron (arontheising 💅💅💅)
 
 - [ ] Thompson, Chase
 
