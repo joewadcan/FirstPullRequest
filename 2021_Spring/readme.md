@@ -31,7 +31,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chen, Leslie
 
-- [ ] Cheng, Yuhsin
+- [X] Cheng, Yuhsin (@chengyuhsin) :heart_eyes:
 
 - [ ] Churchill, Allen
 
