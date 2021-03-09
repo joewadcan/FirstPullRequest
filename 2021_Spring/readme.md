@@ -145,7 +145,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Woodall, Jordan
 
-- [ ] Wright-Simmons, Georgia
+- [X] Wright-Simmons, Georgia
 
 - [ ] Wu, Tai
 
