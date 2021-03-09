@@ -49,7 +49,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Eronini, Patrick
 
-- [ ] Evans, M. Blair
+- [X] Evans, M. Blair
 
 - [ ] Fantis, Thomas
 
