@@ -21,7 +21,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bolivar, David (@Davidbolivarz) :sunglasses:
 
-- [ ] Bretschneider, Niklas
+- [X] Bretschneider, Niklas (@nbretschneider) 🥺🥺
 
 - [ ] Carley, Alexandra
 
