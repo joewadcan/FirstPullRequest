@@ -69,7 +69,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Kossar, Peter
 
-- [ ] Ku, Min
+- [X] Ku, Min (@minku1016) 🔥🔥
 
 - [ ] Lavian, Ofek
 
