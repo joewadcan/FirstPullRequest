@@ -103,7 +103,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Rao, Sevith
 
-- [ ] Rivera, Juliana
+- [X] Rivera, Juliana (@JulianaRivera18) 🌞
 
 - [ ] Roller, Maria
 
