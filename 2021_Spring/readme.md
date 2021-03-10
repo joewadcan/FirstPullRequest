@@ -95,7 +95,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Mubagwa, Akonkwa
 
-- [ ] Odell, Stephen
+- [X] Odell, Steve (@odellsj) 🚀 🌔 GME
 
 - [X] Panic, Dunja (@dpanic286) 🌴
 
