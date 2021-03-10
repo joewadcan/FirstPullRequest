@@ -111,7 +111,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sahn, Lillian
 
-- [ ] Sallerson, Louis
+- [x] Sallerson, Louis, lsallersonberk, :smiley:
 
 - [ ] Sassano, Eric
 
