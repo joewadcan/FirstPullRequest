@@ -25,7 +25,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Carley, Alexandra
 
-- [ ] Castilloux, Caelan
+- [X] Castilloux, Caelan (@ccastilloux) 🥑 😿
 
 - [ ] Chen, Jamie
 
