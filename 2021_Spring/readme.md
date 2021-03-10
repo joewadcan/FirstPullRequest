@@ -15,7 +15,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Barnard, Lance
+- [X] Barnard, Lance (@lancebarnardberkeley) :smiley:
 
 - [X] Bills, Zachary (@gold2022) ✨🐱‍👤👀
 
