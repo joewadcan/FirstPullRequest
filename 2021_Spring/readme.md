@@ -77,7 +77,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Lewis, Gabriel
 
-- [ ] Li, Justin
+- [X] Li, Justin (@Justinli90) 🚀
 
 - [ ] Linde, Jonas
 
