@@ -17,7 +17,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Barnard, Lance
 
-- [X] Bills, Zachary
+- [X] Bills, Zachary (@gold2022) ✨🐱‍👤
 
 - [ ] Bolivar, David
 
