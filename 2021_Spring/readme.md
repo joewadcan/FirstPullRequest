@@ -155,4 +155,4 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Zhang, Marshall (@masizha) :rocket:
 
-- [ ] Zhu, Alyssa
+- [x] Zhu, Alyssa (@alyssamzhu) 🚀
