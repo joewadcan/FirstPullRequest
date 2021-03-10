@@ -61,7 +61,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ishizuka, Shotaro
 
-- [X] Jimenez, Tomas
+- [X] Jimenez, Tomas (@tomas-jimenez 🐻)
 
 - [ ] Ke, Candice
 
