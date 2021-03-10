@@ -139,7 +139,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Vo, Clara (cvo24) 😅
 
-- [ ] Wang, Angela
+- [X] Wang, Angela (@aywang8) 🚀
 
 - [ ] Willcox, Katherine
 
