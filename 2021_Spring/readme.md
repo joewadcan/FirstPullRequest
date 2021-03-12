@@ -149,7 +149,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Wu, Tai (@tai-wu) 🙏
 
-- [ ] Xu, Ray
+- [X] Xu, Ray (@mrayxu) 🚀🚀
 
 - [ ] Yared, Dina
 
