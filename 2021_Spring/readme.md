@@ -113,7 +113,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Sallerson, Louis, lsallersonberk, :smiley:
 
-- [ ] Sassano, Eric
+- [x] Sassano, Eric (@ericsassano) 
 
 - [X] Sastry, Mukundha (@msastry-code) 😊
 
