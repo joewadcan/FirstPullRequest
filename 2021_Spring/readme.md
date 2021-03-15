@@ -45,7 +45,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Duisenov, Kair
 
-- [ ] Eastman, John
+- [X] Eastman, John (@johnaeastman) 🤓👨‍💻
 
 - [X] Eronini, Patrick (@ubuntupoe) 🙌🏿🤓⚽️
 
