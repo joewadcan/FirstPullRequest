@@ -145,7 +145,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Woodall, Jordan (@jwood77)  🚀 🌔
 
-- [ ] Wright-Simmons, Georgia
+- [X] Wright-Simmons, Georgia (@gwrightsimmons) 👋
 
 - [x] Wu, Tai (@tai-wu) 🙏
 
