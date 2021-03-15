@@ -129,7 +129,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Thompson, Chase (@ChaseThompson1992) 🌔
 
-- [ ] Todd, Cailin
+- [X] Todd, Cailin (@cailintodd 🚀)
 
 - [X] Tsoi, Caroline (@caroline-tsoi) :boom:
 
