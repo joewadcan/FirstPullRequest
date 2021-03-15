@@ -135,7 +135,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Turner, Bradley (@bradturner9) 🚀 ☘️
 
-- [ ] Vergara, Maria
+- [X] Vergara, Maria 🐰 @alejandravl
 
 - [x] Vo, Clara (cvo24) 😅
 
