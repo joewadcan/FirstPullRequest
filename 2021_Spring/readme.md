@@ -15,23 +15,23 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Barnard, Lance
+- [X] Barnard, Lance (@lancebarnardberkeley) :smiley:
 
-- [ ] Bills, Zachary
+- [X] Bills, Zachary (@gold2022) ✨🐱‍👤👀
 
-- [ ] Bolivar, David
+- [X] Bolivar, David (@Davidbolivarz) :sunglasses:
 
-- [ ] Bretschneider, Niklas
+- [X] Bretschneider, Niklas (@nbretschneider) 🥺🥺
 
 - [ ] Carley, Alexandra
 
-- [ ] Castilloux, Caelan
+- [X] Castilloux, Caelan (@ccastilloux) 🥑 😿
 
 - [ ] Chen, Jamie
 
 - [ ] Chen, Leslie
 
-- [ ] Cheng, Yuhsin
+- [X] Cheng, Yuhsin (@chengyuhsin) :heart_eyes:
 
 - [ ] Churchill, Allen
 
@@ -41,7 +41,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Dai, Anna
 
-- [ ] Djannesari, Dominic
+- [X] Djannesari, Dominic (@threedom) 🦾
 
 - [ ] Duisenov, Kair
 
@@ -55,29 +55,29 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hayashi, Kristen
 
-- [ ] Huang, Donald
+- [X] Huang, Donald (@donald-huang) 🚀 🌔
 
-- [ ] Hwong, Charles
+- [x] Hwong, Charles (@chwong11) 🚀 🌔
 
-- [ ] Ishizuka, Shotaro
+- [x] Ishizuka, Shotaro (@ShotaroIshizuka)🚀
 
 - [ ] Jimenez, Tomas
 
-- [ ] Ke, Candice
+- [X] Ke, Candice (@candiceke) 😎✨
 
 - [ ] Kim, Yeongmin
 
 - [ ] Kossar, Peter
 
-- [ ] Ku, Min
+- [X] Ku, Min (@minku1016) 🔥🔥
 
-- [ ] Lavian, Ofek
+- [x] Lavian, Ofek (@ofeklavian) 🤠
 
 - [ ] Lee, Linda
 
 - [ ] Lewis, Gabriel
 
-- [ ] Li, Justin
+- [X] Li, Justin (@Justinli90) 🚀
 
 - [ ] Linde, Jonas
 
@@ -87,37 +87,37 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Marquardt, Corrine
 
-- [X] Mayes, Torrey 🏀 📸
+- [X] Mayes, Torrey (@amayesing) 🏀 📸
 
-- [ ] McCoy, Sean
+- [X] McCoy, Sean (@sean-mccoy-haas) :smiley:
 
-- [ ] Moreno, Fernando
+- [X] Moreno, Fernando @fernandomorenopayro 💪🏻
 
 - [ ] Mubagwa, Akonkwa
 
-- [ ] Odell, Stephen
+- [X] Odell, Steve (@odellsj) 🚀 🌔 GME
 
-- [ ] Panic, Dunja
+- [X] Panic, Dunja (@dpanic286) 🌴
 
-- [ ] Patrizio, Cristina
+- [x] Patrizio, Cristina cristinap37🚀
 
 - [ ] Rao, Sevith
 
-- [ ] Rivera, Juliana
+- [X] Rivera, Juliana (@JulianaRivera18) 🌞
 
-- [ ] Roller, Maria
+- [X] Roller, Maria (@mcroeller1) 🤓
 
 - [ ] Rowe, Justin
 
 - [ ] Sahn, Lillian
 
-- [ ] Sallerson, Louis
+- [x] Sallerson, Louis, lsallersonberk, :smiley:
 
 - [ ] Sassano, Eric
 
-- [ ] Sastry, Mukundha
+- [X] Sastry, Mukundha (@msastry-code) 😊
 
-- [ ] Sharp, Jeffrey
+- [X] Sharp, Jeffrey (@sharpaero) 🚀
 
 - [ ] Shu, Xiaoling
 
@@ -125,34 +125,34 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Soler Carreras, Aleix
 
-- [ ] Theising, Aron
+- [X] Theising, Aron (arontheising 💅💅💅)
 
-- [ ] Thompson, Chase
+- [x] Thompson, Chase (@ChaseThompson1992) 🌔
 
 - [ ] Todd, Cailin
 
-- [ ] Tsoi, Caroline
+- [X] Tsoi, Caroline (@caroline-tsoi) :boom:
 
-- [ ] Turner, Bradley
+- [X] Turner, Bradley (@bradturner9) 🚀 ☘️
 
 - [ ] Vergara, Maria
 
-- [ ] Vo, Clara
+- [x] Vo, Clara (cvo24) 😅
 
-- [ ] Wang, Angela
+- [X] Wang, Angela (@aywang8) 🚀
 
 - [ ] Willcox, Katherine
 
-- [ ] Woodall, Jordan
+- [X] Woodall, Jordan (@jwood77)  🚀 🌔
 
 - [ ] Wright-Simmons, Georgia
 
-- [ ] Wu, Tai
+- [x] Wu, Tai (@tai-wu) 🙏
 
 - [ ] Xu, Ray
 
 - [ ] Yared, Dina
 
-- [ ] Zhang, Marshall
+- [X] Zhang, Marshall (@masizha) :rocket:
 
 - [ ] Zhu, Alyssa
