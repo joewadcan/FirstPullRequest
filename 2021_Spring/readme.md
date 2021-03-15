@@ -81,7 +81,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Linde, Jonas
 
-- [x] Machlup, Daniel
+- [x] Machlup, Daniel (@mchdan007) :collision:
 
 - [ ] Manda, Sagar
 
