@@ -123,7 +123,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Smith, Casey
 
-- [X] Soler Carreras, Aleix
+- [X] Soler Carreras, Aleix 🚀 🌔
 
 - [ ] Theising, Aron
 
