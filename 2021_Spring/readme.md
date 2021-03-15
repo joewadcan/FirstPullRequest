@@ -151,7 +151,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Xu, Ray
 
-- [ ] Yared, Dina
+- [X] Yared, Dina (@DYared15) 😍
 
 - [X] Zhang, Marshall (@masizha) :rocket:
 
