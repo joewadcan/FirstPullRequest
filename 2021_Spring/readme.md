@@ -65,7 +65,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Ke, Candice (@candiceke) 😎✨
 
-- [ ] Kim, Yeongmin
+- [X] Kim, Yeongmin (@sirodream) 🚀
 
 - [ ] Kossar, Peter
 
