@@ -79,7 +79,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Li, Justin (@Justinli90) 🚀
 
-- [ ] Linde, Jonas
+- [X] Linde, Jonas gitjl22 😎
 
 - [x] Machlup, Daniel (@mchdan007) :collision:
 
