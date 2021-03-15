@@ -73,7 +73,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Lavian, Ofek (@ofeklavian) 🤠
 
-- [ ] Lee, Linda
+- [X] Lee, Linda lindalee117,  🤡
 
 - [ ] Lewis, Gabriel
 
