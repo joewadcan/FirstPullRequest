@@ -29,7 +29,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chen, Jamie
 
-- [ ] Chen, Leslie
+- [X] Chen, Leslie (@les-chen) 🚀
 
 - [X] Cheng, Yuhsin (@chengyuhsin) :heart_eyes:
 
