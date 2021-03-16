@@ -107,7 +107,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Roller, Maria (@mcroeller1) 🤓
 
-- [ ] Rowe, Justin
+- [X] Rowe, Justin (JRowe-Haas2022) 🤓
 
 - [ ] Sahn, Lillian
 
