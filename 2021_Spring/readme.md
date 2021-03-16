@@ -51,7 +51,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Evans, M. Blair (@mblairevans) 🚀 🌔
 
-- [X] Fantis, Thomas
+- [X] Fantis, Thomas (@tfantis) ✨🚀🌔✨
 
 - [X] Hayashi, Kristen (@Gityashi) 🧸
 
