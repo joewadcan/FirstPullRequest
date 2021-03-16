@@ -109,7 +109,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Rowe, Justin (JRowe-Haas2022) 🤓
 
-- [ ] Sahn, Lillian
+- [X] Sahn, Lillian, @lsahn, 😸
 
 - [x] Sallerson, Louis, lsallersonberk, :smiley:
 
