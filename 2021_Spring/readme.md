@@ -121,7 +121,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Shu, Xiaoling🚀🚀 @kongtianshou
 
-- [ ] Smith, Casey
+- [x] Smith, Casey 🥵 (@csmith42)
 
 - [X] Soler Carreras, Aleix (Aleixsc) 🚀 🌔
 
