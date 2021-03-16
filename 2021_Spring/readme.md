@@ -43,7 +43,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Djannesari, Dominic (@threedom) 🦾
 
-- [ ] Duisenov, Kair
+- [X] Duisenov, Kair (@duisenov)🚀🤯
 
 - [X] Eastman, John (@johnaeastman) 🤓👨‍💻
 
