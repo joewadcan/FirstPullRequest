@@ -23,7 +23,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bretschneider, Niklas (@nbretschneider) 🥺🥺
 
-- [ ] Carley, Alexandra
+- [X] Carley, Alexandra (@aloha15) 🚀 
 
 - [X] Castilloux, Caelan (@ccastilloux) 🥑 😿
 
