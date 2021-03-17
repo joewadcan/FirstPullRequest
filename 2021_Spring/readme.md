@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Castilloux, Caelan (@ccastilloux) 🥑 😿
 
-- [ ] Chen, Jamie
+- [X] Chen, Jamie (@lmjchen) 🤩
 
 - [X] Chen, Leslie (@les-chen) 🚀
 
