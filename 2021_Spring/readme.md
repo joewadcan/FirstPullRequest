@@ -93,7 +93,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Moreno, Fernando @fernandomorenopayro 💪🏻
 
-- [ ] Mubagwa, Akonkwa
+- [X] Mubagwa, Akonkwa (@akonkwa) 🔥😊
 
 - [X] Odell, Steve (@odellsj) 🚀 🌔 GME
 
