@@ -67,7 +67,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Kim, Yeongmin (@sirodream) 🚀
 
-- [ ] Kossar, Peter
+- [X] Kossar, Peter (@peterkossar) 🚀
 
 - [X] Ku, Min (@minku1016) 🔥🔥
 
