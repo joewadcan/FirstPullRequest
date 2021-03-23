@@ -75,7 +75,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Lee, Linda lindalee117,  🤡
 
-- [ ] Lewis, Gabriel
+- [X] Lewis, Gabriel (@g7lewis) 😎
 
 - [X] Li, Justin (@Justinli90) 🚀
 
