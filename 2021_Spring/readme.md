@@ -83,7 +83,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Machlup, Daniel (@mchdan007) :collision:
 
-- [ ] Manda, Sagar
+- [X] Manda, Sagar (@smanda1a382j) :-)
 
 - [X] Marquardt, Corrine (@CorrineMarquardt :nail_care: :smiley_cat:)
 
