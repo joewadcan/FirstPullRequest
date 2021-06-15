@@ -13,6 +13,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Spring 2021
 
+- [X] Makungu Diketama, Gerson (GersonDiketama) 🧑🏿‍💻
+
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
 - [X] Barnard, Lance (@lancebarnardberkeley) :smiley:
