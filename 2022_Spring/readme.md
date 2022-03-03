@@ -15,4 +15,122 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ]
+- [ ] Aghaei, Niki
+
+- [ ] Al-Rayess, Nasser
+
+- [ ] Balasinorwala, Alefiyah
+
+- [ ] Bangalore, Taarika
+
+- [ ] Benjamin, Julia
+
+- [ ] Berrios, Andrea
+
+- [ ] Bobseine, Peter
+
+- [ ] Carter, Brooke
+
+- [ ] Chang, Vincent
+
+- [ ] Chi, Jason
+
+- [ ] Chin, Ryan
+
+- [ ] Chirls, Sydney
+
+- [ ] Cho, Paul
+
+- [ ] Chojolan, Edwin
+
+- [ ] Chu, Kelly
+
+- [ ] Dsilva, Jason
+
+- [ ] Forer, Gal
+
+- [ ] Fredkin, Maxwell
+
+- [ ] Gensheimer, Juliana
+
+- [ ] Gibo, Ryan
+
+- [ ] Gomes, Thalita
+
+- [ ] Hamilton, Alex
+
+- [ ] Han, Byungwoo
+
+- [ ] Huynh, Cindy
+
+- [ ] Irani, Zeenia
+
+- [ ] Jang, Robin
+
+- [ ] Johnson, Livia
+
+- [ ] Kim, Soohwan
+
+- [ ] Klinger, Olga
+
+- [ ] Kraiger, Jakob
+
+- [ ] Lau, Maggie
+
+- [ ] Law, Katherine
+
+- [ ] Littlefield, Ryan
+
+- [ ] Liu, Cindy
+
+- [ ] Lu, Jane
+
+- [ ] MacLean, Ian
+
+- [ ] Mantha, Srinivas
+
+- [ ] Mason, Chelsea
+
+- [ ] Melone, Sophia
+
+- [ ] Ornellas, Emily
+
+- [ ] Parkinson, David
+
+- [ ] Patel, Shiva
+
+- [ ] Peryea, Roy
+
+- [ ] Pugh, Daryl
+
+- [ ] Rumi, Alavi
+
+- [ ] Sborov, Alex
+
+- [ ] Sept, Simone
+
+- [ ] Sergian, Alexander
+
+- [ ] Springer, Elias
+
+- [ ] Sullivan, Ryan
+
+- [ ] Tolton, John
+
+- [ ] Tsoi, Alan
+
+- [ ] Tyagi, Varun
+
+- [ ] Wallace, Maxwell
+
+- [ ] Wang, Qiaoyi
+
+- [ ] Warshaw, Julie
+
+- [ ] Wisnicki, Elle
+
+- [ ] Wong, Alex
+
+- [ ] Wynia, Ben
+
+- [ ] Yang, Lutong
