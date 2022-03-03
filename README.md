@@ -1,7 +1,7 @@
 **This repo is for students to test out their first pull request**
 
 Students - click below to see the file you'll need to edit:
-- [Spring 2021](https://github.com/joewadcan/FirstPullRequest/tree/master/2021_Spring)
+- [Spring 2022](https://github.com/joewadcan/FirstPullRequest/tree/master/2022_Spring)
 
 **Helpful resources**
 
