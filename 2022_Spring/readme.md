@@ -27,7 +27,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Berrios, Andrea
 
-- [ ] Bobseine, Peter
+- [X] Bobseine, Peter @peterbobseine 🐻
 
 - [ ] Carter, Brooke
 
