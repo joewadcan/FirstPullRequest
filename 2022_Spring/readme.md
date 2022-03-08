@@ -13,7 +13,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Spring 2022
 
-- [x] Wadcan, Joe @joewadcan 🚀 🌔 🌙
+- [] Wadcan, Joe @joewadcan 🚀 🌔 🌙
 
 - [ ] Aghaei, Niki
 
@@ -41,7 +41,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Cho, Paul
 
-- [ ] Chojolan, Edwin
+- [x] Chojolan, Edwin @chojolan00 🐼✈️
 
 - [ ] Chu, Kelly
 
