@@ -94,7 +94,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Melone, Sophia @smelonemelone 😹
 
-- [ ] Ornellas, Emily
+- [x] Ornellas, Emily @eornellas 🌟💃🎊
 
 - [X] Parkinson, David (@davidparkinson12321) ❤️💕💕❤️
 
