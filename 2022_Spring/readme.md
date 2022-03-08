@@ -103,7 +103,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Pugh, Daryl
 
-- [ ] Rumi, Alavi
+- [x] Rumi, Alavi imur808 😙
 
 - [ ] Sborov, Alex
 
