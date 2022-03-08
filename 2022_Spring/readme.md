@@ -13,7 +13,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 # Spring 2022
 
-- [X] Wadcan, Joe (@joewadcan) 🚀 🌔
+- [x] Wadcan, Joe @joewadcan 🚀 🌔 🌙
 
 - [ ] Aghaei, Niki
 
