@@ -127,7 +127,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Warshaw, Julie @chewpp 🌞 🚲 🍕 
 
-- [ ] Wisnicki, Elle
+- [X] Wisnicki, Elle @ellewisnicki ✨
 
 - [X] Wong, Alex 6️⃣
 
