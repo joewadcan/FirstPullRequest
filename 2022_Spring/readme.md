@@ -113,7 +113,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Springer, Elias (@eliasspringer) 🌔
 
-- [ ] Sullivan, Ryan
+- [x] Sullivan, Ryan @sullivrs 😺 🥳
 
 - [x] Tolton, John @johnnybt 🐡
 
