@@ -57,7 +57,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Gomes, Thalita
 
-- [ ] Hamilton, Alex
+- [X] Hamilton, Alex @calchaminator 🇺🇦
 
 - [ ] Han, Byungwoo
 
