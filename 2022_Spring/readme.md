@@ -129,7 +129,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wisnicki, Elle
 
-- [ ] Wong, Alex
+- [X] Wong, Alex 6️⃣
 
 - [ ] Wynia, Ben
 
