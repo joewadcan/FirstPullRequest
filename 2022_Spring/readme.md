@@ -101,7 +101,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Peryea, Roy @royberkeley 🙃
 
-- [ ] Pugh, Daryl
+- [X] Pugh, Daryl @darylpugh 👍🏽👍🏽
 
 - [x] Rumi, Alavi imur808 😙
 
