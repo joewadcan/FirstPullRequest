@@ -59,7 +59,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Hamilton, Alex
 
-- [ ] Han, Byungwoo
+- [x] Han, Byungwoo @byungwoohan 🚀🌔🌙😎✌️
 
 - [ ] Huynh, Cindy
 
