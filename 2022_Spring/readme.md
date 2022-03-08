@@ -21,7 +21,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Balasinorwala, Alefiyah
 
-- [ ] Bangalore, Taarika
+- [X] Bangalore, Taarika @tbangalore 🦄
 
 - [ ] Benjamin, Julia
 
