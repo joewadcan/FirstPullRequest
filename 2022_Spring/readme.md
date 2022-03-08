@@ -121,7 +121,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Tyagi, Varun @variantguy 🏍️ 🏋️‍♂️ :
 
-- [ ] Wallace, Maxwell
+- [X] Wallace, Maxwell (@mdubshere) 😍 
 
 - [x] Wang, Qiaoyi @Joy9251😄🌞
 
