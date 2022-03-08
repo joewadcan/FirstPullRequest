@@ -29,7 +29,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bobseine, Peter @peterbobseine 🐻
 
-- [ ] Carter, Brooke
+- [X] Carter, Brooke @bacarter94 🌶️ 🅿️
 
 - [ ] Chang, Vincent
 
