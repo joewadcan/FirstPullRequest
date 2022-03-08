@@ -23,7 +23,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Bangalore, Taarika @tbangalore 🦄
 
-- [X] Benjamin, Julia 🌻 🐕‍🦺 
+- [ ] Benjamin, Julia
 
 - [x] Berrios, Andrea (aiberrios) 👻
 
