@@ -39,7 +39,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Chirls, Sydney
 
-- [x] Cho, Paul :octocat: 😾 🍫
+- [x] Cho, Paul @paulcho49 😾 🍫
 
 - [ ] Chojolan, Edwin
 
