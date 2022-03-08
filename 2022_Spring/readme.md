@@ -123,7 +123,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Wallace, Maxwell
 
-- [ ] Wang, Qiaoyi
+- [x] Wang, Qiaoyi @Joy9251😄🌞
 
 - [x] Warshaw, Julie @chewpp 🌞 🚲 🍕 
 
