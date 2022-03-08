@@ -95,7 +95,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Ornellas, Emily
 
-- [ ] Parkinson, David
+- [X] Parkinson, David (@davidparkinson12321) ❤️💕💕❤️
 
 - [ ] Patel, Shiva
 
