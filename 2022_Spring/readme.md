@@ -71,7 +71,8 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Kim, Soohwan @Soohwan617 🌔🚀
 
-- [ ] Klinger, Olga
+- [x] Klinger, Olga (@olgaklinger86) 😋
+
 
 - [ ] Kraiger, Jakob
 
