@@ -111,7 +111,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sergian, Alexander
 
-- [ ] Springer, Elias
+- [x] Springer, Elias (@eliasspringer) 🌔
 
 - [ ] Sullivan, Ryan
 
