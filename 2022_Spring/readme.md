@@ -109,7 +109,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sept, Simone
 
-- [ ] Sergian, Alexander
+- [X] Sergian, Alexander (@asergian) 😎
 
 - [ ] Springer, Elias
 
