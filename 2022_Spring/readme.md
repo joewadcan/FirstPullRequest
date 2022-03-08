@@ -45,7 +45,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Chu, Kelly @kellyychu 🔑 🔒
 
-- [x] Dsilva, Jason (:
+- [x] Dsilva, Jason @jasondsilva97 ⏰
 
 - [ ] Forer, Gal
 
