@@ -107,7 +107,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sborov, Alex
 
-- [ ] Sept, Simone
+- [X] Sept, Simone @simonesept 👋 🐈 🌳
 
 - [ ] Sergian, Alexander
 
