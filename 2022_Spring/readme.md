@@ -115,7 +115,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Sullivan, Ryan
 
-- [ ] Tolton, John
+- [x] Tolton, John @johnnybt 🐡
 
 - [ ] Tsoi, Alan
 
