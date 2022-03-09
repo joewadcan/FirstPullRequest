@@ -25,7 +25,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Benjamin, Julia
 
-- [ ] Berrios, Andrea
+- [X] Berrios, Andrea (@aiberrios) 👻
 
 - [X] Bobseine, Peter @peterbobseine 🐻
 
