@@ -98,7 +98,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Parkinson, David (@davidparkinson12321) ❤️💕💕❤️
 
-- [ ] Patel, Shiva
+- [X] Patel, Shiva @gujuletap2 🍀
 
 - [x] Peryea, Roy @royberkeley 🙃
 
