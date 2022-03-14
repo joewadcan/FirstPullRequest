@@ -49,7 +49,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Forer, Gal
 
-- [ ] Fredkin, Maxwell
+- [x] Fredkin, Maxwell @m-fredkin 🙂
 
 - [x] Gensheimer, Juliana @julianagensh 😈
 
