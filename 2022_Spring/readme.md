@@ -63,7 +63,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Huynh, Cindy
 
-- [ ] Irani, Zeenia
+- [x] Irani, Zeenia @zirani33 🌼🌸❀✿🌷
 
 - [x] Jang, Robin @rjang0593 🚀
 
