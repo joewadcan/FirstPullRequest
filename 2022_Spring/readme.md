@@ -65,7 +65,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Irani, Zeenia
 
-- [ ] Jang, Robin
+- [x] Jang, Robin @rjang0593 🚀
 
 - [x] Johnson, Livia @livsimomoto 💔
 
