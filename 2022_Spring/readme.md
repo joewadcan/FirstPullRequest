@@ -53,7 +53,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Gensheimer, Juliana @julianagensh 😈
 
-- [ ] Gibo, Ryan
+- [x] Gibo, Ryan @ryangibo 🙉 🙈 🙊
 
 - [x] Gomes, Thalita, @gomesthalita 🚀🍀
 
