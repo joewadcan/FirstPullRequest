@@ -19,7 +19,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Al-Rayess, Nasser @nasser24 🌯
 
-- [ ] Balasinorwala, Alefiyah
+- [x] Balasinorwala, Alefiyah @alefiyahb 🚀
 
 - [X] Bangalore, Taarika @tbangalore 🦄
 
