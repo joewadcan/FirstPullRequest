@@ -35,7 +35,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Chi, Jason @JChingoo 💰 🦛
 
-- [ ] Chin, Ryan
+- [x] Chin, Ryan @ddong320 😎 🌊
 
 - [x] Chirls, Sydney @sydneychirls29 ⭐
 
