@@ -55,7 +55,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [ ] Gibo, Ryan
 
-- [ ] Gomes, Thalita
+- [x] Gomes, Thalita, @gomesthalita 🚀🍀
 
 - [ ] Hamilton, Alex
 
