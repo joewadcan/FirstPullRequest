@@ -61,8 +61,6 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Han, Byungwoo @byungwoohan 🚀🌔🌙😎✌️
 
-- [ ] Huynh, Cindy
-
 - [x] Irani, Zeenia @zirani33 🌼🌸❀✿🌷
 
 - [x] Jang, Robin @rjang0593 🚀
@@ -81,13 +79,9 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Littlefield, Ryan @lttlfld 👋 🐚 🥾
 
-- [ ] Liu, Cindy
-
 - [ ] Lu, Jane
 
 - [ ] MacLean, Ian
-
-- [ ] Mantha, Srinivas
 
 - [X] Mason, Chelsea (@CMason999) 🐱🐈‍⬛
 
