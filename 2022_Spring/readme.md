@@ -92,7 +92,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Mason, Chelsea (@CMason999) 🐱🐈‍⬛
 
-- [x] Melone, Sophia @smelonemelone 😹
+- [x] Melone, Sophia @sophiamelone 😹
 
 - [x] Ornellas, Emily @eornellas 🌟💃🎊
 
@@ -102,7 +102,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Peryea, Roy @royberkeley 🙃
 
-- [X] Pugh, Daryl @darylpugh 👍🏽👍🏽
+- [X] Pugh, Daryl @dpugh1993 👍🏽👍🏽
 
 - [X] Rumi, Alavi @imur808 👍
 
