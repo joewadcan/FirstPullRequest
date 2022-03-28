@@ -71,7 +71,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Klinger, Olga (@olgaklinger86) 😋
 
-- [ ] Kraiger, Jakob
+- [x] Kraiger, Jakob 🚀
 
 - [x] Lau, Maggie @maggielau01 😎🌕🚀
 
