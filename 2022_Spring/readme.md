@@ -111,7 +111,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Tolton, John @johnnybt1 🐡
 
-- [ ] Tsoi, Alan
+- [X] Tsoi, Alan @alan-tsoi 🐻
 
 - [X] Tyagi, Varun @variantguy 🏍️ 🏋️‍♂️ :
 
