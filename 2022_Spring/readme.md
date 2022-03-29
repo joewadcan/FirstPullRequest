@@ -75,7 +75,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [x] Lau, Maggie @maggielau01 😎🌕🚀
 
-- [ ] Law, Katherine
+- [x] Law, Katherine @kat-law 🌕🚀
 
 - [X] Littlefield, Ryan @lttlfld 👋 🐚 🥾
 
