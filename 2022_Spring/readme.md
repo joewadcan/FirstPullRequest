@@ -31,7 +31,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Carter, Brooke @bacarter94 🌶️ 🅿️
 
-- [ ] Chang, Vincent
+- [X] Chang, Vincent @thisisvc 🐽 
 
 - [x] Chi, Jason @JChingoo 💰 🦛
 
