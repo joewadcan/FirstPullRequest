@@ -15,7 +15,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [X] Aghaei, Niki (@nikiness) 
+- [X] Aghaei, Niki (@nikiness) 💃😊
 
 - [x] Al-Rayess, Nasser @nasser24 🌯
 
