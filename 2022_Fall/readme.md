@@ -49,7 +49,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Gong, Dingmi
 
-- [ ] Grove, Davis
+- [X] Grove, Davis - dagrove44🚀
 
 - [ ] Haley, Connor
 
