@@ -115,7 +115,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Veerasuntharam, Aaron
 
-- [ ] Wang, James
+- [x] Wang, James (@JamesJYWang) :cowboy_hat_face: :rocket:
 
 - [ ] Wang, Tomoe
 
