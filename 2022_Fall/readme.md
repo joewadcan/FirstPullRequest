@@ -63,7 +63,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Kang, Min Jee
 
-- [ ] Lam, Kendall
+- [X] Lam, Kendall (@unsanforized) 💩🤟
 
 - [ ] Le, Nga
 
