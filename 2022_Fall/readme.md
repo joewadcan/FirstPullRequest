@@ -91,7 +91,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Patel, Ami
 
-- [ ] Pavez, Matias
+- [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
 - [ ] Peng, Lily
 
