@@ -33,6 +33,8 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Castro, Isaac
 
+- [x] Chaganty, Aparna (@aparnachaganty :fire: :fire:)
+
 - [ ] Cohen, Hezi
 
 - [ ] Considine, Thomas
