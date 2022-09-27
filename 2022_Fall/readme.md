@@ -43,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Feeney, Andrew
 
-- [ ] Fine, Maxwell
+- [X] Fine, Maxwell (@maxhfine) :skier: :surfer: :beer:
 
 - [ ] Flores, Edson
 
