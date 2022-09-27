@@ -105,7 +105,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Seethor, Diane
 
-- [ ] Shamon, Joseph
+- [x] Shamon, Joseph (@jsham042) :rocket:
 
 - [ ] Taylor, David
 
