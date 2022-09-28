@@ -93,7 +93,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Pavez, Matias
 
-- [ ] Peng, Lily
+- [X] Peng, Lily (@penglb) :partying_face: :books:
 
 - [ ] Perticucci, Tommaso
 
