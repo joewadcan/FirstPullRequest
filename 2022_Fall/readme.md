@@ -17,7 +17,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Al-Rayes, Mariam
 
-- [ ] Aldaoud, Bushra
+- [X] Aldaoud, Bushra (@bushra-23) 🚀 🚀 
 
 - [ ] Arrazola, Felipe
 
@@ -33,6 +33,8 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Castro, Isaac
 
+- [x] Chaganty, Aparna (@aparnachaganty) :fire: :fire:
+
 - [ ] Cohen, Hezi
 
 - [ ] Considine, Thomas
@@ -41,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Feeney, Andrew
 
-- [ ] Fine, Maxwell
+- [X] Fine, Maxwell (@maxhfine) :skier: :surfer: :beer:
 
 - [ ] Flores, Edson
 
@@ -49,7 +51,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Gong, Dingmi
 
-- [ ] Grove, Davis
+- [X] Grove, Davis - dagrove44🚀
 
 - [ ] Haley, Connor
 
@@ -63,11 +65,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Kang, Min Jee
 
-- [ ] Lam, Kendall
+- [X] Lam, Kendall (@unsanforized) 💩🤟
 
-- [ ] Le, Nga
+- [x] Le, Nga (@NgaLeVN) :v: :v: :v:
 
-- [ ] Lee, Ben
+- [X] Lee, Ben (@bhl212) 🚀 🌔 🚀 🌔
 
 - [ ] Lohana, Gurbux
 
@@ -75,11 +77,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Mahoney, Daniel
 
-- [ ] McKelvey, Will
+- [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
 - [ ] Misra, Aayush
 
-- [ ] Mora, Elsa
+- [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
 - [ ] Mullangi, Praneetha
 
@@ -91,7 +93,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Patel, Ami
 
-- [ ] Pavez, Matias
+- [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
 - [ ] Peng, Lily
 
@@ -99,7 +101,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Picciano, Beno
 
-- [ ] Rohrbach, Alex
+- [x] Rohrbach, Alex (@ARohrba5) :smiley: 
 
 - [ ] Seethor, Diane
 
@@ -127,7 +129,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Zheng, Wei
 
-- [ ] Zhu, Harrison
+- [X] Zhu, Harrison (@hdzhu1265) 🚀🚀🚀🚀🚀
 
 
 -----------------
