@@ -25,7 +25,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Barnhart, Grant
 
-- [ ] Bianes, Alana
+- [X] Bianes, Alana (@abianesucb)👻
 
 - [ ] Bosselin, Felipe
 
