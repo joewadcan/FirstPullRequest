@@ -73,7 +73,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lohana, Gurbux
 
-- [ ] Lordemann, Ian
+- [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
 - [ ] Mahoney, Daniel
 
