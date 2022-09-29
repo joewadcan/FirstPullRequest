@@ -27,7 +27,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Bianes, Alana
 
-- [ ] Bosselin, Felipe
+- [X] Bosselin, Felipe (@fbosselin) :pineapple:
 
 - [X] Breaux, Nediva (@nedivatara) :seedling: :rainbow: :sunny: 
 
