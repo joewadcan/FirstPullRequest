@@ -91,7 +91,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Pape-Calabrese, Carravita
 
-- [ ] Patel, Ami
+- [X] Patel, Ami (@amypaddle1) :helicopter: :cookie: :ski:
 
 - [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
