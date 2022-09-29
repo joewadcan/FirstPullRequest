@@ -113,7 +113,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Toyomasu, Taka (@TakaHaas) :+1::sparkles:
 
-- [ ] Vakis, Yiannos
+- [X] Vakis, Yiannos :rocket: :smiley:
 
 - [ ] Veerasuntharam, Aaron
 
