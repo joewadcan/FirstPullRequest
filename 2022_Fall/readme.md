@@ -127,7 +127,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Zheng, Peiliang
 
-- [ ] Zheng, Wei
+- [X] Zheng, Wei (@Weisgit) 💙 👻 💃
 
 - [X] Zhu, Harrison (@hdzhu1265) 🚀🚀🚀🚀🚀
 
