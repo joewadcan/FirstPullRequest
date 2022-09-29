@@ -83,7 +83,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
-- [X] Mullangi, Praneetha (@pmullangi) :fire: :smiley:
+- [X] Mullangi, Praneetha (@p-mullangi) :fire: :smiley:
 
 - [ ] Nagpal, Ravi
 
