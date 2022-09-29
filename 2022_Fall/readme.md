@@ -123,7 +123,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Yao, Julian
 
-- [ ] Yen, Elizabeth
+- [X] Yen, Elizabeth (@Eliz226) 😎 😎 😎 😎 😎 
 
 - [ ] Zheng, Peiliang
 
