@@ -29,7 +29,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Bosselin, Felipe
 
-- [ ] Breaux, Nediva
+- [X] Breaux, Nediva (@nedivatara) :seedling: :rainbow: :sunny: 
 
 - [ ] Castro, Isaac
 
@@ -73,7 +73,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lohana, Gurbux
 
-- [ ] Lordemann, Ian
+- [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
 - [ ] Mahoney, Daniel
 
@@ -105,13 +105,13 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Seethor, Diane
 
-- [ ] Shamon, Joseph
+- [x] Shamon, Joseph (@jsham042) :rocket:
 
 - [ ] Taylor, David
 
 - [ ] To, Hoang
 
-- [ ] Toyomasu, Taka
+- [X] Toyomasu, Taka (@TakaHaas) :+1::sparkles:
 
 - [ ] Vakis, Yiannos
 
