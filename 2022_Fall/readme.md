@@ -17,7 +17,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Al-Rayes, Mariam
 
-- [ ] Aldaoud, Bushra
+- [X] Aldaoud, Bushra (@bushra-23) 🚀 🚀 
 
 - [ ] Arrazola, Felipe
 
@@ -29,9 +29,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Bosselin, Felipe
 
-- [ ] Breaux, Nediva
+- [X] Breaux, Nediva (@nedivatara) :seedling: :rainbow: :sunny: 
 
 - [ ] Castro, Isaac
+
+- [x] Chaganty, Aparna (@aparnachaganty) :fire: :fire:
 
 - [ ] Cohen, Hezi
 
@@ -41,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Feeney, Andrew
 
-- [ ] Fine, Maxwell
+- [X] Fine, Maxwell (@maxhfine) :skier: :surfer: :beer:
 
 - [ ] Flores, Edson
 
@@ -49,7 +51,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Gong, Dingmi
 
-- [ ] Grove, Davis
+- [X] Grove, Davis - dagrove44🚀
 
 - [ ] Haley, Connor
 
@@ -63,23 +65,23 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Kang, Min Jee
 
-- [ ] Lam, Kendall
+- [X] Lam, Kendall (@unsanforized) 💩🤟
 
-- [ ] Le, Nga
+- [x] Le, Nga (@NgaLeVN) :v: :v: :v:
 
-- [ ] Lee, Ben
+- [X] Lee, Ben (@bhl212) 🚀 🌔 🚀 🌔
 
 - [ ] Lohana, Gurbux
 
-- [ ] Lordemann, Ian
+- [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
 - [ ] Mahoney, Daniel
 
-- [ ] McKelvey, Will
+- [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
 - [ ] Misra, Aayush
 
-- [ ] Mora, Elsa
+- [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
 - [ ] Mullangi, Praneetha
 
@@ -91,25 +93,25 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Patel, Ami :art: :helicopter:
 
-- [ ] Pavez, Matias
+- [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
-- [ ] Peng, Lily
+- [X] Peng, Lily (@penglb) :partying_face: :books:
 
 - [ ] Perticucci, Tommaso
 
 - [ ] Picciano, Beno
 
-- [ ] Rohrbach, Alex
+- [x] Rohrbach, Alex (@ARohrba5) :smiley: 
 
 - [ ] Seethor, Diane
 
-- [ ] Shamon, Joseph
+- [x] Shamon, Joseph (@jsham042) :rocket:
 
 - [ ] Taylor, David
 
 - [ ] To, Hoang
 
-- [ ] Toyomasu, Taka
+- [X] Toyomasu, Taka (@TakaHaas) :+1::sparkles:
 
 - [ ] Vakis, Yiannos
 
@@ -127,7 +129,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Zheng, Wei
 
-- [ ] Zhu, Harrison
+- [X] Zhu, Harrison (@hdzhu1265) 🚀🚀🚀🚀🚀
 
 
 -----------------
