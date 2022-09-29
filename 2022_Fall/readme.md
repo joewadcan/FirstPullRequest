@@ -61,7 +61,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Jhingan, Akshat
 
-- [ ] Juscamaita, Fiorella
+- [X] Juscamaita, Fiorella - (@fioj) 👀👌
 
 - [ ] Kang, Min Jee
 
