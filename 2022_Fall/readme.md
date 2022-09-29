@@ -119,7 +119,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Wang, James
 
-- [ ] Wang, Tomoe
+- [X] Wang, Tomoe (@TomoeWang) 😎🚀 
 
 - [ ] Yao, Julian
 
