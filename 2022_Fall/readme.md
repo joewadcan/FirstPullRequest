@@ -97,7 +97,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Perticucci, Tommaso
 
-- [ ] Picciano, Beno
+- [X] Picciano, Beno (bpicciano) 🚢
 
 - [ ] Rohrbach, Alex
 
