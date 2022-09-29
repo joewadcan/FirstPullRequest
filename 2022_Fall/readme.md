@@ -75,7 +75,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
-- [ ] Mahoney, Daniel
+- [X] Mahoney, Daniel (@danielpmahoney) ;) 🚀
 
 - [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
