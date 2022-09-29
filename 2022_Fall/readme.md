@@ -59,7 +59,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Hyden, Mika
 
-- [ ] Jhingan, Akshat
+- [X] Jhingan, Akshat @akshatjhingan 🚀
 
 - [ ] Juscamaita, Fiorella
 
@@ -75,7 +75,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
-- [ ] Mahoney, Daniel
+- [X] Mahoney, Daniel (@danielpmahoney) ;) 🚀
 
 - [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
@@ -83,7 +83,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
-- [ ] Mullangi, Praneetha
+- [X] Mullangi, Praneetha (@p-mullangi) :fire: :smiley:
 
 - [ ] Nagpal, Ravi
 
@@ -125,7 +125,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Yen, Elizabeth
 
-- [ ] Zheng, Peiliang
+- [X] Zheng, Peiliang (@Plzheng) 🚀🚀
 
 - [ ] Zheng, Wei
 
