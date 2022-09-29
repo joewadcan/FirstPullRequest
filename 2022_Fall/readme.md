@@ -33,7 +33,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Castro, Isaac
 
-- [X] Cohen, Hezi 🦄 🦄 🦄
+- [X] Cohen, Hezi (@hezico) 🦄 🦄 🦄
 
 - [ ] Considine, Thomas
 
