@@ -89,7 +89,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Nguyen, Ngoc
 
-- [ ] Pape-Calabrese, Carravita
+- [X] Pape-Calabrese, Carravita (@CarravitaPC) 🐱🎹
 
 - [X] Patel, Ami (@amypaddle1) 🚁 ⛷️ 🎿 
 
