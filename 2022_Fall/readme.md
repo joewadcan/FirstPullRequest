@@ -21,7 +21,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Arrazola, Felipe
 
-- [ ] Bandreddi, Manoj
+- [X] Bandreddi, Manoj (@mbandreddi) 🐻 🥭
 
 - [ ] Barnhart, Grant
 
@@ -47,7 +47,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Flores, Edson
 
-- [ ] Garg, Surbhi
+- [x] Garg, Surbhi (surbhigarg30) :rocket:
 
 - [ ] Gong, Dingmi
 
@@ -59,7 +59,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Hyden, Mika
 
-- [ ] Jhingan, Akshat
+- [X] Jhingan, Akshat @akshatjhingan 🚀
 
 - [ ] Juscamaita, Fiorella
 
@@ -71,11 +71,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Lee, Ben (@bhl212) 🚀 🌔 🚀 🌔
 
-- [ ] Lohana, Gurbux
+- [X] Lohana, (@gurbuxlohana) 😎 
 
 - [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
-- [ ] Mahoney, Daniel
+- [X] Mahoney, Daniel (@danielpmahoney) ;) 🚀
 
 - [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
@@ -83,19 +83,19 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
-- [ ] Mullangi, Praneetha
+- [X] Mullangi, Praneetha (@p-mullangi) :fire: :smiley:
 
-- [ ] Nagpal, Ravi
+- [X] Nagpal, Ravi (@rnagpal991) ✌️🚗
 
 - [ ] Nguyen, Ngoc
 
 - [ ] Pape-Calabrese, Carravita
 
-- [ ] Patel, Ami
+- [X] Patel, Ami (@amypaddle1) 🚁 ⛷️ 🎿 
 
 - [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
-- [ ] Peng, Lily
+- [X] Peng, Lily (@penglb) :partying_face: :books:
 
 - [ ] Perticucci, Tommaso
 
@@ -121,11 +121,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Wang, Tomoe
 
-- [ ] Yao, Julian
+- [X] Yao, Julian (@julianjjyao) :rocket:
 
 - [ ] Yen, Elizabeth
 
-- [ ] Zheng, Peiliang
+- [X] Zheng, Peiliang (@Plzheng) 🚀🚀
 
 - [ ] Zheng, Wei
 
