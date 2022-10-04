@@ -41,7 +41,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Darraidou, Carolina
 
-- [X] Feeney, Andrew (andrewfeeney13) 🦃
+- [X] Feeney, Andrew (andrewfeeney13) 🦃:star:
 
 - [X] Fine, Maxwell (@maxhfine) :skier: :surfer: :beer:
 
