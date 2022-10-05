@@ -15,119 +15,121 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Al-Rayes, Mariam
+- [X] Al-Rayes, Mariam (@malrayes) 🍕🍕
 
-- [ ] Aldaoud, Bushra
+- [X] Aldaoud, Bushra (@bushra-23) 🚀 🚀 
 
-- [ ] Arrazola, Felipe
+- [X] Arrazola, Felipe (@Felipe-Arrazola) 😍🏗️
 
-- [ ] Bandreddi, Manoj
+- [X] Bandreddi, Manoj (@mbandreddi) 🐻 🥭
 
-- [ ] Barnhart, Grant
+- [x] Barnhart, Grant (@gebarn) 🤌 🗿 
 
-- [ ] Bianes, Alana
+- [X] Bianes, Alana (@abianesucb) 👻
 
-- [ ] Bosselin, Felipe
+- [X] Bosselin, Felipe (@fbosselin) :pineapple:
 
-- [ ] Breaux, Nediva
+- [X] Breaux, Nediva (@nedivatara) :seedling: :rainbow: :sunny: 
 
 - [ ] Castro, Isaac
 
-- [ ] Cohen, Hezi
+- [x] Chaganty, Aparna (@aparnachaganty) :fire: :fire:
+
+- [X] Cohen, Hezi (@hezico) 🦄 🦄 🦄
 
 - [ ] Considine, Thomas
 
-- [ ] Darraidou, Carolina
+- [X] Darraidou, Carolina (@carolinadarraidou) :blossom::relaxed:
 
-- [ ] Feeney, Andrew
+- [X] Feeney, Andrew (andrewfeeney13) :turkey: :star:
 
-- [ ] Fine, Maxwell
+- [X] Fine, Maxwell (@maxhfine) :skier: :surfer: :beer:
 
-- [ ] Flores, Edson
+- [x] Flores, Edson (@edsonfdl) :alien: :robot: :space_invader: :soccer:
 
-- [ ] Garg, Surbhi
+- [x] Garg, Surbhi (surbhigarg30) :rocket:
 
-- [ ] Gong, Dingmi
+- [X] Gong, Dingmi(@berkeleyway)😎😎🚀🚀 
 
-- [ ] Grove, Davis
+- [X] Grove, Davis - dagrove44🚀
 
 - [ ] Haley, Connor
 
-- [ ] Hwang, Uiseok
+- [X] Hwang, Uiseok (@uiseokh)🚀
 
-- [ ] Hyden, Mika
+- [X] Hyden, Mika (@mikahyden) 🙌🙌
 
-- [ ] Jhingan, Akshat
+- [X] Jhingan, Akshat @akshatjhingan 🚀
 
-- [ ] Juscamaita, Fiorella
+- [X] Juscamaita, Fiorella - (@fioj) 👀👌
 
 - [ ] Kang, Min Jee
 
-- [ ] Lam, Kendall
+- [X] Lam, Kendall (@unsanforized) 💩🤟
 
-- [ ] Le, Nga
+- [x] Le, Nga (@NgaLeVN) :v: :v: :v:
 
-- [ ] Lee, Ben
+- [X] Lee, Ben (@bhl212) 🚀 🌔 🚀 🌔
 
-- [ ] Lohana, Gurbux
+- [X] Lohana, (@gurbuxlohana) 😎 
 
-- [ ] Lordemann, Ian
+- [X] Lordemann, Ian (@IanLBerkeleyHaas) :surfer: :beer: :fire:
 
-- [ ] Mahoney, Daniel
+- [X] Mahoney, Daniel (@danielpmahoney) ;) 🚀
 
-- [ ] McKelvey, Will
+- [X] McKelvey, Will (@willmckelvey) 🙆🏼‍♂️🙌🙋🏼‍♂️🙆🏼‍♂️
 
 - [ ] Misra, Aayush
 
-- [ ] Mora, Elsa
+- [X] Mora, Elsa (@Emora21)🇲🇽🥳
 
-- [ ] Mullangi, Praneetha
+- [X] Mullangi, Praneetha (@p-mullangi) :fire: :smiley:
 
-- [ ] Nagpal, Ravi
+- [X] Nagpal, Ravi (@rnagpal991) ✌️🚗
 
-- [ ] Nguyen, Ngoc
+- [X] Nguyen, Ngoc (@ngocnguyen-angie) 🥺😺🖖💡
 
-- [ ] Pape-Calabrese, Carravita
+- [X] Pape-Calabrese, Carravita (@CarravitaPC) 🐱🎹
 
-- [ ] Patel, Ami
+- [X] Patel, Ami (@amypaddle1) 🚁 ⛷️ 🎿 
 
-- [ ] Pavez, Matias
+- [X] Pavez, Matias (@matiaspba) 😎 😎 😎 
 
-- [ ] Peng, Lily
+- [X] Peng, Lily (@penglb) :partying_face: :books:
 
 - [ ] Perticucci, Tommaso
 
-- [ ] Picciano, Beno
+- [X] Picciano, Beno (bpicciano) 🚢
 
-- [ ] Rohrbach, Alex
+- [x] Rohrbach, Alex (@ARohrba5) :smiley: 
 
 - [ ] Seethor, Diane
 
-- [ ] Shamon, Joseph
+- [x] Shamon, Joseph (@jsham042) :rocket:
 
-- [ ] Taylor, David
+- [X] Taylor, David (D4V1DT4YL0R) :+1::sparkles: :rocket:
 
 - [ ] To, Hoang
 
-- [ ] Toyomasu, Taka
+- [X] Toyomasu, Taka (@TakaHaas) :+1::sparkles:
 
-- [ ] Vakis, Yiannos
+- [X] Vakis, Yiannos (@yiannosv) :rocket: :smiley:
 
-- [ ] Veerasuntharam, Aaron
+- [X] Veerasuntharam, Aaron (@aaronveeraberkeley) 🚀 🚀
 
-- [ ] Wang, James
+- [x] Wang, James (@JamesJYWang) :cowboy_hat_face: :rocket:
 
-- [ ] Wang, Tomoe
+- [X] Wang, Tomoe (@TomoeWang) 😎🚀 
 
-- [X] Yao, Julian 🚀🚀 HOUSTON ROCKETS 🚀🚀
+- [X] Yao, Julian (@julianjjyao) :rocket:
 
-- [ ] Yen, Elizabeth
+- [X] Yen, Elizabeth (@Eliz226) 😎 😎 😎 😎 😎 
 
-- [ ] Zheng, Peiliang
+- [X] Zheng, Peiliang (@Plzheng) 🚀🚀
 
-- [ ] Zheng, Wei
+- [X] Zheng, Wei (@Weisgit) 💙 👻 💃
 
-- [ ] Zhu, Harrison
+- [X] Zhu, Harrison (@hdzhu1265) 🚀🚀🚀🚀🚀
 
 
 -----------------
