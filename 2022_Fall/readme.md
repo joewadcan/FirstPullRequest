@@ -109,7 +109,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Taylor, David (D4V1DT4YL0R) :+1::sparkles: :rocket:
 
-- [ ] To, Hoang
+- [X] To, Hoang (@Tojtt)🚀🚀🚀:smirk::smirk::smirk::smirk:
 
 - [X] Toyomasu, Taka (@TakaHaas) :+1::sparkles:
 
