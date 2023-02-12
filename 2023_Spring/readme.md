@@ -11,7 +11,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 ------------
 
-# Fall 2022
+# Spring 2023
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
