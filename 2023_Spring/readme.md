@@ -43,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Kwok, Cherie
 
-- [ ] Yousufzhai, Shayan
+- [X] Yousufzhai, Shayan @syousuf3 💯 💯 
 
 - [ ] Chuong, Carolyn
 
