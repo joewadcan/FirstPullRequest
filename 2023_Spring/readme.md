@@ -51,7 +51,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ng, Wesley
 
-- [ ] Battagin, Eduardo
+- [x] Battagin, Eduardo (@edubattagin) 🚀🚀
 
 - [ ] Lam, Myron
 
