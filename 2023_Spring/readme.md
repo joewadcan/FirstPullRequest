@@ -65,7 +65,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Greenstein, Uriel
 
-- [ ] Batomunkueva, Dara
+- [X] Batomunkueva, Dara @dbatomunkueva 🚀
 
 - [ ] Molina, Rosario
 
