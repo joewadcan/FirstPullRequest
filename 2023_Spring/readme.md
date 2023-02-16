@@ -79,7 +79,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Siddiqui, Basim
 
-- [ ] Kim, Anna
+- [X ] Kim, Annaa(@annakim222)😋
 
 - [ ] Libedinsky Ale, Soledad
 
