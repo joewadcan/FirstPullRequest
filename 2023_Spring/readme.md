@@ -29,7 +29,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Golas, Supriya
 
-- [ ] Adams, Nicole
+- [X] Adams, Nicole (@nnadams87) 🥑🍙
 
 - [ ] Cheng, Michael
 
