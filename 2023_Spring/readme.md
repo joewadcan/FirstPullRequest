@@ -63,7 +63,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Rivera, Giovanni
 
-- [x] Greenstein, Uriel 🇮🇱
+- [x] Greenstein, Uriel 🇮🇱 (@Urielgsn)
 
 - [ ] Batomunkueva, Dara
 
