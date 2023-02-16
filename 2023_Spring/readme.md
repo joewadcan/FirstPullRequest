@@ -39,7 +39,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ichimori, Kaz
 
-- [ ] Hsieh, Steven
+- [X] Hsieh, Steven (@stehsieh) 😼 🚀
 
 - [ ] Kwok, Cherie
 
