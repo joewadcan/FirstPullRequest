@@ -13,7 +13,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 # Spring 2023
 
-- [X] Wadcan, Joe (@joewadcan) 🚀 🌔
+- [x] Wadcan, Joe (@joewadcan) 🚀 🌔 💥
 
 - [ ] Zepeda Arreola, Katherine
 
