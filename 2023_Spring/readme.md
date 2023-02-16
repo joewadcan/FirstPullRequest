@@ -17,7 +17,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Zepeda Arreola, Katherine
 
-- [ ] Craig, Kevin
+- [X] Craig, Kevin (@craig-kc) 👌😎 ✔
 
 - [X] Hurley, Andrew (@Ahurley7) 🥇⚗️
 
