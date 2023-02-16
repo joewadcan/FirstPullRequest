@@ -73,7 +73,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Pollock, Jack
 
-- [ ] Shah, Jahnavi
+- [X] Shah, Jahnavi :D
 
 - [ ] Lee, Alice
 
