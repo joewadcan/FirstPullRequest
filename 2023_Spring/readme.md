@@ -33,7 +33,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Cheng, Michael
 
-- [ ] Yu, Joseph
+- [x] Yu, Joseph (@josephyuberkeley) 😊🔥
 
 - [ ] Aly Reza, Haider
 
