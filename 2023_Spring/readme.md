@@ -25,7 +25,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Calkins, Jonathan
 
-- [ ] Mallyn, Sevara
+- [x] Mallyn, Sevara (@smallyn) 💃🏻💃🏻
 
 - [ ] Golas, Supriya
 
