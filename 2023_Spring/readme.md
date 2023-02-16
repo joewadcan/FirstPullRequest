@@ -35,7 +35,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Yu, Joseph
 
-- [ ] Aly Reza, Haider
+- [X] Aly Reza, Haider ⚽ ⚽ 
 
 - [ ] Ichimori, Kaz
 
