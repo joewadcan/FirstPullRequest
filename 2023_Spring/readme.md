@@ -89,7 +89,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Elzinga, Jake
 
-- [X] Techaphulphol, Korawat @korawat.t 😎☁️
+- [X] Techaphulphol, Korawat @korawatt 😎☁️
 
 
 -----------------
