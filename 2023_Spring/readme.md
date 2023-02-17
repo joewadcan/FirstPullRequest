@@ -83,7 +83,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Libedinsky Ale, Soledad
 
-- [X] Badih, Dalia :D
+- [X] Badih, Dalia (@dbadih) :D
 
 - [ ] Sidhu, Tanaz
 
