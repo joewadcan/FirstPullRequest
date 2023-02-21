@@ -15,11 +15,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Zepeda Arreola, Katherine
+- [X] Zepeda Arreola, Katherine (@katherinezepeda) ✨ 😏
 
-- [ ] Craig, Kevin
+- [X] Craig, Kevin (@craig-kc) 👌😎 ✔
 
-- [ ] Hurley, Andrew
+- [X] Hurley, Andrew (@Ahurley7) 🥇⚗️
 
 - [ ] Shumate, Tiffany Lorraine
 
@@ -27,51 +27,51 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Mallyn, Sevara
 
-- [X] Golas, Supriya (spg222) 🐻 🥸 🦣
+- [X] Golas, Supriya (@spg222) 🦃 🐓
 
-- [ ] Adams, Nicole
+- [X] Adams, Nicole (@nnadams87) 🥑🍙
 
-- [ ] Cheng, Michael
+- [x] Cheng, Michael (@mcheng31) ☄️ ⚡️
 
-- [ ] Yu, Joseph
+- [x] Yu, Joseph (@josephyuberkeley) 😊🔥
 
-- [ ] Aly Reza, Haider
+- [X] Aly Reza, Haider (@halyreza2) ⚽ ⚽ 
 
 - [ ] Ichimori, Kaz
 
-- [ ] Hsieh, Steven
+- [X] Hsieh, Steven (@stehsieh) 😼 🚀
 
-- [ ] Kwok, Cherie
+- [X] Kwok, Cherie (@cheriekwok) 💫🍄🚀
 
-- [ ] Yousufzhai, Shayan
+- [X] Yousufzhai, Shayan @syousuf3 💯 💯 
 
-- [ ] Chuong, Carolyn
+- [X] Chuong, Carolyn (@carolynchuong) 🥹
 
-- [ ] Lee, Joongkul
+- [x] Lee, Joongkul (@jklee-bear) 🐻🐰🐻🐰
 
-- [ ] Ng, Wesley
+- [x] Ng, Wesley (@wesleysfng) 🥑 🍳
 
 - [ ] Battagin, Eduardo
 
-- [ ] Lam, Myron
+- [X] Lam, Myron (@myronhc) 🐬
 
 - [ ] Ekedede, Chioma
 
 - [ ] Deshon, Kyle
 
-- [ ] Medina, Maelym
+- [X] Medina, Maelym @MaelymMedina 🍀 🐶
 
 - [ ] Rivera, Giovanni
 
 - [ ] Greenstein, Uriel
 
-- [ ] Batomunkueva, Dara
+- [X] Batomunkueva, Dara @dbatomunkueva 🚀
 
 - [ ] Molina, Rosario
 
-- [ ] Weng, Ella
+- [x] Weng, Ella (@ellaberkeley) 😉
 
-- [ ] Pollock, Jack
+- [X] Pollock, Jack @JackGP13, 🥇 
 
 - [ ] Shah, Jahnavi
 
@@ -79,17 +79,17 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Siddiqui, Basim
 
-- [ ] Kim, Anna
+- [X ] Kim, Annaa(@annakim222)😋
 
-- [ ] Libedinsky Ale, Soledad
+- [X] Libedinsky Ale, Soledad (@solelibedinskyale)💆‍♀️⭐
 
 - [ ] Badih, Dalia
 
 - [ ] Sidhu, Tanaz
 
-- [ ] Elzinga, Jake
+- [X] Elzinga, Jake (@JE-codez) 🔥 👀 🔥 👀 🔥
 
-- [ ] Techaphulphol, Korawat
+- [X] Techaphulphol, Korawat @korawatt 😎☁️
 
 
 -----------------
