@@ -85,7 +85,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Badih, Dalia
 
-- [ ] Sidhu, Tanaz
+- [X] Sidhu, Tanaz (@tzsidhu)🖤🍫🌈
 
 - [X] Elzinga, Jake (@JE-codez) 🔥 👀 🔥 👀 🔥
 
