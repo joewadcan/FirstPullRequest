@@ -57,7 +57,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ekedede, Chioma
 
-- [X]Deshon, Kyle @kyledeshon 🚠 
+- [X] Deshon, Kyle @kyledeshon 🚠 
 
 - [X] Medina, Maelym @MaelymMedina 🍀 🐶
 
