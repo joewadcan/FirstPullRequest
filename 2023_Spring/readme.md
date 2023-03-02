@@ -61,7 +61,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Medina, Maelym @MaelymMedina 🍀 🐶
 
-- [ ] Rivera, Giovanni
+- [X] Rivera, Giovanni @berkeleygio 🐻🐻
 
 - [X] Greenstein, Uriel (@URIELGSN) 🔥🚀
 
