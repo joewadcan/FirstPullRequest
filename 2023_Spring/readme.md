@@ -21,7 +21,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Hurley, Andrew (@Ahurley7) 🥇⚗️
 
-- [X] Shumate, Tiffany Lorraine ❤️❤️ (@tiffany-shumate)
+- [X] Shumate, Tiffany Lorraine ❤️❤️ (@Tiffany-Shumate)
 
 - [ ] Calkins, Jonathan
 
