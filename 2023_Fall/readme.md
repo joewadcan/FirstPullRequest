@@ -17,11 +17,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Africk, Alexander
 
-- [ ]Brescia Helfer, Francesco Fortunato
+- [ ] Brescia Helfer, Francesco Fortunato
 
-- [ ]Chen, Nick
+- [ ] Chen, Nick
 
-- [ ]Clowers, Anya
+- [ ] Clowers, Anya
 
 - [ ] Desouki, Ismail
       
