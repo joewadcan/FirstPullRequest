@@ -39,7 +39,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Kleffke, Konstantin
       
-- [ ] Li, Vivian
+- [X] Li, Vivian (@YL1250) 🦋🌙
       
 - [ ] Lindbloom, Andrew
       
