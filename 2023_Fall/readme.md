@@ -53,7 +53,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Schoff, Austin
       
-- [ ] Velappan, Sanjay
+- [X] Velappan, Sanjay - sanvelappan 🧑‍🚀
       
 - [ ] Wood, Xan
       
