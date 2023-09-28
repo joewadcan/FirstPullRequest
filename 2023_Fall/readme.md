@@ -17,7 +17,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Africk, Alexander
 
-- [ ] Brescia Helfer, Francesco Fortunato
+- [X] Brescia Helfer, Francesco Fortunato (fbresciah) 🍄
 
 - [ ] Chen, Nick
 
