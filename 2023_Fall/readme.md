@@ -55,7 +55,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Velappan, Sanjay
       
-- [ ] Wood, Xan
+- [ ] Wood, Xan 😎 🇬🇧🇵🇹 woodmeistergeneral 
       
 - [ ] Yakame, Shogo
       
