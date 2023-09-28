@@ -21,7 +21,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Chen, Nick
 
-- [ ] Clowers, Anya
+- [X] Clowers, Anya (@anya-clowers) 🌴☀️
 
 - [ ] Desouki, Ismail
       
