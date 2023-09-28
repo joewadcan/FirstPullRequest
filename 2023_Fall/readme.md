@@ -19,7 +19,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Brescia Helfer, Francesco Fortunato
 
-- [ ] Chen, Nick
+- [X] Chen, Nick (@nicholascrh) 🚀🚀🚀🚀🚀🚀🚀
 
 - [ ] Clowers, Anya
 
