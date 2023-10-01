@@ -65,7 +65,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Zhang, Frank
       
-- [ ] Zhong, Sienna
+- [x] Zhong, Sienna (@Sienna-Zhong) 🥖 🥐
 
 
 -----------------
