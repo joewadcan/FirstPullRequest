@@ -25,7 +25,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Desouki, Ismail
       
-- [ ] Di Vico, Tommaso
+- [X] Di Vico, Tommaso 🎷⚽️ (@tommasodvc)
       
 - [ ] Do, Nicholas
       
