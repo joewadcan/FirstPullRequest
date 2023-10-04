@@ -47,7 +47,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Muhammad, Nabeel
       
-- [ ] O'Neill, Neil
+- [X] O'Neill, Neil (@neiloneill) ⛰️ 🚶
       
 - [ ] Park, Sangki
       
