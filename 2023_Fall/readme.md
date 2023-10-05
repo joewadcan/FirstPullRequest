@@ -35,7 +35,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Jung, Lea
       
-- [ ] Kim, Amariss
+- [X] Kim, Amariss (@amarisskim1) 🐰🌷
       
 - [ ] Kleffke, Konstantin
       
