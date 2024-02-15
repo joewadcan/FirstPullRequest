@@ -21,7 +21,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Arthur, Kwamina
 
-- [ ] Artiagoitia, Inigo
+- [X] Artiagoitia, Inigo (@iartiagoitia) 🤿🏔️
 
 - [ ] Blackwell, Kelly
 
