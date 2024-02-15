@@ -39,7 +39,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Giroux, Cam
 
-- [ ] Godoy, Tara
+- [ x] Godoy, Tara github EMT2SBSN emoji emoji!!
 
 - [ ] Gopalkrishnan, Shilpa
 
