@@ -25,7 +25,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Blackwell, Kelly
 
-- [ ] Chansangavej, Pam
+- [X] Chansangavej, Pam (@pamchansan314) 🤿🍦
 
 - [ ] Chen, Fengyi
 
