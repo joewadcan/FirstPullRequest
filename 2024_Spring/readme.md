@@ -31,7 +31,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Co, Georgine
 
-- [ ] Davuluri, Tarun
+- [x] Davuluri, Tarun 🧞‍♂️🚀
 
 - [ ] Doherty, Connor
 
