@@ -101,7 +101,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Wilson, Isaiah
 
-- [ ] Wong, William
+- [X] Wong, William (@jedhightide) 🌊🏂🏄
 
 - [ ] Xu, Ke
 
