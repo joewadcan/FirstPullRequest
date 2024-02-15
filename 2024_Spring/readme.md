@@ -91,7 +91,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Su, Charles
 
-- [ ] Ten-Pow, Kaya
+- [x] Ten-Pow, Kaya (@ktenpow) 💃 🖤 🇬🇾
 
 - [ ] Tran, Arthur
 
