@@ -49,7 +49,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Intoccia, Sarah
 
-- [ ] Kavtaradze, Megi
+- [X] Kavtaradze, Megi (MegiKavtaradze) 🔥 🍫 🚀
 
 - [ ] Klawitter, Jorelle
 
