@@ -89,7 +89,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Steinberg, Cole
 
-- [ ] Su, Charles
+- [X] Su, Charles (@SealaneC) 🚀 🌔
 
 - [ ] Ten-Pow, Kaya
 
