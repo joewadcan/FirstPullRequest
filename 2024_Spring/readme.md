@@ -57,7 +57,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lee, Sean
 
-- [ ] Levi, Hadas
+- [ ] Levi, Hadas (@hadas1921) ⛵🏂
 
 - [ ] Li, Zhen
 
