@@ -19,7 +19,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Arora, Himanshi
 
-- [ ] Arthur, Kwamina
+- [X] Arthur, Kwamina (@keahga) 🇬🇭 👾
 
 - [ ] Artiagoitia, Inigo
 
