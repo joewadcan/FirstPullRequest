@@ -43,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Gopalkrishnan, Shilpa
 
-- [ ] Han, William
+- [x] Han, William (@copperstick6) 🐐 🤘
 
 - [ ] Huang, Roger
 
