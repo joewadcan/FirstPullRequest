@@ -19,9 +19,9 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Arora, Himanshi
 
-- [ ] Arthur, Kwamina
+- [X] Arthur, Kwamina (@keahga) 🇬🇭 👾
 
-- [ ] Artiagoitia, Inigo
+- [X] Artiagoitia, Inigo (@iartiagoitia) 🤿🏔️
 
 - [ ] Blackwell, Kelly
 
@@ -29,7 +29,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Chen, Fengyi
 
-- [ ] Co, Georgine
+- [X] Co, Georgine (@georgineco) ⛰️🌊
 
 - [ ] Davuluri, Tarun
 
@@ -37,75 +37,75 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Garg, Vikas
 
-- [ ] Giroux, Cam
+- [x] Giroux, Cam (@cgir-glitch) 🍕
 
 - [ ] Godoy, Tara
 
 - [ ] Gopalkrishnan, Shilpa
 
-- [ ] Han, William
+- [x] Han, William (@copperstick6) 🐐 🤘
 
 - [ ] Huang, Roger
 
-- [ ] Intoccia, Sarah
+- [X] Intoccia, Sarah (@sintoccia) 💃🎤 
 
 - [ ] Kavtaradze, Megi
 
 - [ ] Klawitter, Jorelle
 
-- [ ] Lee, Hyelin
+- [x] Lee, Hyelin (@hyelinlee0925) 👽🥇
 
 - [X] Lee, Sean (@kioni808) 🌀
 
-- [ ] Levi, Hadas
+- [ ] Levi, Hadas (@hadas1921) ⛵🏂
 
-- [ ] Li, Zhen
+- [X] Li, Zhen (@lizhen639) 🏀📝
 
-- [ ] Moulton, Patrick
+- [X] Moulton, Patrick (@moultonp1)👌😎
 
-- [ ] Nangia, Anica
+- [X] Nangia, Anica (@anicanangia) 🐉
 
 - [ ] Nanji, Ali
 
-- [ ] Naqvi, Mohammad
+- [x] Naqvi, Mohammad (@mohammadnaqvi2024) 💸
 
 - [ ] Owensby, Elliott
 
 - [ ] Patni, Tanisha
 
-- [ ] Perez, Roberto
+- [X] Perez, Roberto (@robperch) 🐐🌲
 
 - [ ] Shrestha, AB
 
-- [ ] Singal, Namit
+- [x] Singal, Namit (@lavishlullaby) 💻🩹
 
 - [ ] Singh, Manas
 
 - [ ] Singla, Pallavi
 
-- [ ] Soni, Anupam
+- [X] Soni, Anupam (@anupamsoni123) 🦁❤️‍🔥
 
-- [ ] Souvannakoumane, Tiger
+- [x] Souvannakoumane, Tiger (@madebytiger) 🐅🙈
 
 - [ ] Steinberg, Cole
 
-- [ ] Su, Charles
+- [X] Su, Charles (@SealaneC) 🚀 🌔
 
-- [ ] Ten-Pow, Kaya
+- [x] Ten-Pow, Kaya (@ktenpow) 💃 🖤 🇬🇾
 
-- [ ] Tran, Arthur
+- [X] Tran, Arthur (@atran-berkeley) 🐶✨
 
 - [ ] Ukadike, Chifum
 
-- [ ] Vatsadze, Natia
+- [ x] Vatsadze, Natia (@nvatsadze) 🙃😶‍🌫️
 
-- [ ] Wilson, Isaiah
+- [x] Wilson, Isaiah (@iwil1201) ⚫✔️👨‍🎓
 
-- [ ] Wong, William
+- [X] Wong, William (@jedhightide) 🌊🏂🏄
 
 - [ ] Xu, Ke
 
-- [ ] Zhu, Michelle 
+- [X] Zhu, Michelle (@michellezhu331) 🍳🍟
 
 
 -----------------
