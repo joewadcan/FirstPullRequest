@@ -99,7 +99,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Vatsadze, Natia
 
-- [ ] Wilson, Isaiah
+- [x] Wilson, Isaiah (@iwil1201) ⚫✔️👨‍🎓
 
 - [X] Wong, William (@jedhightide) 🌊🏂🏄
 
