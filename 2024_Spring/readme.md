@@ -79,7 +79,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x] Singal, Namit (@lavishlullaby) 💻🩹
 
-- [ ] Singh, Manas
+- [X] Singh, Manas (@singhmanas1) 😵‍💫 💛
 
 - [x] Singla, Pallavi (@psinglap) 😵‍💫 💛 🤠 💫 💭
 
