@@ -35,7 +35,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Doherty, Connor
 
-- [X] Garg, Vikas 💰🏖
+- [X] Garg, Vikas (@vikasgargbear) 💰🏖
 
 - [ ] Giroux, Cam
 
