@@ -41,7 +41,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Godoy, Tara
 
-- [ ] Gopalkrishnan, Shilpa
+- [x] Gopalkrishnan, Shilpa (@shilpa-gopal-krishnan) 🤠
 
 - [x] Han, William (@copperstick6) 🐐 🤘
 
