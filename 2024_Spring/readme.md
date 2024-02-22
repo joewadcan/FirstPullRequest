@@ -75,7 +75,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Perez, Roberto (@robperch) 🐐🌲
 
-- [ ] Shrestha, AB
+- [X] Shrestha, AB (@ab-shrestha) ✌️🫶🫰
 
 - [x] Singal, Namit (@lavishlullaby) 💻🩹
 
