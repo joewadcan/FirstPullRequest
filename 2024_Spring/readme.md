@@ -61,7 +61,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Li, Zhen
 
-- [ ] Moulton, Patrick
+- [X] Moulton, Patrick (@moultonp1)👌😎
 
 - [ ] Nangia, Anica
 
