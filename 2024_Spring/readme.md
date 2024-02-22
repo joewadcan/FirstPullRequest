@@ -59,7 +59,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Levi, Hadas (@hadas1921) ⛵🏂
 
-- [ ] Li, Zhen
+- [X] Li, Zhen (@lizhen639) 🏀📝
 
 - [X] Moulton, Patrick (@moultonp1)👌😎
 
