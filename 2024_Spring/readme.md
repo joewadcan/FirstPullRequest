@@ -23,7 +23,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Artiagoitia, Inigo (@iartiagoitia) 🤿🏔️
 
-- [ ] Blackwell, Kelly
+- [x] Blackwell, Kelly (@blackweka11) 🧑‍🍳 🍟
 
 - [X] Chansangavej, Pam (@pamchansan314) 🤿🍦
 
