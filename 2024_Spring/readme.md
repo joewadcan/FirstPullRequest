@@ -97,7 +97,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Ukadike, Chifum (@aukadike)👁️🤟
 
-- [ x] Vatsadze, Natia (@nvatsadze) 🙃😶‍🌫️
+- [x] Vatsadze, Natia (@nvatsadze) 🙃😶‍🌫️
 
 - [x] Wilson, Isaiah (@iwil1201) ⚫✔️👨‍🎓
 
