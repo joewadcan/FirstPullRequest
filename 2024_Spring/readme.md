@@ -15,7 +15,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Wadcan, Joe (@joewadcan) 🚀 🌔
 
-- [ ] Alencar Moreira de Sousa, Rebeca
+- [x] Alencar Moreira de Sousa, Rebeca (@rebecaamsousa) 🇧🇷 💃
 
 - [X] Arora, Himanshi (@Himanshiaa)🍀😃
 
