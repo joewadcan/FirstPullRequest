@@ -39,7 +39,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x] Giroux, Cam (@cgir-glitch) 🍕
 
-- [ ] Godoy, Tara
+- [x] Godoy, Tara (@EMT2BSN) :) 
 
 - [x] Gopalkrishnan, Shilpa (@shilpa-gopal-krishnan) 🤠
 
