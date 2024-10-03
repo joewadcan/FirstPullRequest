@@ -61,7 +61,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Jungkeun Hong
 
-- [ ] Rebecca Hsu
+- [X] Rebecca Hsu 🍾⛲
 
 - [ ] Andrew Hutchinson
 
