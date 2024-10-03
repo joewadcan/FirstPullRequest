@@ -23,7 +23,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Tamilore Bamigboye
 
-- [ ] Danica Barhumi
+- [x ] Danica Barhumi (@danica384) 🚀
 
 - [ ] Alex Belkin
 
