@@ -91,7 +91,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Stephanie Scheid
 
-- [ ] Neil Shah
+- [x] Neil Shah (@nshah1998) 💯 🏏
 
 - [ ] Vishakha Sharma
 
