@@ -53,7 +53,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Darren Freedman
 
-- [ ] Javier Friedlaender
+- [ ] Javier Friedlaender 😉
 
 - [ ] Seonhong Gim
 
