@@ -49,7 +49,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Abdullah Farqaleet
 
-- [ ] Kyle Frank
+- [x] Kyle Frank (kfrank249) 
 
 - [ ] Darren Freedman
 
