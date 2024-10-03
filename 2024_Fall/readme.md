@@ -17,7 +17,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ramin Abbasov
       
-- [x] Jamal Adan (StartupNinja01) 🚀👀😁✈️
+- [x] Jamal Adan (@StartupNinja01) 🚀👀😁✈️
       
 - [ ] Hector Alamillo
       
