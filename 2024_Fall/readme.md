@@ -105,7 +105,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Sabrina Tan
 
-- [ ] Wayne Tsai
+- [X] Wayne Tsai (@wayne0933) 💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦💦
 
 - [ ] Gonzalo Vasquez
 
