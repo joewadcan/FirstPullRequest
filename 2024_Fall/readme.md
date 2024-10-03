@@ -107,7 +107,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Wayne Tsai
 
-- [ ] Gonzalo Vasquez (gonzalovn93) 👨‍💻💥
+- [X] Gonzalo Vasquez (gonzalovn93) 👨‍💻💥
 
 - [ ] Juan Yruegas Almanza
 
