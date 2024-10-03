@@ -103,7 +103,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Juan Tamayo Lopera
 
-- [ ] Sabrina Tan
+- [x] Sabrina Tan (@Sabrinatan) 💸 🌏
 
 - [ ] Wayne Tsai
 
