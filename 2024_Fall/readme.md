@@ -29,7 +29,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Clayton Caldwell
 
-- [ ] Joshua Chang
+- [X] Joshua Chang (@airchang78) 🐶 🐼 🤙
 
 - [ ] JC Chen
 
