@@ -17,25 +17,25 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Ramin Abbasov
       
-- [ ] Jamal Adan
+- [x] Jamal Adan (@StartupNinja01) 🚀👀😁✈️
       
-- [ ] Hector Alamillo
+- [X] Hector Alamillo (@hectoralamo) 🪨 🫘
       
 - [ ] Tamilore Bamigboye
 
-- [ ] Danica Barhumi
+- [x ] Danica Barhumi (@danica384) 🚀
 
 - [ ] Alex Belkin
 
 - [ ] Clayton Caldwell
 
-- [ ] Joshua Chang
+- [X] Joshua Chang (@airchang78) 🐶 🐼 🤙
 
 - [ ] JC Chen
 
 - [ ] Shin Chen
 
-- [ ] Dario Chiozza
+- [X] Dario Chiozza (@dcintrotocode) 🚀
 
 - [ ] Kaylee Choi
 
@@ -55,7 +55,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Javier Friedlaender
 
-- [ ] Seonhong Gim
+- [X] Seonhong Gim (@Seonhonggim) 🚀
 
 - [ ] Beyonce Haseley-Ayende
 
@@ -63,11 +63,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Rebecca Hsu
 
-- [ ] Andrew Hutchinson
+- [x] Andrew Hutchinson (@AJHutchinson09) 🍻🇬🇧🍻
 
 - [ ] Danny Kcomt
 
-- [ ] Susie Know
+- [x] Susie Know (@susieberkeleycoding) 🌕🌓🌙🌔🌑
 
 - [ ] Sebastian Krappe
 
@@ -103,15 +103,15 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Juan Tamayo Lopera 🤸🦀
 
-- [ ] Sabrina Tan
+- [x] Sabrina Tan (@Sabrinatan) 💸 🌏
 
 - [ ] Wayne Tsai
 
-- [ ] Gonzalo Vasquez
+- [X] Gonzalo Vasquez (gonzalovn93) 👨‍💻💥
 
 - [ ] Juan Yruegas Almanza
 
-- [ ] Jichi Zhang
+- [X] Jichi Zhang (Flowerandsalt) 🐈
 
 - [ ] Brian Zhu
 
