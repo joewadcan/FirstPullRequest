@@ -101,7 +101,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Daiki Takai
 
-- [X] Juan Tamayo Lopera 🤸🦀
+- [X] Juan Tamayo Lopera (@JuandaTL) 🤸🦀
 
 - [x] Sabrina Tan (@Sabrinatan) 💸 🌏
 
