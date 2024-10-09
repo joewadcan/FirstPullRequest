@@ -87,7 +87,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Rogerio Rios
 
-- [ ] Dario Rodriguez Torres
+- [X] Dario Rodriguez Torres (@Dario-rt77) 🚀💙
 
 - [ ] Stephanie Scheid
 
