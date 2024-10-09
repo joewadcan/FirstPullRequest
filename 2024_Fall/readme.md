@@ -81,7 +81,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x] Delaney Overton @delaney-overton-berkeley 🐻 💛 💙
 
-- [X] Shivani Parikh, neomishivani, :P
+- [X] Shivani Parikh, @neomishivani 💙
 
 - [ ] Devansh Pathak
 
