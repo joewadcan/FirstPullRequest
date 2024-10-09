@@ -13,7 +13,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 # Fall 2024 (by firstname lastname)
 
-- [X] Joe Wadcan (@joewadcan) 🚀 🌔
+- [x] Joe Wadcan (@joewadcan) 🚀 🌔 🪴
 
 - [ ] Ramin Abbasov
       
