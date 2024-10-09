@@ -37,7 +37,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Dario Chiozza (@dcintrotocode) 🚀
 
-- [ ] Kaylee Choi
+- [X] Kaylee Choi (@lemonduckie) 🍋🐥
 
 - [X] Christina Clark (c-n-clk) 🌻⛅
 
