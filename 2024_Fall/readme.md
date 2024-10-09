@@ -99,7 +99,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Erik Swisher
 
-- [ ] Daiki Takai
+- [X] Daiki Takai :🍆🥒🌮🍑
 
 - [X] Juan Tamayo Lopera (@JuandaTL) 🤸🦀
 
