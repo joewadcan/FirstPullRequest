@@ -59,7 +59,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Beyonce Haseley-Ayende
 
-- [ ] Jungkeun Hong
+- [X] Jungkeun Hong (@jungkeunhong) 🐻🐻🐻
 
 - [ ] Rebecca Hsu
 
