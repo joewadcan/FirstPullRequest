@@ -33,7 +33,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] JC Chen
 
-- [ ] Shin Chen
+- [X] Shin Chen 🚀💙
 
 - [X] Dario Chiozza (@dcintrotocode) 🚀
 
