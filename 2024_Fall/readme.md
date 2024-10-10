@@ -43,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Celia Clements (CeliaClements) 🐙
 
-- [ ] Chase Contreras
+- [x ] Chase Contreras 🏄@chasecontreras
 
 - [X] Lucas Costa Machado - @machadolcosta 🥸
 
