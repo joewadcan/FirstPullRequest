@@ -15,29 +15,29 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔
 
-- [ ] Ramin Abbasov
+- [x] Ramin Abbasov (@Ramin-bit) 🥑 
       
 - [x] Jamal Adan (@StartupNinja01) 🚀👀😁✈️
       
 - [X] Hector Alamillo (@hectoralamo) 🪨 🫘
       
-- [ ] Tamilore Bamigboye
+- [X] Tamilore Bamigboye (@Tamilonaire)🙌👌😎
 
 - [x ] Danica Barhumi (@danica384) 🚀
 
-- [ ] Alex Belkin
-
+- [X] Alex Belkin (@avb219) 🏄‍♂️ 🐻 🎿
+        
 - [ ] Clayton Caldwell
 
 - [X] Joshua Chang (@airchang78) 🐶 🐼 🤙
 
-- [ ] JC Chen
+- [X] JC Chen (@jeffcc412) 🍦😎
 
-- [ ] Shin Chen
+- [X] Shin Chen (@shinshinoob) ⭐⭐
 
 - [X] Dario Chiozza (@dcintrotocode) 🚀
 
-- [ ] Kaylee Choi
+- [X] Kaylee Choi (@lemonduckie) 🍋🐥
 
 - [X] Christina Clark (c-n-clk) 🌻⛅
 
@@ -45,23 +45,23 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Chase Contreras
 
-- [ ] Lucas Costa Machado
+- [X] Lucas Costa Machado - @machadolcosta 🥸
 
-- [ ] Abdullah Farqaleet
+- [x] Abdullah Farqaleet (@abdulfar) 🚀
 
 - [x] Kyle Frank (kfrank249) 
 
-- [ ] Darren Freedman
+- [X] Darren Freedman (@dkfreedman) 🤡
 
-- [ ] Javier Friedlaender
+- [X] Javier Friedlaender (@javierfried) 🖖🏻
 
 - [X] Seonhong Gim (@Seonhonggim) 🚀
 
 - [ ] Beyonce Haseley-Ayende
 
-- [ ] Jungkeun Hong
+- [X] Jungkeun Hong (@jungkeunhong) 🐻🐻🐻
 
-- [ ] Rebecca Hsu
+- [X] Rebecca Hsu (@Rebecca0824) 🍾⛲
 
 - [x] Andrew Hutchinson (@AJHutchinson09) 🍻🇬🇧🍻
 
@@ -71,23 +71,23 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Sebastian Krappe
 
-- [ ] Zohair Lalani
+- [X] Zohair Lalani (@zohairlalani) 🚀
 
-- [ ] Esha Lalwani
+- [X] Esha Lalwani (@misfit126) 🥲
 
-- [ ] Martin Lima
+- [x] Martin Lima (@martinplima) 🇧🇷🙂
 
 - [ ] Josep Maria Mabres
 
 - [x] Delaney Overton @delaney-overton-berkeley 🐻 💛 💙
 
-- [ ] Shivani Parikh
+- [X] Shivani Parikh, @neomishivani 💙
 
-- [ ] Devansh Pathak
+- [X] Devansh Pathak (@devpath56) 🐻🚀
 
 - [ ] Rogerio Rios
 
-- [ ] Dario Rodriguez Torres
+- [X] Dario Rodriguez Torres (@Dario-rt77) 🚀💙
 
 - [ ] Stephanie Scheid
 
@@ -97,7 +97,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lijun Shen
 
-- [ ] Erik Swisher
+- [X] Erik Swisher 🤙@eswisher
 
 - [ ] Daiki Takai
 
