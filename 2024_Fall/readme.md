@@ -77,7 +77,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x] Martin Lima (@martinplima) 🇧🇷🙂
 
-- [ ] Josep Maria Mabres
+- [x] Josep Maria Mabres (@josemabres94) 🛩️🗻
 
 - [x] Delaney Overton @delaney-overton-berkeley 🐻 💛 💙
 
