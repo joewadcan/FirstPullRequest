@@ -25,8 +25,8 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x ] Danica Barhumi (@danica384) 🚀
 
-- [ ] Alex Belkin
-
+- [X] Alex Belkin (@avb219) 🏄‍♂️ 🐻 🎿
+        
 - [ ] Clayton Caldwell
 
 - [X] Joshua Chang (@airchang78) 🐶 🐼 🤙
