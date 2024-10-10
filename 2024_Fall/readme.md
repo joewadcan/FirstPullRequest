@@ -41,7 +41,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Christina Clark (c-n-clk) 🌻⛅
 
-- [ ] Celia Clements
+- [X] Celia Clements (CeliaClements) 🐙
 
 - [ ] Chase Contreras
 
