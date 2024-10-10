@@ -97,7 +97,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lijun Shen
 
-- [ ] Erik Swisher
+- [X] Erik Swisher 🤙@eswisher
 
 - [ ] Daiki Takai
 
