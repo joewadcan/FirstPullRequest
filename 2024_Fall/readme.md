@@ -113,7 +113,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Jichi Zhang (Flowerandsalt) 🐈
 
-- [X] Brian Zhu 📱🥇
+- [X] Brian Zhu (@BrianZhu-Berkeley)📱🥇
 
 
 -----------------
