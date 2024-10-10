@@ -111,7 +111,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Juan Yruegas Almanza
 
-- [X] Jichi Zhang (Flowerandsalt) 🐈
+- [X] Jichi Zhang (@Flowerandsalt) 🐈
 
 - [ ] Brian Zhu
 
