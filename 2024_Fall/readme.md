@@ -47,7 +47,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [ ] Lucas Costa Machado
 
-- [ ] Abdullah Farqaleet
+- [x] Abdullah Farqaleet (@abdulfar) 🚀
 
 - [ ] Kyle Frank
 
