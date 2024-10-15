@@ -23,7 +23,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Tamilore Bamigboye (@Tamilonaire)🙌👌😎
 
-- [x ] Danica Barhumi (@danica384) 🚀
+- [X] Danica Barhumi (@danica384) 🚀
 
 - [X] Alex Belkin (@avb219) 🏄‍♂️ 🐻 🎿
         
