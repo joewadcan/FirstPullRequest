@@ -109,7 +109,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Gonzalo Vasquez (gonzalovn93) 👨‍💻💥
 
-- [ ] Juan Yruegas Almanza
+- [X] Juan Yruegas Almanza 🇲🇽🎮 @jryruegas92
 
 - [X] Jichi Zhang (@Flowerandsalt) 🐈
 
