@@ -115,6 +115,8 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Brian Zhu (@BrianZhu-Berkeley)📱🥇
 
+- [X] Beyonce Haseley-Ayende (@beyonceramira) ☺️👾
+
 
 -----------------
 
