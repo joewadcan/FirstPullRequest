@@ -89,7 +89,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Dario Rodriguez Torres (@Dario-rt77) 🚀💙
 
-- [ ] Stephanie Scheid
+- [X] Stephanie Scheid (@StephScheidStack9) 🌻
 
 - [x] Neil Shah (@nshah1998) 💯 🏏
 
