@@ -14,108 +14,71 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 # Spring 2025 (by firstname lastname)
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔
-      
-- [X] Heyun Jeong (@heyunjeong) ✨💛🐻
-      
-- [ ] Anshul Aggarwal
 
-- [ ] Tamilore Bamigboye
-
-- [ ] Makai Brook
-
-- [ ] Christian Brumme
-
-- [ ] Cynthia Brzezinski
-
-- [ ] Joaquin Burmester
-
-- [ ] Sophia Busam
-
+- [ ] Travis Bautista
+       
 - [ ] Mengqi Chen
-
-- [ ] Shin Chen
-
-- [ ] Wayne Chung
-
-- [ ] Chase Contreras
-
-- [ ] Isabel DElia
-
-- [ ] Meg DeMarsh
-
-- [ ] Testimony Elendu
-
-- [ ] Remy Freire
-
-- [ ] Javier Friedlaender
-
-- [ ] Fernando Gonzalez Demaria
-
-- [ ] Anna Gurney
-
-- [ ] Frank He
-
-- [ ] James Hobern
-
-- [ ] Samuel Hodara
-
-- [ ] Rebecca Hsu
-
-- [ ] Wesley Huang
-
-- [ ] Quentin Jester
-
-- [ ] Harry Jiang
-
-- [ ] James Kelsey
-
-- [ ] Erfan Kohyarnejadfard
-
-- [ ] Hugo Kostelni
-
+      
+- [ ] Arjun Deiva Sigamani
+      
+- [ ] Shipra Dogra
+      
+- [ ] Ephraim Duvbiama
+      
+- [ ] Daniel Espinoza Birman
+      
+- [ ] Chi-Chi Ezenwa
+      
+- [ ] Louis Gao
+      
+- [ ] Matias Garib
+      
+- [ ] Rejath George
+      
+- [ ] Stephanie Giaretta
+      
+- [ ] Gina Greenwalt
+      
+- [ ] Puneet Grover
+      
+- [ ] Chen Huang
+      
+- [ ] Kon Huta
+      
+- [ ] Ali Imrani
+      
+- [ ] Joon In
+      
+- [ ] Heyun Jeong
+      
+- [ ] Sanggeol Kim
+      
+- [ ] Ally Kozel
 - [ ] Sharon Kuan
-
-- [ ] Jonathan Lapadula
-
+- [ ] Zainab Kumandan
+- [ ] Luca Lavorini
 - [ ] Chen-Hsin Lee
-
-- [ ] Nathan Lee
-
-- [ ] Megan Lew
-
-- [ ] Kim Lou
-
-- [ ] Aboo Baker Mohammedi
-
-- [ ] Pablo Moreno
-
-- [ ] Aya Nagai
-
-- [ ] Lynda Negron
-
-- [ ] Peter Oke
-
-- [ ] Zachary Quart
-
-- [ ] Randi Roy
-
-- [ ] Vlad Silchenko
-
-- [ ] Sitara Sriram
-
-- [ ] Sabrina Tan
-
-- [ ] Luis Torrealba
-
-- [ ] Natalie Tussy
-
-- [ ] Chifum Ukadike
-
-- [ ] Joy Wang
-
+- [ ] Jade Lee
+- [ ] Michael Logan
+- [ ] Titan Loo
+- [ ] Will Lukach
+- [ ] Jerome Martel-Thibault
+- [ ] Thiago Mascarenhas Martins da Costa
+- [ ] Sanjeev Durgappa Mechannavar
+- [ ] Prachi Mehta
+- [ ] Blessing Ojeh
+- [ ] Shusuke Owatari
+- [ ] Pippa Saunders
+- [ ] Brittany Sharp
+- [ ] William Smart
+- [ ] Lyzett Solis Chavez
+- [ ] Gaurang Sumra
+- [ ] Renzo Viale
+- [ ] Anthony Zhang
 - [ ] Naichi Zhang
+- [ ] Janice Zhou
 
-- [ ] Julius Zinke
+
 
 -----------------
 
