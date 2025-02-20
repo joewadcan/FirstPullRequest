@@ -79,7 +79,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Pippa Saunders
 - [ ] Brittany Sharp
 - [ ] William Smart
-- [ ] Lyzett Solis Chavez
+- [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
 - [ ] Gaurang Sumra
 - [ ] Renzo Viale
 - [ ] Anthony Zhang
