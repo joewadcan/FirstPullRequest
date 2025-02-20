@@ -81,7 +81,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] William Smart
 - [ ] Lyzett Solis Chavez
 - [ ] Gaurang Sumra
-- [ ] Renzo Viale
+- [x] Renzo Viale (@renzoviale) 👾
 - [ ] Anthony Zhang
 - [ ] Naichi Zhang
 - [ ] Janice Zhou
