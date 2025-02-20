@@ -19,7 +19,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Kyle Bell
       
-- [ ] Cecilia Beltranena Larrave
+- [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
       
 - [ ] Griffin Carroll
       
