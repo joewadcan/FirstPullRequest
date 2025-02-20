@@ -80,7 +80,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Brittany Sharp
 - [ ] William Smart
 - [ ] Lyzett Solis Chavez
-- [ ] Gaurang Sumra
+- [X] Gaurang Sumra 😄😎
 - [ ] Renzo Viale
 - [ ] Anthony Zhang
 - [ ] Naichi Zhang
