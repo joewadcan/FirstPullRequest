@@ -27,7 +27,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Mengqi Chen
       
-- [ ] Arjun Deiva Sigamani
+- [X] Arjun Deiva Sigamani, @arjundeiva, Arjun Deiva Sigamani 🤑
       
 - [ ] Shipra Dogra
       
