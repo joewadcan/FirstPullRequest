@@ -75,7 +75,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Sanjeev Durgappa Mechannavar
 - [ ] Prachi Mehta
 - [ ] Blessing Ojeh
-- [ ] Shusuke Owatari
+- [x] Shusuke Owatari(@Shu-Owa) 🏄 🐻 🚶🎾🥁
 - [ ] Pippa Saunders
 - [ ] Brittany Sharp
 - [ ] William Smart
