@@ -31,8 +31,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Shipra Dogra
       
-- [ ] Ephraim Duvbiama
-      
+- [ ] Ephraim Duvbiama (@MajorEph) 🕺🏾🫥👀
 - [ ] Daniel Espinoza Birman
       
 - [ ] Chi-Chi Ezenwa
