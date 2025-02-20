@@ -69,7 +69,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Jade Lee
 - [ ] Michael Logan
 - [ ] Titan Loo
-- [ ] Will Lukach
+- [x] Will Lukach (@Williamlukach) 🚀🍺
 - [ ] Jerome Martel-Thibault
 - [ ] Thiago Mascarenhas Martins da Costa
 - [ ] Sanjeev Durgappa Mechannavar
