@@ -66,7 +66,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Zainab Kumandan
 - [ ] Luca Lavorini
 - [ ] Chen-Hsin Lee
-- [ ] Jade Lee
+- [x] Jade Lee @jadeberkeley 💚💛🐶
 - [ ] Michael Logan
 - [ ] Titan Loo
 - [ ] Will Lukach
