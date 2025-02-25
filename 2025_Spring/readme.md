@@ -41,7 +41,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Matias Garib matias-garib 🏄🍺🐧 
       
-- [ ] Rejath George
+- [X] Rejath George (@rejathgeorge-lab) ✌🏽😎
       
 - [ ] Stephanie Giaretta
       
@@ -62,11 +62,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Sanggeol Kim
       
 - [ ] Ally Kozel
-- [x] Zainab Kumandan (@zainabkumandan) 😆
 - [X] Sharon Kuan @skuan1119 😆🕶️
+- [ ] Zainab Kumandan
 - [X] Luca Lavorini [@LucaLavorini] 🚀
 - [ ] Chen-Hsin Lee
-- [x] Jade Lee @jadeberkeley 💚💛🐶
+- [ ] Jade Lee
 - [ ] Michael Logan
 - [X] Titan Loo (@TITANARCHI) 🚀
 - [ ] Will Lukach
