@@ -72,7 +72,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Will Lukach
 - [ ] Jerome Martel-Thibault
 - [ ] Thiago Mascarenhas Martins da Costa
-- [ ] Sanjeev Durgappa Mechannavar
+- [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
 - [x] Blessing Ojeh (@bojeh11)💃🎇🌹
 - [x] Prachi Mehta (@prachimehtajk)🔥 💫
 
