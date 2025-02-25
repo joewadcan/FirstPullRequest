@@ -73,8 +73,9 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Jerome Martel-Thibault
 - [ ] Thiago Mascarenhas Martins da Costa
 - [ ] Sanjeev Durgappa Mechannavar
+- [x] Blessing Ojeh (@bojeh11)💃🎇🌹
 - [x] Prachi Mehta (@prachimehtajk)🔥 💫
-- [ ] Blessing Ojeh
+
 - [ ] Shusuke Owatari
 - [ ] Pippa Saunders
 - [ ] Brittany Sharp
