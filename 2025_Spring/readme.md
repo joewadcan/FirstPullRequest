@@ -14,108 +14,81 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 # Spring 2025 (by firstname lastname)
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔
+
+- [ ] Travis Bautista
       
 - [X] Jamal Adan (@jamaladan) 😂 🏎️
+- [ ] Kyle Bell
       
-- [ ] Anshul Aggarwal
-
-- [ ] Tamilore Bamigboye
-
-- [ ] Makai Brook
-
-- [ ] Christian Brumme
-
-- [ ] Cynthia Brzezinski
-
-- [ ] Joaquin Burmester
-
-- [ ] Sophia Busam
-
+- [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
+      
+- [ ] Griffin Carroll
+      
+- [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
+      
 - [ ] Mengqi Chen
-
-- [ ] Shin Chen
-
-- [ ] Wayne Chung
-
-- [ ] Chase Contreras
-
-- [ ] Isabel DElia
-
-- [ ] Meg DeMarsh
-
-- [ ] Testimony Elendu
-
-- [ ] Remy Freire
-
-- [ ] Javier Friedlaender
-
-- [ ] Fernando Gonzalez Demaria
-
-- [ ] Anna Gurney
-
-- [ ] Frank He
-
-- [ ] James Hobern
-
-- [ ] Samuel Hodara
-
-- [ ] Rebecca Hsu
-
-- [ ] Wesley Huang
-
-- [ ] Quentin Jester
-
-- [ ] Harry Jiang
-
-- [ ] James Kelsey
-
-- [ ] Erfan Kohyarnejadfard
-
-- [ ] Hugo Kostelni
-
-- [ ] Sharon Kuan
-
-- [ ] Jonathan Lapadula
-
+      
+- [ ] Arjun Deiva Sigamani
+      
+- [ ] Shipra Dogra
+      
+- [ ] Ephraim Duvbiama
+      
+- [ ] Daniel Espinoza Birman
+      
+- [ ] Chi-Chi Ezenwa
+      
+- [ ] Louis Gao
+      
+- [X] Matias Garib matias-garib 🏄🍺🐧 
+      
+- [ ] Rejath George
+      
+- [X] Stephanie Giaretta (@stephgiaretta) 😸 🐱 🐈 😻
+      
+- [X] Gina Greenwalt (@omgina) 🎉 💻
+      
+- [ ] Puneet Grover
+      
+- [ ] Chen Huang
+      
+- [ ] Kon Huta
+      
+- [X] Ali Imrani (@ali-imrani)  ✨ 🚀 😄
+      
+- [ ] Joon In
+      
+- [X] Heyun Jeong (@heyunjeong) 🌸⚡️
+      
+- [ ] Sanggeol Kim
+      
+- [ ] Ally Kozel
+- [x] Zainab Kumandan (@zainabkumandan) 😆
+- [X] Sharon Kuan @skuan1119 😆🕶️
+- [X] Luca Lavorini [@LucaLavorini] 🚀
 - [ ] Chen-Hsin Lee
+- [x] Jade Lee @jadeberkeley 💚💛🐶
+- [ ] Michael Logan
+- [X] Titan Loo (@TITANARCHI) 🚀
+- [ ] Will Lukach
+- [ ] Jerome Martel-Thibault
+- [ ] Thiago Mascarenhas Martins da Costa
+- [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
+- [x] Blessing Ojeh (@bojeh11)💃🎇🌹
+- [x] Prachi Mehta (@prachimehtajk)🔥 💫
 
-- [ ] Nathan Lee
-
-- [ ] Megan Lew
-
-- [ ] Kim Lou
-
-- [ ] Aboo Baker Mohammedi
-
-- [ ] Pablo Moreno
-
-- [ ] Aya Nagai
-
-- [ ] Lynda Negron
-
-- [ ] Peter Oke
-
-- [ ] Zachary Quart
-
-- [ ] Randi Roy
-
-- [ ] Vlad Silchenko
-
-- [ ] Sitara Sriram
-
-- [ ] Sabrina Tan
-
-- [ ] Luis Torrealba
-
-- [ ] Natalie Tussy
-
-- [ ] Chifum Ukadike
-
-- [ ] Joy Wang
-
+- [ ] Shusuke Owatari
+- [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
+- [ ] Brittany Sharp
+- [ ] William Smart
+- [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
+- [ ] Gaurang Sumra
+- [ ] Renzo Viale
+- [ ] Anthony Zhang
 - [ ] Naichi Zhang
+- [ ] Janice Zhou
+- [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
 
-- [ ] Julius Zinke
 
 -----------------
 
