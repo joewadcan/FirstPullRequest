@@ -43,7 +43,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Rejath George
       
-- [ ] Stephanie Giaretta
+- [X] Stephanie Giaretta (@stephgiaretta) 😸 🐱 🐈 😻
       
 - [X] Gina Greenwalt (@omgina) 🎉 💻
       
