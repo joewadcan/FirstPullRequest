@@ -19,11 +19,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Kyle Bell
       
-- [ ] Cecilia Beltranena Larrave
+- [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
       
 - [ ] Griffin Carroll
       
-- [ ] Leslie Castro Martino
+- [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
       
 - [ ] Mengqi Chen
       
@@ -39,13 +39,13 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Louis Gao
       
-- [ ] Matias Garib
+- [X] Matias Garib matias-garib 🏄🍺🐧 
       
 - [ ] Rejath George
       
 - [ ] Stephanie Giaretta
       
-- [ ] Gina Greenwalt
+- [X] Gina Greenwalt (@omgina) 🎉 💻
       
 - [ ] Puneet Grover
       
@@ -53,39 +53,41 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Kon Huta
       
-- [ ] Ali Imrani
+- [X] Ali Imrani (@ali-imrani)  ✨ 🚀 😄
       
 - [ ] Joon In
       
-- [ ] Heyun Jeong
+- [X] Heyun Jeong (@heyunjeong) 🌸⚡️
       
 - [ ] Sanggeol Kim
       
 - [ ] Ally Kozel
-- [ ] Sharon Kuan
-- [ ] Zainab Kumandan
-- [ ] Luca Lavorini
+- [x] Zainab Kumandan (@zainabkumandan) 😆
+- [X] Sharon Kuan @skuan1119 😆🕶️
+- [X] Luca Lavorini [@LucaLavorini] 🚀
 - [ ] Chen-Hsin Lee
-- [ ] Jade Lee
 - [X] Michael Logan 🫄
-- [ ] Titan Loo
+- [x] Jade Lee @jadeberkeley 💚💛🐶
+- [ ] Michael Logan
+- [X] Titan Loo (@TITANARCHI) 🚀
 - [ ] Will Lukach
 - [ ] Jerome Martel-Thibault
 - [ ] Thiago Mascarenhas Martins da Costa
-- [ ] Sanjeev Durgappa Mechannavar
-- [ ] Prachi Mehta
-- [ ] Blessing Ojeh
+- [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
+- [x] Blessing Ojeh (@bojeh11)💃🎇🌹
+- [x] Prachi Mehta (@prachimehtajk)🔥 💫
+
 - [ ] Shusuke Owatari
-- [ ] Pippa Saunders
+- [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
 - [ ] Brittany Sharp
 - [ ] William Smart
-- [ ] Lyzett Solis Chavez
+- [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
 - [ ] Gaurang Sumra
 - [ ] Renzo Viale
 - [ ] Anthony Zhang
 - [ ] Naichi Zhang
 - [ ] Janice Zhou
-
+- [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
 
 
 -----------------
