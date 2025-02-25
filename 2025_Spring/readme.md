@@ -86,7 +86,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Anthony Zhang
 - [ ] Naichi Zhang
 - [ ] Janice Zhou
-
+- [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
 
 
 -----------------
