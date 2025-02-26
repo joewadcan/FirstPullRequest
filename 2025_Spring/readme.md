@@ -19,11 +19,11 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Kyle Bell
       
-- [ ] Cecilia Beltranena Larrave
+- [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
       
 - [ ] Griffin Carroll
       
-- [ ] Leslie Castro Martino
+- [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
       
 - [ ] Mengqi Chen
       
@@ -32,59 +32,62 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [ ] Shipra Dogra
       
 - [X] Ephraim Duvbiama (@MajorEph) 🕺🏾🫥👀
-- [ ] Daniel Espinoza Birman
+      
+- [X] Daniel Espinoza Birman (@despinozab) 🎸
       
 - [ ] Chi-Chi Ezenwa
       
-- [ ] Louis Gao
+- [x] Louis Gao @dont-give-up-the-ship 🚢⚓💃
       
-- [ ] Matias Garib
+- [X] Matias Garib matias-garib 🏄🍺🐧 
       
-- [ ] Rejath George
+- [X] Rejath George @rejathgeorge-lab 🤞🏾😎
       
-- [ ] Stephanie Giaretta
+- [X] Stephanie Giaretta (@stephgiaretta) 😸 🐱 🐈 😻
       
-- [ ] Gina Greenwalt
+- [X] Gina Greenwalt (@omgina) 🎉 💻
       
 - [ ] Puneet Grover
       
-- [ ] Chen Huang
+- [X] Chen Huang (@huang451) 🪗🧮😄
       
 - [ ] Kon Huta
       
-- [ ] Ali Imrani
+- [X] Ali Imrani (@ali-imrani)  ✨ 🚀 😄
       
-- [ ] Joon In
+- [X] Joon In (@joonhin) 😶🔥
       
-- [ ] Heyun Jeong
+- [X] Heyun Jeong (@heyunjeong) 🌸⚡️
       
 - [ ] Sanggeol Kim
       
 - [ ] Ally Kozel
-- [ ] Sharon Kuan
-- [ ] Zainab Kumandan
-- [ ] Luca Lavorini
+- [x] Zainab Kumandan (@zainabkumandan) 😆
+- [X] Sharon Kuan @skuan1119 😆🕶️
+- [X] Luca Lavorini [@LucaLavorini] 🚀
 - [ ] Chen-Hsin Lee
-- [ ] Jade Lee
+- [x] Jade Lee @jadeberkeley 💚💛🐶
 - [ ] Michael Logan
-- [ ] Titan Loo
-- [ ] Will Lukach
+
+- [x] Will Lukach (@Williamlukach) 🚀🍺
+- [X] Titan Loo (@TITANARCHI) 🚀
 - [ ] Jerome Martel-Thibault
 - [ ] Thiago Mascarenhas Martins da Costa
-- [ ] Sanjeev Durgappa Mechannavar
-- [ ] Prachi Mehta
-- [ ] Blessing Ojeh
+- [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
+- [x] Blessing Ojeh (@bojeh11)💃🎇🌹
+- [x] Prachi Mehta (@prachimehtajk)🔥 💫
+
 - [ ] Shusuke Owatari
-- [ ] Pippa Saunders
+- [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
 - [ ] Brittany Sharp
 - [ ] William Smart
-- [ ] Lyzett Solis Chavez
+- [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
 - [ ] Gaurang Sumra
 - [ ] Renzo Viale
 - [ ] Anthony Zhang
 - [ ] Naichi Zhang
 - [ ] Janice Zhou
-
+- [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
 
 
 -----------------
