@@ -37,7 +37,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Chi-Chi Ezenwa
       
-- [ ] Louis Gao
+- [x] Louis Gao @dont-give-up-the-ship 🚢⚓💃
       
 - [X] Matias Garib matias-garib 🏄🍺🐧 
       
