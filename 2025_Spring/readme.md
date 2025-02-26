@@ -47,7 +47,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Gina Greenwalt
       
-- [X] Puneet Grover (pgrover95) 🤓 💃 🍻 💸
+- [X] Puneet Grover (@pgrover95) 🤓 💃 🍻 💸
       
 - [ ] Chen Huang
       
