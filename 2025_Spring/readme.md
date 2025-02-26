@@ -25,7 +25,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
       
-- [ ] Mengqi Chen
+- [X] Mengqi Chen (@SupermaggieC) 🦉
       
 - [ ] Arjun Deiva Sigamani
       
