@@ -55,7 +55,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Ali Imrani (@ali-imrani)  ✨ 🚀 😄
       
-- [ ] Joon In
+- [X] Joon In (@joonhin) 😶🔥
       
 - [X] Heyun Jeong (@heyunjeong) 🌸⚡️
       
