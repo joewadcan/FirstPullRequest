@@ -61,7 +61,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [ ] Sanggeol Kim
       
-- [ ] Ally Kozel
+- [X] Ally Kozel (@allykozel) 👡💅🏼💛
 - [x] Zainab Kumandan (@zainabkumandan) 😆
 - [X] Sharon Kuan @skuan1119 😆🕶️
 - [X] Luca Lavorini [@LucaLavorini] 🚀
