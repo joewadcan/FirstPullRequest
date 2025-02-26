@@ -81,8 +81,8 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [X] Brittany Sharp (@brittsteers) 🙈🏂🤩
 - [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
 - [ ] William Smart
+- [X] Gaurang Sumra (@gaurangsumra) 😄😎
 - [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
-- [ ] Gaurang Sumra
 - [ ] Renzo Viale
 - [x] Anthony Zhang (anthonyzhang0203) 💙✈️🪐😙
 - [ ] Naichi Zhang
