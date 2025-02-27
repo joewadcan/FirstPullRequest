@@ -15,21 +15,21 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔
 
-- [ ] Travis Bautista
+- [X] Travis Bautista (@travisrbautista) 🤙🏽⛷️ 
       
 - [X] Kyle Bell (@kylebell-haas) 😄 💬 👌
       
 - [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
       
-- [ ] Griffin Carroll
+- [X] Griffin Carroll (@GMCarroll1993) 👾 🚀
       
 - [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
       
-- [ ] Mengqi Chen
+- [X] Mengqi Chen (@SupermaggieC) 🦉🪓
       
-- [ ] Arjun Deiva Sigamani
+- [X] Arjun Deiva Sigamani, @arjundeiva, Arjun Deiva Sigamani 🤑
       
-- [ ] Shipra Dogra
+- [X] Shipra Dogra (@ShipraItc) 💻✨
       
 - [X] Ephraim Duvbiama (@MajorEph) 🕺🏾🫥👀
       
@@ -47,7 +47,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Gina Greenwalt (@omgina) 🎉 💻
       
-- [ ] Puneet Grover
+- [X] Puneet Grover (@pgrover95) 🤓 💃 🍻 💸
       
 - [X] Chen Huang (@huang451) 🪗🧮😄
       
@@ -65,29 +65,31 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 - [x] Zainab Kumandan (@zainabkumandan) 😆
 - [X] Sharon Kuan @skuan1119 😆🕶️
 - [X] Luca Lavorini [@LucaLavorini] 🚀
+- [X] Michael Logan 🫄 (@MichaelLogan99)
 - [X] Chen-Hsin Lee (@chenhsinlee531) 🥑🐱
 - [x] Jade Lee @jadeberkeley 💚💛🐶
 - [ ] Michael Logan
 
 - [x] Will Lukach (@Williamlukach) 🚀🍺
 - [X] Titan Loo (@TITANARCHI) 🚀
-- [ ] Jerome Martel-Thibault
-- [ ] Thiago Mascarenhas Martins da Costa
+- [x] Shusuke Owatari(@Shu-Owa) 🏄 🐻 🚶🎾🥁
+- [X] Thiago Mascarenhas Martins da Costa (@thiagommcosta) 🚀😄
+- [X] Jerome Martel-Thibault 🐶🚀🤩 (@jeromemartelt)
 - [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
 - [x] Blessing Ojeh (@bojeh11)💃🎇🌹
 - [x] Prachi Mehta (@prachimehtajk)🔥 💫
-
 - [ ] Shusuke Owatari
 - [x] William Smart (@wsmart14) 🍺🍺🍺
 - [X] Brittany Sharp (@brittsteers) 🙈🏂🤩
 - [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
+- [X] Gaurang Sumra (@gaurangsumra) 😄😎
 - [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
-- [ ] Gaurang Sumra
 - [ ] Renzo Viale
 - [x] Anthony Zhang (anthonyzhang0203) 💙✈️🪐😙
 - [ ] Naichi Zhang
 - [x] Janice Zhou (@Janice0329)💫
 - [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
+- [x] Ken Mizuno (ken99100) 😄😈😎
 
 
 -----------------
