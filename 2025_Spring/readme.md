@@ -72,12 +72,12 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [x] Will Lukach (@Williamlukach) 🚀🍺
 - [X] Titan Loo (@TITANARCHI) 🚀
+- [x] Shusuke Owatari(@Shu-Owa) 🏄 🐻 🚶🎾🥁
 - [X] Thiago Mascarenhas Martins da Costa (@thiagommcosta) 🚀😄
 - [X] Jerome Martel-Thibault 🐶🚀🤩 (@jeromemartelt)
 - [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
 - [x] Blessing Ojeh (@bojeh11)💃🎇🌹
 - [x] Prachi Mehta (@prachimehtajk)🔥 💫
-- [ ] Shusuke Owatari
 - [X] Brittany Sharp (@brittsteers) 🙈🏂🤩
 - [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
 - [ ] William Smart
