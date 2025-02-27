@@ -15,77 +15,80 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔
 
-- [ ] Travis Bautista
+- [X] Travis Bautista (@travisrbautista) 🤙🏽⛷️ 
       
-- [ ] Kyle Bell
+- [X] Kyle Bell (@kylebell-haas) 😄 💬 👌
       
 - [X] Cecilia Beltranena Larrave (@beltranenac) 🌙⭐💃🎵✈️
       
-- [ ] Griffin Carroll
+- [X] Griffin Carroll (@GMCarroll1993) 👾 🚀
       
 - [X] Leslie Castro Martino (@LesCastro) 🚀 🇦🇷 💃 😄 
       
-- [ ] Mengqi Chen
+- [X] Mengqi Chen (@SupermaggieC) 🦉🪓
       
-- [ ] Arjun Deiva Sigamani
+- [X] Arjun Deiva Sigamani, @arjundeiva, Arjun Deiva Sigamani 🤑
       
 - [ ] Shipra Dogra
       
-- [ ] Ephraim Duvbiama
+- [X] Ephraim Duvbiama (@MajorEph) 🕺🏾🫥👀
       
-- [ ] Daniel Espinoza Birman
+- [X] Daniel Espinoza Birman (@despinozab) 🎸
       
-- [ ] Chi-Chi Ezenwa
+- [X] Chi-Chi Ezenwa 🗻 🥾 🏕️ (@iconically1)
       
-- [ ] Louis Gao
+- [x] Louis Gao @dont-give-up-the-ship 🚢⚓💃
       
 - [X] Matias Garib matias-garib 🏄🍺🐧 
       
-- [ ] Rejath George
+- [X] Rejath George @rejathgeorge-lab 🤞🏾😎
       
 - [X] Stephanie Giaretta (@stephgiaretta) 😸 🐱 🐈 😻
       
 - [X] Gina Greenwalt (@omgina) 🎉 💻
       
-- [ ] Puneet Grover
+- [X] Puneet Grover (@pgrover95) 🤓 💃 🍻 💸
       
-- [ ] Chen Huang
+- [X] Chen Huang (@huang451) 🪗🧮😄
       
-- [ ] Kon Huta
+- [X] Kon Huta @konhuta :shipit: 😃
       
 - [X] Ali Imrani (@ali-imrani)  ✨ 🚀 😄
       
-- [ ] Joon In
+- [X] Joon In (@joonhin) 😶🔥
       
 - [X] Heyun Jeong (@heyunjeong) 🌸⚡️
       
-- [ ] Sanggeol Kim
+- [X] Sanggeol Kim (@anthonysgkim) 😎
       
 - [ ] Ally Kozel
 - [x] Zainab Kumandan (@zainabkumandan) 😆
 - [X] Sharon Kuan @skuan1119 😆🕶️
 - [X] Luca Lavorini [@LucaLavorini] 🚀
-- [ ] Chen-Hsin Lee
+- [X] Michael Logan 🫄 (@MichaelLogan99)
+- [X] Chen-Hsin Lee (@chenhsinlee531) 🥑🐱
 - [x] Jade Lee @jadeberkeley 💚💛🐶
 - [ ] Michael Logan
+
+- [x] Will Lukach (@Williamlukach) 🚀🍺
 - [X] Titan Loo (@TITANARCHI) 🚀
-- [ ] Will Lukach
-- [ ] Jerome Martel-Thibault
 - [X] Thiago Mascarenhas Martins da Costa (@thiagommcosta) 🚀😄
+- [X] Jerome Martel-Thibault 🐶🚀🤩 (@jeromemartelt)
 - [X] Sanjeev Durgappa Mechannavar (@sanjeevsm27) 🏎️ 📖
 - [x] Blessing Ojeh (@bojeh11)💃🎇🌹
 - [x] Prachi Mehta (@prachimehtajk)🔥 💫
 - [ ] Shusuke Owatari
+- [X] Brittany Sharp (@brittsteers) 🙈🏂🤩
 - [X] Pippa Saunders (@pippasaunders) 😄🤽‍♀️🏖️
-- [ ] Brittany Sharp
 - [ ] William Smart
+- [X] Gaurang Sumra (@gaurangsumra) 😄😎
 - [x] Lyzett Solis Chavez (@lyzetts) 🤠🌺🐄🌊
-- [ ] Gaurang Sumra
 - [ ] Renzo Viale
-- [ ] Anthony Zhang
+- [x] Anthony Zhang (anthonyzhang0203) 💙✈️🪐😙
 - [ ] Naichi Zhang
-- [ ] Janice Zhou
+- [x] Janice Zhou (@Janice0329)💫
 - [x] Jonathan Calkins (@dogalarmclocks) 💥🔥
+- [x] Ken Mizuno (ken99100) 😄😈😎
 
 
 -----------------
