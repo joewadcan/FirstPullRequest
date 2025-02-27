@@ -29,7 +29,7 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
       
 - [X] Arjun Deiva Sigamani, @arjundeiva, Arjun Deiva Sigamani 🤑
       
-- [ ] Shipra Dogra
+- [X] Shipra Dogra (@ShipraItc) 💻✨
       
 - [X] Ephraim Duvbiama (@MajorEph) 🕺🏾🫥👀
       
