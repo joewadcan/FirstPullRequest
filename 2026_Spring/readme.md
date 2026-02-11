@@ -15,6 +15,113 @@ Make the Pull Request against changing the file in _my repo_ (not your fork). I 
 
 - [X] Joe Wadcan (@joewadcan) 🚀 🌔 🍋
 
+- [ ] Ade Hidayat
+      
+- [ ] Alan Tsai
+      
+- [ ] Alexa Buckley
+      
+- [ ] Asun Oka
+      
+- [ ] Atacan Salis
+      
+- [ ] Aya Nagai
+      
+- [ ] Ayoung Cho
+      
+- [ ] Brendon Bagley
+      
+- [ ] Camden Snowden
+      
+- [ ] Christian Graff
+      
+- [ ] Cory La Roe
+      
+- [ ] Daniella Bernstein
+      
+- [ ] Ehren (Yuan-Hsun) Chang
+      
+- [ ] Emma Benjamin
+      
+- [ ] George Margetson-Rushmore
+      
+- [ ] Graciela De Leon
+      
+- [ ] Jacob Janzen
+      
+- [ ] James Takami
+      
+- [ ] Jasper Wang
+      
+- [ ] Jimmy Lin
+      
+- [ ] Joaquin Burmester
+      
+- [ ] John Eagen
+      
+- [ ] John Wells
+      
+- [ ] Juan Carlos Rojas Encinas
+      
+- [ ] Kanika Sharma
+      
+- [ ] Karolline Maciel Mariano
+      
+- [ ] Kevin Astuhuaman Flores
+      
+- [ ] Kimberly Saiyo
+      
+- [ ] Krithika Kumar
+      
+- [ ] Lauren Watts
+      
+- [ ] Matthew Tsai
+      
+- [ ] Matthew Wong
+      
+- [ ] Mauricio Iriondo
+      
+- [ ] Michelle Le
+      
+- [ ] Missy Martin
+      
+- [ ] Nikita Damle
+      
+- [ ] Patrick Monfort
+      
+- [ ] Raymond Spencer
+      
+- [ ] Rena Li
+      
+- [ ] Roshan Ravikumar
+      
+- [ ] Sebastian Bardacosta Artagaveytia
+      
+- [ ] Sergio Afif Doring
+      
+- [ ] Shawn Trabanino
+      
+- [ ] Shinyoung Kim
+      
+- [ ] Sofi Trexler
+      
+- [ ] Steven Kim
+      
+- [ ] Sunny Hsu
+      
+- [ ] Tianie Scott
+      
+- [ ] Vittorio Dini
+      
+- [ ] Vrinda Bansal
+      
+- [ ] Wendy Rasmussen
+      
+- [ ] Yidi Li
+      
+- [ ] Yu Jin Jeong
+      
+- [ ] Yun Fu
 
 
 
